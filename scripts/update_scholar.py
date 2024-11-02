@@ -5,7 +5,7 @@ import os
 def update_scholar_stats():
   try:
       # Replace with your Google Scholar ID
-      SCHOLAR_ID = 'W-Ij6voAAAAJ&hl=en'
+      SCHOLAR_ID = 'W-Ij6voAAAAJ&hl'
       
       # Search for the author
       author = scholarly.search_author_id(SCHOLAR_ID)
