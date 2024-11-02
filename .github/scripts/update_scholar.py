@@ -45,6 +45,7 @@ def update_scholar_stats():
               'title': filled_pub['bib']['title'],
               'year': filled_pub['bib'].get('pub_year', 'Year Unknown'),
               'journal': venue,
+              'citation': filled_pub['bib'].get('citation', ''),
               'url': filled_pub.get('pub_url', '#'),
               'authors': filled_pub['bib'].get('author', [])
           }

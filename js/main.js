@@ -108,7 +108,7 @@ async function updatePublications() {
         publicationList.innerHTML = '';
         
         if (data.recent_publications && data.recent_publications.length > 0) {
-            data.recent_publications.forEach(pub => {
+            data.recent_publications.forEach((pub, index) => {
                 const pubDiv = document.createElement('div');
                 pubDiv.className = 'publication-item';
                 pubDiv.setAttribute('data-aos', 'fade-up');
@@ -116,7 +116,14 @@ async function updatePublications() {
                 pubDiv.innerHTML = `
                     <div class="publication-year">${pub.year}</div>
                     <h3><a href="${pub.url}" target="_blank">${pub.title}</a></h3>
-                    <p>${pub.journal}</p>
+                    <p class="journal">${pub.journal}</p>
+                    <p class="citation">${pub.citation}</p>
+                    <button class="abstract-toggle" onclick="toggleAbstract(${index})">
+                        Show Abstract
+                    </button>
+                    <div class="abstract" id="abstract-${index}" style="display: none;">
+                        ${pub.abstract}
+                    </div>
                 `;
                 
                 publicationList.appendChild(pubDiv);
@@ -124,6 +131,19 @@ async function updatePublications() {
         }
     } catch (error) {
         console.error('Error updating publications:', error);
+    }
+}
+
+function toggleAbstract(index) {
+    const abstractDiv = document.getElementById(`abstract-${index}`);
+    const button = abstractDiv.previousElementSibling;
+    
+    if (abstractDiv.style.display === 'none') {
+        abstractDiv.style.display = 'block';
+        button.textContent = 'Hide Abstract';
+    } else {
+        abstractDiv.style.display = 'none';
+        button.textContent = 'Show Abstract';
     }
 }
 
