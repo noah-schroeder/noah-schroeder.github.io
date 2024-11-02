@@ -14,7 +14,39 @@ window.addEventListener('scroll', function() {
     }
 });
 
-// Scroll effects for header and profile image
+// Optional: Parallax effect for header
+window.addEventListener('scroll', function() {
+    const scrolled = window.pageYOffset;
+    const header = document.querySelector('header');
+    if (header) {
+        header.style.transform = `translateY(${scrolled * 0.5}px)`;
+    }
+});
+
+// Add active state to navigation links based on scroll position
+window.addEventListener('scroll', function() {
+    const sections = document.querySelectorAll('section');
+    const navLinks = document.querySelectorAll('.nav-links a');
+    
+    let current = '';
+
+    sections.forEach(section => {
+        const sectionTop = section.offsetTop;
+        const sectionHeight = section.clientHeight;
+        if (pageYOffset >= sectionTop - 200) {
+            current = section.getAttribute('id');
+        }
+    });
+
+    navLinks.forEach(link => {
+        link.classList.remove('active');
+        if (link.getAttribute('href').slice(1) === current) {
+            link.classList.add('active');
+        }
+    });
+});
+
+// Fade effect for header and profile image
 window.addEventListener('scroll', function() {
     const header = document.querySelector('header');
     const profileImage = document.querySelector('.profile-image-container');
@@ -49,13 +81,10 @@ async function updateScholarStats() {
         }
         const data = await response.json();
         
-        // Update stats
         document.getElementById('citation-count').textContent = data.citations;
         document.getElementById('publication-count').textContent = data.publications;
         document.getElementById('h-index').textContent = data.h_index;
         document.getElementById('last-updated').textContent = data.last_updated;
-        
-        console.log('Scholar stats updated successfully');
     } catch (error) {
         console.error('Error fetching scholar stats:', error);
     }
@@ -63,25 +92,21 @@ async function updateScholarStats() {
 
 async function updatePublications() {
     try {
-        console.log('Starting to fetch publications...');
         const response = await fetch('./assets/data/scholar_stats.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
         
         const data = await response.json();
-        console.log('Fetched publication data:', data);
-        
         const publicationList = document.getElementById('recent-publications');
+        
         if (!publicationList) {
             console.error('Publication list container not found!');
             return;
         }
         
-        // Clear existing publications
         publicationList.innerHTML = '';
         
-        // Add new publications
         if (data.recent_publications && data.recent_publications.length > 0) {
             data.recent_publications.forEach(pub => {
                 const pubDiv = document.createElement('div');
@@ -95,18 +120,10 @@ async function updatePublications() {
                 `;
                 
                 publicationList.appendChild(pubDiv);
-                console.log('Added publication:', pub.title);
             });
-        } else {
-            console.log('No publications found in data');
-            publicationList.innerHTML = '<p>No recent publications found.</p>';
         }
     } catch (error) {
         console.error('Error updating publications:', error);
-        const publicationList = document.getElementById('recent-publications');
-        if (publicationList) {
-            publicationList.innerHTML = '<p>Error loading publications. Please try again later.</p>';
-        }
     }
 }
 
@@ -131,6 +148,14 @@ document.addEventListener('DOMContentLoaded', function() {
             });
         });
     }
+
+    // Close menu when clicking outside
+    document.addEventListener('click', function(e) {
+        if (!hamburger.contains(e.target) && !navLinks.contains(e.target)) {
+            hamburger.classList.remove('active');
+            navLinks.classList.remove('active');
+        }
+    });
 
     // Smooth scrolling
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
