@@ -18,7 +18,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install scholarly
       - name: Update stats
-        run: python .github/workflows/update_scholar.py
+        run: python .github/scripts/update_scholar.py
       - name: Commit and push if changed
         run: |
           git config --global user.email "action@github.com"
