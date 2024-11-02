@@ -4,6 +4,16 @@ from datetime import datetime
 import os
 import sys
 
+def extract_journal_from_citation(citation):
+  if not citation:
+      return 'Publication Venue Not Available'
+  
+  # Split by comma and take the first part (usually contains the journal name)
+  parts = citation.split(',')
+  if len(parts) > 0:
+      return parts[0].strip()
+  return 'Publication Venue Not Available'
+
 def update_scholar_stats():
   try:
       # Replace with your Google Scholar profile ID
@@ -27,15 +37,9 @@ def update_scholar_stats():
       for i, pub in enumerate(publications[:3]):
           filled_pub = scholarly.fill(pub)
           
-          # Debug print - let's see ALL available fields
-          print("\nFull publication data:")
-          print(json.dumps(filled_pub['bib'], indent=2))
-          
-          # Get venue information
-          venue = (filled_pub['bib'].get('source') or 
-                  filled_pub['bib'].get('journal') or 
-                  filled_pub['bib'].get('venue') or 
-                  'Publication Venue Not Available')
+          # Extract journal name from citation field
+          citation = filled_pub['bib'].get('citation', '')
+          venue = extract_journal_from_citation(citation)
           
           pub_data = {
               'title': filled_pub['bib']['title'],
@@ -47,11 +51,11 @@ def update_scholar_stats():
           stats['recent_publications'].append(pub_data)
           
           # Debug print
-          print(f"\nProcessed publication:")
+          print(f"\nProcessing publication:")
           print(f"Title: {pub_data['title']}")
           print(f"Year: {pub_data['year']}")
-          print(f"Venue: {pub_data['journal']}")
-          print("Available fields:", list(filled_pub['bib'].keys()))
+          print(f"Citation: {citation}")
+          print(f"Extracted Venue: {venue}")
           print("---")
           
       # Create data directory if it doesn't exist

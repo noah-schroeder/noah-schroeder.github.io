@@ -262,6 +262,20 @@ section {
     color: #666;
 }
 
+
+.publication-item .journal {
+    color: #4a5568;
+    font-weight: 500;
+    margin: 0.5rem 0;
+}
+
+.publication-item .citation {
+    color: #718096;
+    font-size: 0.9rem;
+    margin: 0.25rem 0;
+    font-style: italic;
+}
+
 /* Contact Section */
 .contact-section {
     background: var(--light-bg);
