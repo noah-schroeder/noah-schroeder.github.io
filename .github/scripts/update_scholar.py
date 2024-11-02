@@ -27,9 +27,14 @@ def update_scholar_stats():
       for i, pub in enumerate(publications[:3]):
           filled_pub = scholarly.fill(pub)
           
-          # Get venue from 'source' field
+          # Debug print - let's see ALL available fields
+          print("\nFull publication data:")
+          print(json.dumps(filled_pub['bib'], indent=2))
+          
+          # Get venue information
           venue = (filled_pub['bib'].get('source') or 
                   filled_pub['bib'].get('journal') or 
+                  filled_pub['bib'].get('venue') or 
                   'Publication Venue Not Available')
           
           pub_data = {
@@ -42,9 +47,11 @@ def update_scholar_stats():
           stats['recent_publications'].append(pub_data)
           
           # Debug print
-          print(f"\nProcessing publication: {pub_data['title']}")
+          print(f"\nProcessed publication:")
+          print(f"Title: {pub_data['title']}")
           print(f"Year: {pub_data['year']}")
           print(f"Venue: {pub_data['journal']}")
+          print("Available fields:", list(filled_pub['bib'].keys()))
           print("---")
           
       # Create data directory if it doesn't exist
