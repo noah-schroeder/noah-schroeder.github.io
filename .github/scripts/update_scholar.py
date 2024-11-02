@@ -27,7 +27,24 @@ def update_scholar_stats():
       }
       
       print(f"Processed stats: {stats}")
+
+      # Get 3 most recent publications
+      for i, pub in enumerate(author['publications'][:3]):
+          filled_pub = scholarly.fill(pub)
+          pub_data = {
+              'title': filled_pub['bib']['title'],
+              'year': filled_pub['bib'].get('pub_year', 'N/A'),
+              'journal': filled_pub['bib'].get('journal', 'N/A'),
+              'url': filled_pub.get('pub_url', '#')
+          }
+          stats['recent_publications'].append(pub_data)
       
+      # Save to JSON
+      with open('assets/data/scholar_stats.json', 'w', encoding='utf-8') as f:
+          json.dump(stats, f, ensure_ascii=False, indent=2)
+
+
+
       # Save to the root directory
       os.makedirs('assets/data', exist_ok=True)
       output_path = 'assets/data/scholar_stats.json'

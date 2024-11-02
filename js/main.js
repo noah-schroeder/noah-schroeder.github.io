@@ -161,6 +161,45 @@ async function updateScholarStats() {
     }
 }
 
+async function updatePublications() {
+    try {
+        const response = await fetch('/website/assets/data/scholar_stats.json');
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        
+        const data = await response.json();
+        const publicationList = document.getElementById('recent-publications');
+        
+        // Clear existing publications
+        publicationList.innerHTML = '';
+        
+        // Add new publications
+        data.recent_publications.forEach(pub => {
+            const pubDiv = document.createElement('div');
+            pubDiv.className = 'publication-item';
+            pubDiv.setAttribute('data-aos', 'fade-up');
+            
+            pubDiv.innerHTML = `
+                <div class="publication-year">${pub.year}</div>
+                <h3><a href="${pub.url}" target="_blank">${pub.title}</a></h3>
+                <p>${pub.journal}</p>
+            `;
+            
+            publicationList.appendChild(pubDiv);
+        });
+        
+    } catch (error) {
+        console.error('Error updating publications:', error);
+    }
+}
+
+// Add this to your existing DOMContentLoaded listener
+document.addEventListener('DOMContentLoaded', () => {
+    updateScholarStats();
+    updatePublications();
+});
+
 // Call when page loads
 document.addEventListener('DOMContentLoaded', updateScholarStats);
 });
