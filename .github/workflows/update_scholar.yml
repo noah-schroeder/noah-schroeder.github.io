@@ -1,12 +1,14 @@
 name: Update Scholar Stats
 on:
-schedule:
-    - cron: '0 0 * * *'  # Runs once per day
-  workflow_dispatch:        # This enables manual triggers
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v2
       
