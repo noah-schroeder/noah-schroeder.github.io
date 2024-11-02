@@ -121,5 +121,38 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
     <script src="js/main.js"></script>
+
+
+
+
+
+<script>
+    async function updateScholarStats() {
+        try {
+            console.log('Attempting to fetch scholar stats...');
+            const response = await fetch('/assets/data/scholar_stats.json');
+            
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            
+            const data = await response.json();
+            console.log('Fetched scholar stats:', data);
+            
+            // Update your HTML elements
+            document.getElementById('citation-count').textContent = data.citations;
+            document.getElementById('publication-count').textContent = data.publications;
+            document.getElementById('h-index').textContent = data.h_index;
+            document.getElementById('last-updated').textContent = data.last_updated;
+            
+            console.log('Updated DOM elements successfully');
+        } catch (error) {
+            console.error('Error fetching scholar stats:', error);
+        }
+    }
+    
+    // Call when page loads
+    document.addEventListener('DOMContentLoaded', updateScholarStats);
+    </script>
 </body>
 </html>
