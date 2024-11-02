@@ -130,7 +130,7 @@
     async function updateScholarStats() {
         try {
             console.log('Attempting to fetch scholar stats...');
-            const response = await fetch('/assets/data/scholar_stats.json');
+            const response = await fetch('/website/assets/data/scholar_stats.json');
             
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
