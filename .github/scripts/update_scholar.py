@@ -22,7 +22,6 @@ def update_scholar_stats():
           json.dump(stats, f)
   except Exception as e:
         print(f"Error: {str(e)}", file=sys.stderr)
-      raise e
 
 if __name__ == "__main__":
   updateScholarStats()
