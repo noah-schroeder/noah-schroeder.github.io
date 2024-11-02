@@ -146,5 +146,21 @@ async function updateScholarStats() {
 
 // Call when page loads
 document.addEventListener('DOMContentLoaded', updateScholarStats);
+async function updateScholarStats() {
+    try {
+        const response = await fetch('/assets/data/scholar_stats.json');
+        const data = await response.json();
+        
+        // Update your HTML elements
+        document.getElementById('citation-count').textContent = data.citations;
+        document.getElementById('publication-count').textContent = data.publications;
+        document.getElementById('h-index').textContent = data.h_index;
+        document.getElementById('last-updated').textContent = data.last_updated;
+    } catch (error) {
+        console.error('Error fetching scholar stats:', error);
+    }
+}
 
+// Call when page loads
+document.addEventListener('DOMContentLoaded', updateScholarStats);
 });
