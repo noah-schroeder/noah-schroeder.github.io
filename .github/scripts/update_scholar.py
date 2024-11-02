@@ -24,4 +24,4 @@ def update_scholar_stats():
         print(f"Error: {str(e)}", file=sys.stderr)
 
 if __name__ == "__main__":
-  updateScholarStats()
+  update_scholar_stats()
