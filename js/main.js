@@ -116,13 +116,12 @@ async function updatePublications() {
                 pubDiv.innerHTML = `
                     <div class="publication-year">${pub.year}</div>
                     <h3><a href="${pub.url}" target="_blank">${pub.title}</a></h3>
-                    <p class="journal">${pub.journal}</p>
-                    <p class="citation">${pub.citation}</p>
+                    <p class="Journal">${pub.citation || 'Citation not available'}</p>
                     <button class="abstract-toggle" onclick="toggleAbstract(${index})">
                         Show Abstract
                     </button>
                     <div class="abstract" id="abstract-${index}" style="display: none;">
-                        ${pub.abstract}
+                        ${pub.abstract || 'Abstract not available'}
                     </div>
                 `;
                 
