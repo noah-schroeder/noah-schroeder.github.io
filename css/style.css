@@ -475,3 +475,162 @@ section {
     color: #666;
 }
 
+.experience-section {
+    padding: 80px 2rem 0;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.experience-item {
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    border-left: 3px solid #2c3e50;
+    background-color: #ffffff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease;
+}
+
+.experience-item:hover {
+    transform: translateX(5px);
+}
+
+.experience-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+}
+
+.company-info {
+    flex: 1;
+}
+
+.company-name {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #2c3e50;
+    margin-bottom: 0.5rem;
+}
+
+.job-title {
+    font-size: 1.1rem;
+    color: #34495e;
+    font-weight: 500;
+    margin-left: 40px;
+}
+
+.employment-period {
+    color: #7f8c8d;
+    font-size: 0.9rem;
+    white-space: nowrap;
+}
+
+.job-description {
+    color: #555;
+    line-height: 1.6;
+}
+
+.responsibilities {
+    margin-top: 1rem;
+    padding-left: 1.2rem;
+}
+
+.responsibilities li {
+    margin-bottom: 0.5rem;
+    position: relative;
+}
+
+.responsibilities li::before {
+    content: "•";
+    color: #2c3e50;
+    position: absolute;
+    left: -1.2rem;
+}
+
+@media (max-width: 768px) {
+    .experience-header {
+        flex-direction: column;
+    }
+    
+    .employment-period {
+        margin-top: 0.5rem;
+    }
+}
+
+.education-section {
+    padding: 80px 2rem 0;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.education-item {
+    margin-bottom: 0;
+    padding: 1.5rem;
+    border-left: 3px solid #3498db; /* Different color from experience section */
+    background-color: #ffffff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease;
+}
+
+.education-item:hover {
+    transform: translateX(5px);
+}
+
+.degree-header {
+    margin-bottom: 0;
+}
+
+.degree-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #3498db;
+    margin-bottom: 0;
+}
+
+.degree-subject {
+    font-size: 1.1rem;
+    color: #34495e;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.university-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 0;
+}
+
+.university-name {
+    font-size: 1.1rem;
+    color: #2c3e50;
+    margin-bottom: 0;
+}
+
+.graduation-year {
+    color: #7f8c8d;
+    font-size: 0.9rem;
+    margin-bottom: 0;
+}
+
+.advisor-info {
+    color: #555;
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.advisor-label {
+    font-weight: 500;
+}
+
+@media (max-width: 768px) {
+    .university-info {
+        flex-direction: column;
+    }
+    
+    .graduation-year {
+        margin-top: 0.25rem;
+    }
+}
+
