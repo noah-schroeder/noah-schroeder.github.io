@@ -2,29 +2,29 @@
   "citations": 2395,
   "h_index": 24,
   "publications": 80,
-  "last_updated": "2024-11-02 18:56:05",
+  "last_updated": "2024-11-02 19:11:14",
   "recent_publications": [
     {
       "title": "Pedagogical agents in K-12 education: a scoping review",
       "year": 2024,
-      "journal": "Journal of Research on Technology in Education",
       "citation": "Journal of Research on Technology in Education, 1-28, 2024",
+      "abstract": "Over the past three decades the field of pedagogical agents (PAs) has seen significant growth, but no review has specifically focused on the design and use of PAs for K-12 students, despite the fact that an early meta-analysis showed that they receive the most benefits from learning from or with PAs. Our systematic search revealed 112 studies that met the inclusion criteria and were analyzed. Our findings revealed a plethora of studies investigating the use of PAs with K-12 populations and a considerable number of longitudinal studies, both of which the field has long stated did not exist in significant numbers. Our findings contrast long-held findings in the field, further support others, and highlight areas where further experimentation and research synthesis are needed.",
       "url": "https://www.tandfonline.com/doi/abs/10.1080/15391523.2024.2381229",
       "authors": "Shan Zhang and Chris Davis Jaldi and Noah L Schroeder and Jessica R Gladstone"
     },
     {
       "title": "Large language models for whole-learner support: opportunities and challenges",
       "year": 2024,
-      "journal": "Frontiers in Artificial Intelligence 7",
       "citation": "Frontiers in Artificial Intelligence 7, 1460364, 2024",
+      "abstract": "In recent years, large language models (LLMs) have seen rapid advancement and adoption, and are increasingly being used in educational contexts. In this perspective article, we explore the open challenge of leveraging LLMs to create personalized learning environments that support the “whole learner” by modeling and adapting to both cognitive and non-cognitive characteristics. We identify three key challenges toward this vision: (1) improving the interpretability of LLMs' representations of whole learners, (2) implementing adaptive technologies that can leverage such representations to provide tailored pedagogical support, and (3) authoring and evaluating LLM-based educational agents. For interpretability, we discuss approaches for explaining LLM behaviors in terms of their internal representations of learners; for adaptation, we examine how LLMs can be used to provide context-aware feedback and scaffold non-cognitive skills through natural language interactions; and for authoring, we highlight the opportunities and challenges involved in using natural language instructions to specify behaviors of educational agents. Addressing these challenges will enable personalized AI tutors that can enhance learning by accounting for each student's unique background, abilities, motivations, and socioemotional needs.",
       "url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1460364/full",
       "authors": "Amogh Mannekote and Adam Davies and Juan D Pinto and Shan Zhang and Daniel Olds and Noah L Schroeder and Blair Lehman and Diego Zapata-Rivera and ChengXiang Zhai"
     },
     {
       "title": "Designing and Learning With Pedagogical Agents: An Umbrella Review",
       "year": 2024,
-      "journal": "Journal of Educational Computing Research",
       "citation": "Journal of Educational Computing Research, 07356331241288476, 2024",
+      "abstract": "Pedagogical agents are virtual characters that instructional designers include in learning environments to help students learn. Research in the area has flourished for thirty years, yet there are still critical questions about the efficacy of pedagogical agents for influencing learning and affect. As such, we conducted an umbrella review to synthesize the field. We located 17 systematic reviews or meta-analyses focused on the use of pedagogical agents in educational settings. We found that agents can have small positive effects on learning, motivation, and other affective variables. However, we still cannot say how one should design a pedagogical agent for any given educational context. We highlight the limitations of existing theory in the area, as well as existing reviews from a practical and methodological perspective, and highlight productive areas for future research.",
       "url": "https://journals.sagepub.com/doi/abs/10.1177/07356331241288476",
       "authors": "Noah L Schroeder and Robert O Davis and Eunbyul Yang"
     }
