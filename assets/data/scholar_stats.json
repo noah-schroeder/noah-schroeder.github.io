@@ -1,7 +1,26 @@
 {
-  "citations": 2394,
-  "publications": 80,
+  "citations": 2395,
   "h_index": 24,
-  "i10_index": 36,
-  "last_updated": "2024-11-02 17:21:14"
+  "publications": 80,
+  "last_updated": "2024-11-02 18:01:41",
+  "recent_publications": [
+    {
+      "title": "How effective are pedagogical agents for learning? A meta-analytic review",
+      "year": 2013,
+      "journal": "N/A",
+      "url": "https://journals.sagepub.com/doi/abs/10.2190/EC.49.1.a"
+    },
+    {
+      "title": "Studying and constructing concept maps: A meta-analysis",
+      "year": 2018,
+      "journal": "N/A",
+      "url": "https://link.springer.com/article/10.1007/s10648-017-9403-9"
+    },
+    {
+      "title": "Spatial contiguity and spatial split-attention effects in multimedia learning environments: A meta-analysis",
+      "year": 2018,
+      "journal": "N/A",
+      "url": "https://link.springer.com/article/10.1007/s10648-018-9435-9"
+    }
+  ]
 }
