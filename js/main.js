@@ -163,7 +163,7 @@ async function updateScholarStats() {
 
 async function updatePublications() {
     try {
-        const response = await fetch('/website/assets/data/scholar_stats.json');
+        const response = await fetch('/assets/data/scholar_stats.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
