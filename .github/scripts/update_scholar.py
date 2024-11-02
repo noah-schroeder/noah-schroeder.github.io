@@ -19,8 +19,9 @@ def update_scholar_stats():
           'last_updated': author_data['updated']
       }
       
-      # Save to the docs folder (or wherever your GitHub Pages site is served from)
-      with open('docs/assets/data/scholar_stats.json', 'w') as f:
+      # Save to the root directory
+      os.makedirs('assets/data', exist_ok=True)
+      with open('assets/data/scholar_stats.json', 'w') as f:
           json.dump(stats, f)
           
   except Exception as e:
