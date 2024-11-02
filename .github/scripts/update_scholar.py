@@ -1,33 +1,24 @@
 from scholarly import scholarly
 import json
+from datetime import datetime
 import os
 import sys
-from datetime import datetime
 
 def update_scholar_stats():
   try:
-      # Your Google Scholar ID
-      SCHOLAR_ID = 'W-Ij6voAAAAJ'
+      # Replace with your Google Scholar profile ID
+      author = scholarly.search_author_id('W-Ij6voAAAAJ')
+      author = scholarly.fill(author)
       
-      print(f"Attempting to fetch data for Scholar ID: {SCHOLAR_ID}")
-      
-      # Search for the author
-      author = scholarly.search_author_id(SCHOLAR_ID)
-      print("Found author, filling data...")
-      
-      author_data = scholarly.fill(author)
-      print("Author data retrieved successfully")
-      
+      # Get basic stats
       stats = {
-          'citations': author_data.get('citedby', 0),
-          'publications': len(author_data.get('publications', [])),
-          'h_index': author_data.get('hindex', 0),
-          'i10_index': author_data.get('i10index', 0),
-          'last_updated': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+          'citations': author['citedby'],
+          'h_index': author['hindex'],
+          'publications': len(author['publications']),
+          'last_updated': datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+          'recent_publications': []
       }
       
-      print(f"Processed stats: {stats}")
-
       # Get 3 most recent publications
       for i, pub in enumerate(author['publications'][:3]):
           filled_pub = scholarly.fill(pub)
@@ -39,23 +30,19 @@ def update_scholar_stats():
           }
           stats['recent_publications'].append(pub_data)
       
-      # Save to JSON
-      with open('assets/data/scholar_stats.json', 'w', encoding='utf-8') as f:
-          json.dump(stats, f, ensure_ascii=False, indent=2)
-
-
-
-      # Save to the root directory
+      # Create data directory if it doesn't exist
       os.makedirs('assets/data', exist_ok=True)
-      output_path = 'assets/data/scholar_stats.json'
       
-      with open(output_path, 'w') as f:
-          json.dump(stats, f, indent=2)
-      
-      print(f"Successfully wrote stats to {output_path}")
+      # Save to JSON using absolute path from repository root
+      json_path = os.path.join(os.getcwd(), 'assets/data/scholar_stats.json')
+      with open(json_path, 'w', encoding='utf-8') as f:
+          json.dump(stats, f, ensure_ascii=False, indent=2)
           
+      print("Successfully updated scholar stats and publications")
+      print(f"JSON file saved to: {json_path}")
+      
   except Exception as e:
-      print(f"Error: {str(e)}", file=sys.stderr)
+      print(f"Error updating scholar stats: {str(e)}")
       raise e
 
 if __name__ == "__main__":
