@@ -105,6 +105,50 @@ nav .container {
     width: 100%;
 }
 
+/* Dropdown Styles */
+.nav-links > li {
+    position: relative; /* Needed for positioning the dropdown */
+}
+
+.dropdown {
+    display: none; /* Hide dropdown by default */
+    position: absolute; /* Position it below the parent */
+    top: 100%; /* Align it directly below the parent item */
+    left: 0; /* Align to the left */
+    background: rgba(255, 255, 255, 0.9); /* Match the navbar background */
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
+    z-index: 1000; /* Ensure it appears above other content */
+    padding: 0;
+    margin: 0
+    border-radius: 4px; /* Optional: round the corners */
+    list-style: none; /* Remove bullet points */
+}
+
+/* Dropdown items */
+.dropdown li {
+    width: 100%; /* Make dropdown items full width */
+}
+
+.dropdown a {
+    display: block; /* Make links block elements */
+    padding: 0.75rem 1.5rem; /* Add padding for dropdown items */
+    color: var(--text-color); /* Use the same text color */
+    font-weight: 500; /* Match font weight */
+    text-decoration: none; /* Remove underline */
+    transition: background 0.3s ease; /* Smooth background transition */
+}
+
+/* Show dropdown on hover */
+.nav-links > li:hover .dropdown {
+    display: block; /* Show dropdown on hover */
+}
+
+/* Change background color on hover */
+.dropdown a:hover {
+    background: var(--gradient); /* Change background on hover */
+    color: white; /* Change text color on hover */
+}
+
 /* Header Styles */
 header {
     min-height: 100vh;
