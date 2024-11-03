@@ -20,7 +20,7 @@ def update_scholar_stats():
       publications = author['publications']
       publications.sort(key=lambda x: int(x['bib'].get('pub_year', '0')), reverse=True)
       
-      for i, pub in enumerate(publications[:3]):
+      for i, pub in enumerate(publications):
           filled_pub = scholarly.fill(pub)
           
           # Try to get the abstract from different possible locations

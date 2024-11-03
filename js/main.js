@@ -108,7 +108,10 @@ async function updatePublications() {
         publicationList.innerHTML = '';
         
         if (data.recent_publications && data.recent_publications.length > 0) {
-            data.recent_publications.forEach((pub, index) => {
+            // Use slice to get the first three publications
+            const recentPublications = data.recent_publications.slice(0, 3);
+            
+            recentPublications.forEach((pub, index) => {
                 const pubDiv = document.createElement('div');
                 pubDiv.className = 'publication-item';
                 pubDiv.setAttribute('data-aos', 'fade-up');
