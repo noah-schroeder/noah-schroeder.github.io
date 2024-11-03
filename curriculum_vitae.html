@@ -18,9 +18,22 @@
                 <span></span>
             </div>
             <ul class="nav-links">
-                <li><a href="#research">Research</a></li>
-                <li><a href="#publications">Recent Publications</a></li>
-                <li><a href="#publications">Curriculum Vitae</a></li>
+                <li>
+                    <a href="#research">Research</a>
+                    <ul class="dropdown">
+                        <li><a href="#research">Research Focus</a></li>
+                        <li><a href="#publications">Recent Publications</a></li>
+                    </ul>
+                </li>
+                <li><a href="curriculum_vitae.html" target="_blank">Brief CV</a></li>
+                <li>
+                    <a href="https://learnmeta-analysis.com/" target="_blank">Learn Meta-Analysis</a>
+                    <ul class="dropdown">
+                        <li><a href="https://www.youtube.com/@LearnMetaAnalysis" target="_blank">YouTube Channel</a></li>
+                        <li><a href="https://noah-schroeder.github.io/reviewbook/index.html" target="_blank">Free E-Book</a></li>
+                        <li><a href="https://learnmeta-analysis.com/pages/simple-meta-analysis-software" target="_blank">Simple Meta-Analysis Software</a></li>
+                    </ul>
+                </li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
         </div>
@@ -135,7 +148,7 @@
                 </div>
                 <p class="update-time">Last updated: <span id="last-updated">Loading...</span></p>
             </div>
-            <div class="publication-list" id="recent-publications">
+            <div class="publication-list" id="all-publications">
                 <!-- Publications will be inserted here by JavaScript -->
             </div>
             </div>
@@ -166,9 +179,6 @@
     <script src="js/main.js"></script>
 
 
-
-
-
 <script>
     async function updateScholarStats() {
         try {
@@ -195,7 +205,7 @@
     }
     
     // Call when page loads
-    document.addEventListener('DOMContentLoaded', updateScholarStats);
+    document.addEventListener('DOMContentLoaded', updateScholarStats, updatePublications_all());
     </script>
 </body>
 </html>
