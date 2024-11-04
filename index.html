@@ -62,7 +62,7 @@
             <div class="research-grid">
                 <div class="research-item" data-aos="fade-up" data-aos-delay="100">
                     <h3>Pedagogical Agents</h3>
-                    <p>Exploring how to design and develop pedagogical agents to help kids learn.</p>
+                    <p>Exploring how to design and develop pedagogical agents to help children learn.</p>
                 </div>
                 <div class="research-item" data-aos="fade-up" data-aos-delay="200">
                     <h3>Research Synthesis</h3>
@@ -132,7 +132,7 @@
     async function updateScholarStats() {
         try {
             console.log('Attempting to fetch scholar stats...');
-            const response = await fetch('/website/assets/data/scholar_stats.json');
+            const response = await fetch('/assets/data/scholar_stats.json');
             
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
