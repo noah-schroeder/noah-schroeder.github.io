@@ -2,38 +2,38 @@
   "citations": 2395,
   "h_index": 24,
   "publications": 80,
-  "last_updated": "2024-11-03 18:20:44",
+  "last_updated": "2024-11-04 00:55:53",
   "recent_publications": [
     {
       "title": "Pedagogical agents in K-12 education: a scoping review",
       "year": 2024,
       "citation": "Journal of Research on Technology in Education, 1-28, 2024",
-      "abstract": "Over the past three decades the field of pedagogical agents (PAs) has seen significant growth, but no review has specifically focused on the design and use of PAs for K-12 students, despite the fact that an early meta-analysis showed that they receive the most benefits from learning from or with PAs. Our systematic search revealed 112 studies that met the inclusion criteria and were analyzed. Our findings revealed a plethora of studies investigating the use of PAs with K-12 populations and a considerable number of longitudinal studies, both of which the field has long stated did not exist in significant numbers. Our findings contrast long-held findings in the field, further support others, and highlight areas where further experimentation and research synthesis are needed.",
-      "url": "https://www.tandfonline.com/doi/abs/10.1080/15391523.2024.2381229",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Shan Zhang and Chris Davis Jaldi and Noah L Schroeder and Jessica R Gladstone"
     },
     {
       "title": "Large language models for whole-learner support: opportunities and challenges",
       "year": 2024,
       "citation": "Frontiers in Artificial Intelligence 7, 1460364, 2024",
-      "abstract": "In recent years, large language models (LLMs) have seen rapid advancement and adoption, and are increasingly being used in educational contexts. In this perspective article, we explore the open challenge of leveraging LLMs to create personalized learning environments that support the “whole learner” by modeling and adapting to both cognitive and non-cognitive characteristics. We identify three key challenges toward this vision: (1) improving the interpretability of LLMs' representations of whole learners, (2) implementing adaptive technologies that can leverage such representations to provide tailored pedagogical support, and (3) authoring and evaluating LLM-based educational agents. For interpretability, we discuss approaches for explaining LLM behaviors in terms of their internal representations of learners; for adaptation, we examine how LLMs can be used to provide context-aware feedback and scaffold non-cognitive skills through natural language interactions; and for authoring, we highlight the opportunities and challenges involved in using natural language instructions to specify behaviors of educational agents. Addressing these challenges will enable personalized AI tutors that can enhance learning by accounting for each student's unique background, abilities, motivations, and socioemotional needs.",
-      "url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1460364/full",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Amogh Mannekote and Adam Davies and Juan D Pinto and Shan Zhang and Daniel Olds and Noah L Schroeder and Blair Lehman and Diego Zapata-Rivera and ChengXiang Zhai"
     },
     {
       "title": "Designing and Learning With Pedagogical Agents: An Umbrella Review",
       "year": 2024,
       "citation": "Journal of Educational Computing Research, 07356331241288476, 2024",
-      "abstract": "Pedagogical agents are virtual characters that instructional designers include in learning environments to help students learn. Research in the area has flourished for thirty years, yet there are still critical questions about the efficacy of pedagogical agents for influencing learning and affect. As such, we conducted an umbrella review to synthesize the field. We located 17 systematic reviews or meta-analyses focused on the use of pedagogical agents in educational settings. We found that agents can have small positive effects on learning, motivation, and other affective variables. However, we still cannot say how one should design a pedagogical agent for any given educational context. We highlight the limitations of existing theory in the area, as well as existing reviews from a practical and methodological perspective, and highlight productive areas for future research.",
-      "url": "https://journals.sagepub.com/doi/abs/10.1177/07356331241288476",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Robert O Davis and Eunbyul Yang"
     },
     {
       "title": "Pedagogical Agent Design for K-12 Education: A Systematic Review",
       "year": 2024,
       "citation": "Computers & Education, 105165, 2024",
-      "abstract": "Pedagogical agents (PAs) are increasingly being integrated into educational technologies. Although previous reviews have examined the impact of PAs on learning and learning-related outcomes, it still remains unclear what specific design features, social cues, and other contextual elements of PA implementation can optimize the learning process. These questions are even more prevalent with regards to the K-12 population, as most reviews to date have largely focused on post-secondary learners. To address this gap in the literature, we systematically review empirical studies around the design of PAs for K-12 learners. After reviewing 1374 studies for potential inclusion, we analyzed 44 studies that met our inclusion criteria using Heidig and Clarebout’s (2011) frameworks. Our findings showed that learners had preferences for specific types of PAs. While these preferences were not always associated with …",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0360131524001799",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Shan Zhang and Chris Davis Jaldi and Noah L Schroeder and Alexis A López and Jessica R Gladstone and Steffi Heidig"
     },
     {
@@ -56,224 +56,224 @@
       "title": "The instructor presence effect and its moderators in instructional video: A series of meta-analyses",
       "year": 2023,
       "citation": "Educational Research Review, 100564, 2023",
-      "abstract": "Researchers disagree on the extent to which social cues in instructional videos influence learning and learning-relevant outcomes and processes. The instructor presence effect states that visible instructors in instructional videos lead to increased social presence and higher scores in subjective ratings like motivation, social presence, or affect, but do not improve learning outcomes. In contrast, the Cognitive-Affective-Social Theory of Learning in digital Environments outlines how social cues not only enhance social, emotional, and motivational processes, but they also potentially promote learning outcomes. We conducted a series of meta-analyses to explore the effects of instructor presence in instructional videos on retention, transfer, social presence, motivation, cognitive load, affect, and visual dwell time. The meta-analyses include 35 studies, which contained 46 pair-wise comparisons and 6339 participants …",
-      "url": "https://www.sciencedirect.com/science/article/pii/S1747938X2300057X",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Maik Beege and Noah L Schroeder and Steffi Heidig and Günter Daniel Rey and Sascha Schneider"
     },
     {
       "title": "Twenty-five years of learning with pedagogical agents: History, barriers, and opportunities",
       "year": 2023,
       "citation": "TechTrends 67 (5), 851-864, 2023",
-      "abstract": "Pedagogical agents are on-screen characters that help facilitate learning in a virtual or mixed-reality setting. The research on pedagogical agents has shifted focus since their creation, from understanding their underlying principles, identifying their potential roles and usage, and recently finetuning their design for applied practice. This paper explores the history of pedagogical agents and summarizes the current state of knowledge. Once the current state of pedagogical agents is established, barriers and opportunities are discussed to suggest how researchers can best improve pedagogical agents and their implementation.",
-      "url": "https://link.springer.com/article/10.1007/s11528-023-00869-3",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Robert F Siegle and Noah L Schroeder and H Chad Lane and Scotty D Craig"
     },
     {
       "title": "Lessons learned from online learning at scale: a study of exemplar learning organizations",
       "year": 2023,
       "citation": "TechTrends 67 (1), 84-97, 2023",
-      "abstract": "As the areas of education and workforce training tend more toward online training, they have emphasized the rapid setup and expansion of online environments. This scaling-up and scaling-out of training programs can be difficult, but there are examples of success available for us to learn from. To capture the lessons learned, we conducted semi-structured interviews across academic, public, private, and non-profit organizations. Using deductive thematic analysis, three major groups of determinants were identified: technological infrastructure, human infrastructure, and governance. A framework consisting of three actionable recommendations was created to facilitate online learning organizational scaling-up including learner (learning experiences and user-friendly design), technical (technical competencies and the use of integrated data), and management (technical competencies for both learners and instructors …",
-      "url": "https://link.springer.com/article/10.1007/s11528-022-00761-6",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Siyuan Li and Scotty D Craig and Noah L Schroeder"
     },
     {
       "title": "A meta-analysis on learning from 360° video",
       "year": 2023,
       "citation": "Computers & Education 206, 104901, 2023",
-      "abstract": "Learners are increasingly experiencing 360° videos across educational environments, including within spherical video virtual reality (SVVR) environments. Although 360° videos may offer an immersive experience, it is not yet clear if they offer any broadly generalizable learning benefits compared to other conditions. In this study, we conducted a three-level meta-analysis to examine the effects of 360° videos on learning compared to other learning conditions. Results show no significant benefit nor detriment from learning with 360° videos. We also found few factors which significantly moderated the effect. We conclude that if supporting cognitive learning outcomes is the goal, as opposed to affective or perceptive outcomes, there are likely other technologies that may be more resource efficient for supporting learning. Additional implications for research and practice are discussed.",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0360131523001781",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Robert F Siegle and Scotty D Craig"
     },
     {
       "title": "A preliminary study of the efficacy of using a wrist-worn multiparameter sensor for the prediction of cognitive flow states in university-level students",
       "year": 2023,
       "citation": "Sensors 23 (8), 3957, 2023",
-      "abstract": "Engagement is enhanced by the ability to access the state of flow during a task, which is described as a full immersion experience. We report two studies on the efficacy of using physiological data collected from a wearable sensor for the automated prediction of flow. Study 1 took a two-level block design where activities were nested within its participants. A total of five participants were asked to complete 12 tasks that aligned with their interests while wearing the Empatica E4 sensor. This yielded 60 total tasks across the five participants. In a second study representing daily use of the device, a participant wore the device over the course of 10 unstructured activities over 2 weeks. The efficacy of the features derived from the first study were tested on these data. For the first study, a two-level fixed effects stepwise logistic regression procedure indicated that five features were significant predictors of flow. In total, two were related to skin temperature (median change with respect to the baseline and skewness of the temperature distribution) and three were related to acceleration (the acceleration skewness in the x and y directions and the kurtosis of acceleration in the y direction). Logistic regression and naïve Bayes models provided a strong classification performance (AUC > 0.7, between-participant cross-validation). For the second study, these same features yielded a satisfactory prediction of flow for the new participant wearing the device in an unstructured daily use setting (AUC > 0.7, leave-one-out cross-validation). The features related to acceleration and skin temperature appear to translate well for the tracking of flow in a daily use environment.",
-      "url": "https://www.mdpi.com/1424-8220/23/8/3957",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Josephine Graft and William Romine and Brooklynn Watts and Noah Schroeder and Tawsik Jawad and Tanvi Banerjee"
     },
     {
       "title": "Improving Online learning ecosystems with Science of Learning Best Practices",
       "year": 2023,
       "citation": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting 67 (1 …, 2023",
-      "abstract": "The dynamic and high-stakes nature of education and training demands that we rely on evidence-based practices and policies to make decisions about technology adoption and implementation within online learning ecosystems. To provide guidance to the field and practitioners, a broadly scoped literature review was conducted to identify the best practices for supporting and creating online learning ecosystems. This review provides a high-level summary of the findings organized into institutional and course best practices.",
-      "url": "https://journals.sagepub.com/doi/abs/10.1177/21695067231192447",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Scotty D Craig and Noah L Schroeder"
     },
     {
       "title": "Trusting and Learning From Virtual Humans that Correct Common Misconceptions",
       "year": 2023,
       "citation": "Journal of Educational Computing Research 61 (4), 790-816, 2023",
-      "abstract": "Virtual humans are on-screen characters that are often embedded in learning technologies to deliver educational content. Little research has investigated how virtual humans can be used to correct common misconceptions. In this study, we explored how different types of narrative structures, refutation text and expository text, influence perceptions of trust, credibility, and learning outcomes. In addition, we conducted exploratory analyses examining how different measures of trust and credibility are related to each other and how these measures may mediate learning outcomes. Results showed that the type of narrative used did not influence any measure. However, the trust and credibility measures, while related to one another, were measurably distinct. In addition, only perceptions of message trust were significantly related to learning. Perceptions of message trust did not mediate learning outcomes, but were …",
-      "url": "https://journals.sagepub.com/doi/abs/10.1177/07356331221139859",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Erin K Chiou and Robert F Siegle and Scotty D Craig"
     },
     {
       "title": "A Scoping Review of Wrist-worn Wearables in Education",
       "year": 2023,
       "citation": "Computers and Education Open, 100154, 2023",
-      "abstract": "Within the past ten years, the public's use of wearables, such as smartwatches and fitness trackers, has greatly increased. Recently, researchers have published systematic reviews to examine how wearables are used in educational settings. However, not all wearables are alike. Head-mounted wearables and exoskeletons may be viewed as invasive, whereas smartwatches and wristbands are commonly worn by the public. In this scoping review, we systematically review the literature around wrist-worn wearables (WWs) in educational settings. Our systematic search revealed 1,932 unique research items, of which 46 met the inclusion criteria and were analyzed. Our findings reveal the trends in the field, we discuss the vast heterogeneity seen in the field, and we make a call for further in-depth systematic reviews in the areas of WWs as educational interventions, of studies where the data from WWs is used to predict …",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2666557323000320",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and William L Romine and Sidney E Kemp"
     },
     {
       "title": "Refutation text facilitates learning: A meta-analysis of between-subjects experiments",
       "year": 2022,
       "citation": "Educational Psychology Review 34 (2), 957-987, 2022",
-      "abstract": "Scientific misconceptions are ubiquitous, and in our era of near-instant information exchange, this can be problematic for both public health and the public understanding of scientific topics. Refutation text is one instructional tool for addressing misconceptions and is simple to implement at little cost. We conducted a random-effects meta-analysis to examine the effectiveness of the refutation text structure on learning. Analysis of 44 independent comparisons (n = 3,869) showed that refutation text is associated with a positive, moderate effect (g = 0.41, p < .001) compared to other learning conditions. This effect was consistent and robust across a wide variety of contexts. Our results support the implementation of refutation text to help facilitate scientific understanding in many fields.",
-      "url": "https://link.springer.com/article/10.1007/s10648-021-09656-z",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Aurelia C Kucera"
     },
     {
       "title": "Pedagogical agents",
       "year": 2022,
       "citation": "The Handbook on Socially Interactive Agents: 20 years of Research on …, 2022",
-      "abstract": "This handbook consists of 28 chapters, covering the major topics in Socially Inter active Agents (SIAs). Each chapter provides a survey that summarizes the theoret ical background, approaches for implementation, history/overview of the topic, alongside with current challenges and future directions. All chapters discuss simi larities and differences between Intelligent Virtual Agents (IVAs) and Social Robots (SRs) and highlight important work of both fields in the topic. The chapters are clustered into five parts, representing broad themes in SIA research. Volume 1 [Lugrin et al. 2021] contains Parts I–III. Part I “Establishing SIA Research” helps the reader understand how research in this area is con ducted and discusses the impact on individuals and society. Part II “Appearance and Behaviour” deals with the most immediately noticeable external features of SIAs across multiple modalities. Part III “Social Cognition …",
-      "url": "https://dl.acm.org/doi/abs/10.1145/3563659.3563669",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "H Chad Lane and Noah L Schroeder"
     },
     {
       "title": "Toward mental effort measurement using electrodermal activity features",
       "year": 2022,
       "citation": "Sensors 22 (19), 7363, 2022",
-      "abstract": "The ability to monitor mental effort during a task using a wearable sensor may improve productivity for both work and study. The use of the electrodermal activity (EDA) signal for tracking mental effort is an emerging area of research. Through analysis of over 92 h of data collected with the Empatica E4 on a single participant across 91 different activities, we report on the efficacy of using EDA features getting at signal intensity, signal dispersion, and peak intensity for prediction of the participant’s self-reported mental effort. We implemented the logistic regression algorithm as an interpretable machine learning approach and found that features related to signal intensity and peak intensity were most useful for the prediction of whether the participant was in a self-reported high mental effort state; increased signal and peak intensity were indicative of high mental effort. When cross-validated by activity moderate predictive efficacy was achieved (AUC = 0.63, F1 = 0.63, precision = 0.64, recall = 0.63) which was significantly stronger than using the model bias alone. Predicting mental effort using physiological data is a complex problem, and our findings add to research from other contexts showing that EDA may be a promising physiological indicator to use for sensor-based self-monitoring of mental effort throughout the day. Integration of other physiological features related to heart rate, respiration, and circulation may be necessary to obtain more accurate predictions.",
-      "url": "https://www.mdpi.com/1424-8220/22/19/7363",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "William Romine and Noah Schroeder and Tanvi Banerjee and Josephine Graft"
     },
     {
       "title": "Inconsistent interactions between the seductive details effect and ego depletion in multimedia learning",
       "year": 2022,
       "citation": "Applied Cognitive Psychology 36 (2), 418-432, 2022",
-      "abstract": "Multimedia learning often consists of a sequence of tasks, and research suggests that the sequence itself may influence learning outcomes. This study examines one theory related to task sequencing, known as ego depletion, and its interaction with a well‐established instructional design effect, the seductive details effect. To investigate the potential impact of ego depletion, a state of depleted self‐control strength, on learning with seductive details, which are interesting but irrelevant elements of the instruction, we conducted a randomized controlled experiment in which both ego depletion and seductive details were manipulated as two between‐subjects independent variables. Although manipulation checks confirmed the efficacy of the interventions, we found mixed results in learning outcome measures, particularly in the investigation of an interaction between the seductive details effect and ego depletion …",
-      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3932",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Zhe Wang and Noah L Schroeder"
     },
     {
       "title": "When refutation and deep reasoning questions lose their edge: The case of short, narrated videos",
       "year": 2022,
       "citation": "Journal of Educational Computing Research 60 (5), 1197-1219, 2022",
-      "abstract": "Virtual humans are virtual characters within multimedia learning environments designed to aid the learning process. While there is a large variety of research examining how to design the physical appearance of the character or the teaching strategies it should embody, there is comparatively little work around the design of the narrative the virtual human uses to communicate with the learner. In this study, we examine the use of four different types of text structures to structure the character’s narrative in an instructional video: expository, refutation text, deep reasoning questions, and refutation text and deep reasoning questions; and their effects on learning, perceptions, attitudes, and emotions about genetically modified foods. Our results largely indicated no significant differences between the different communication strategies. We hypothesize that the length, dosage, and pacing of the intervention could explain why …",
-      "url": "https://journals.sagepub.com/doi/abs/10.1177/07356331211070534",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Robert F Siegle and Vipin Verma and Scotty D Craig"
     },
     {
       "title": "Implementation and Importance of Science of Learning Best Practices within Learning Organizations",
       "year": 2022,
       "citation": "",
-      "abstract": "Technology is rapidly transforming how people learn and how we provide training. The Science of Learning and Readiness (SoLaR) project provided specific guidance on metrics-based, most effective, at-scale, and blended learning strategies within institutional systems, courseware, and pedagogical methods. Along with many specific examples of best practices, the project found four core principles (1) fundamental principles of human learning from the learning sciences are applicable to blended and learning-at-scale environments,(2) human learning within these environments must be supported by technology,(3) the technology must report data on the learning process to the learning organization, and (4) learning organizations must use data to (a) support learners with learning, social, and academic guidance, and (b) support members of the learning institutions with training, support, and recognition.To further understand the perceived importance and implementation of these practices, we surveyed learning organizations representing public, private, and academic sectors. We observed a consistent discrepancy: respondents reported that actual implementation of best practices fell short (ie, ratings of implementation were significantly lower than ratings of perceived importance). This pattern was most striking within military organizations. The survey sample was small and thus limited in generalizability. Nonetheless, the consistently high perceived importance of best practices in the public sector—particularly the military—suggests a readiness for a transition to advanced distributed learning methodologies.",
-      "url": "https://www.researchgate.net/profile/Scotty-Craig/publication/366310899_Implementation_and_Importance_of_Science_of_Learning_Best_Practices_within_Learning_Organizations/links/639b7554484e65005b10d615/Implementation-and-Importance-of-Science-of-Learning-Best-Practices-within-Learning-Organizations.pdf",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Robert F Siegle and Scotty D Craig and Noah L Schroeder and AZ Mesa"
     },
     {
       "title": "Erratum to< A Systematic review of instructor presence in instructional videos: Effects on learning and affect>:[Computers and Education Open 2 (2021) 100059]",
       "year": 2022,
       "citation": "Computers and Education Open 3, 100097, 2022",
-      "abstract": "The publisher regrets that this article failed to include a statement that affirmed, given their role as Editorial Board Member, Noah Schroederhad had no involvement in the peer-review of this article and has no access to information regarding its peer-review. Full responsibility for the editorial process for this article was taken by Miguel Nussbaum, Editor-in-Chief.",
-      "url": "https://scholar.google.com/scholar?cluster=1693036606889280844&hl=en&oi=scholarr",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Marsha L Henderson and Noah L Schroeder"
     },
     {
       "title": "A Systematic review of instructor presence in instructional videos: Effects on learning and affect",
       "year": 2021,
       "citation": "Computers and Education Open 2, 100059, 2021",
-      "abstract": "In recent years the use of instructional videos with on-screen instructors has gained global popularity in college classrooms and across private industries. However, it is not clear if including the instructor on-screen in an instructional video provides any benefit to learners, and the research in the area has not been synthesized. We conducted a systematic review to examine the impact of an on-screen instructor on learning and affect. Twelve studies met the inclusion criteria and were analyzed. Our analysis of the results showed no consistent, compelling evidence that an instructor should be included on-screen in instructional videos, as non-significant and mixed results were pervasive throughout the literature. However, we also did not find convincing evidence to leave an instructor out of the instructional video, as some studies found that learners were more satisfied when the instructor was visually-present. We …",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2666557321000306",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Marsha L Henderson and Noah L Schroeder"
     },
     {
       "title": "Trust influences perceptions of virtual humans, but not necessarily learning",
       "year": 2021,
       "citation": "Computers & Education 160, 104039, 2021",
-      "abstract": "Researchers have investigated the extent to which features of virtual humans (e.g., voice) influence learning. However, only recently have researchers began to question how trust influences perceptions of virtual humans and learning with a virtual human. In this study, we use unsupervised machine learning (k-means clustering) to examine the extent to which learners trust a virtual human with different voices. General trust attitudes toward a virtual human were measured using a validated questionnaire after participants watched videos of the virtual human presenting educational information. The results indicated that a virtual human with a low-quality text-to-speech (TTS) voice had the most variation in perceived trust, followed by a high-quality TTS voice and a recorded human voice. In addition, trust significantly influenced perceptions of the virtual human persona in the TTS conditions, whereas it had little influence …",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0360131520302372",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Erin K Chiou and Scotty D Craig"
     },
     {
       "title": "Learning with virtual humans: Introduction to the special issue",
       "year": 2021,
       "citation": "Journal of Research on Technology in Education 53 (1), 1-7, 2021",
-      "abstract": "Virtual humans are embodied agents with a human-like appearance. In educational contexts, virtual humans are often designed to help people learn. In this special issue, we see six representations of this field from different perspectives, including system analysis and evaluation, value-added studies, and reviews of the literature. This diversity of research exemplifies the exciting field of virtual humans. In this introduction to the special issue, we discuss virtual humans in educational contexts, highlight the articles in this special issue, and outline productive future research directions.",
-      "url": "https://www.tandfonline.com/doi/abs/10.1080/15391523.2020.1863114",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Scotty D Craig"
     },
     {
       "title": "Longitudinal classification of mental effort using electrodermal activity, heart rate, and skin temperature data from a wearable sensor",
       "year": 2021,
       "citation": "Pattern Recognition. ICPR International Workshops and Challenges: Virtual …, 2021",
-      "abstract": "Recent studies show that physiological data can detect changes in mental effort, making way for the development of wearable sensors to monitor mental effort in school, work, and at home. We have yet to explore how such a device would work with a single participant over an extended time duration. We used a longitudinal case study design with ~38 h of data to explore the efficacy of electrodermal activity, skin temperature, and heart rate for classifying mental effort. We utilized a 2-state Markov switching regression model to understand the efficacy of these physiological measures for predicting self-reported mental effort during logged activities. On average, a model with state-dependent relationships predicted within one unit of reported mental effort (training RMSE = 0.4, testing RMSE = 0.7). This automated sensing of mental effort can have applications in various domains including student …",
-      "url": "https://link.springer.com/chapter/10.1007/978-3-030-68790-8_8",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "William Romine and Noah Schroeder and Anjali Edwards and Tanvi Banerjee"
     },
     {
       "title": "Sensor-Based Prediction of Mental Effort during Learning from Physiological Data: A Longitudinal Case Study",
       "year": 2021,
       "citation": "Signals 2 (4), 886-901, 2021",
-      "abstract": "Trackers for activity and physical fitness have become ubiquitous. Although recent work has demonstrated significant relationships between mental effort and physiological data such as skin temperature, heart rate, and electrodermal activity, we have yet to demonstrate their efficacy for the forecasting of mental effort such that a useful mental effort tracker can be developed. Given prior difficulty in extracting relationships between mental effort and physiological responses that are repeatable across individuals, we make the case that fusing self-report measures with physiological data within an internet or smartphone application may provide an effective method for training a useful mental effort tracking system. In this case study, we utilized over 90 h of data from a single participant over the course of a college semester. By fusing the participant’s self-reported mental effort in different activities over the course of the semester with concurrent physiological data collected with the Empatica E4 wearable sensor, we explored questions around how much data were needed to train such a device, and which types of machine-learning algorithms worked best. We concluded that although baseline models such as logistic regression and Markov models provided useful explanatory information on how the student’s physiology changed with mental effort, deep-learning algorithms were able to generate accurate predictions using the first 28 h of data for training. A system that combines long short-term memory and convolutional neural networks is recommended in order to generate smooth predictions while also being able to capture transitions in mental effort …",
-      "url": "https://www.mdpi.com/2624-6120/2/4/51",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Ankita Agarwal and Josephine Graft and Noah Schroeder and William Romine"
     },
     {
       "title": "Scaling team training: Using virtual worlds to support learning in massive open online courses",
       "year": 2021,
       "citation": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting 65 (1 …, 2021",
-      "abstract": "The implementation of electronic team training, e-team training, has been used to teach teamwork skills in a wide array of industries. By using e-team training, organizations have seen the observable benefits of improved team effectiveness, faster response times, and reduction in training costs. Those learning from e-team training have reported additional benefits of improved communication skills, learning team leadership tactics, and an improved satisfaction in their training over traditional team training methods. MOOCs, massive open online course, have yet to incorporate e-team training, due to previous technologies having unscalable, limiting constraints. We reviewed literature on how utilizing e-team training in virtual worlds improves current computer-supported collaborative learning (CSCL) available in MOOCs, examined the constraints, and give recommendations for the best practices of moving e-team …",
-      "url": "https://journals.sagepub.com/doi/abs/10.1177/1071181321651204",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Robert F Siegle and Nancy J Cooke and Noah L Schroeder and Siyuan Li and Scotty D Craig"
     },
     {
       "title": "How we trust, perceive, and learn from virtual humans: The influence of voice quality",
       "year": 2020,
       "citation": "Computers & Education 146, 103756, 2020",
-      "abstract": "Research has shown that creating environments in which social cues are present (social agency) benefits learning. One way to create these environments is to incorporate a virtual human as a pedagogical agent in computer-based learning environments. However, essential questions remain about virtual human design, such as what voice should the virtual human use to communicate. Furthermore, to date research in the education literature around virtual humans has largely ignored one potentially salient construct – trust. This study examines how the quality of a virtual human's voice influences learning, perceptions, and trust in the virtual human. Results of on an online study show that the voice quality did not significantly influence learning, but it did influence trust and learners' other perceptions of the virtual human. This study, consistent with recent work around the voice effect, questions the efficacy of the voice …",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0360131519303094",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Erin K Chiou and Noah L Schroeder and Scotty D Craig"
     },
     {
       "title": "Do measures of cognitive load explain the spatial split-attention principle in multimedia learning environments? A systematic review.",
       "year": 2020,
       "citation": "Journal of Educational Psychology 112 (2), 254, 2020",
-      "abstract": "The spatial split-attention principle suggests that presenting related words and pictures spatially close to one another will improve learning compared with a spatially distant design, and two meta-analyses have shown support for the principle. However, it is not clear why the principle occurs. It has been theorized that integrated graphic designs lower the extraneous cognitive load imposed on learners, however, there has not been a systematic review to examine the evidence for this claim. In this study, we systematically review the literature around the spatial split-attention principle in multimedia learning environments to examine if measures of cognitive load support the theoretical prediction. Our analysis of 41 comparisons found that measures of cognitive load largely do not support the extraneous cognitive load explanation, nor did we find compelling evidence that integrated graphic designs significantly influence …",
-      "url": "https://psycnet.apa.org/record/2019-26874-001",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Ada T Cenkci"
     },
     {
       "title": "Using machine learning to train a wearable device for measuring students’ cognitive load during problem-solving activities based on electrodermal activity, body temperature, and heart rate: Development of a cognitive load tracker for both personal and classroom use",
       "year": 2020,
       "citation": "Sensors 20 (17), 4833, 2020",
-      "abstract": "Automated tracking of physical fitness has sparked a health revolution by allowing individuals to track their own physical activity and health in real time. This concept is beginning to be applied to tracking of cognitive load. It is well known that activity in the brain can be measured through changes in the body’s physiology, but current real-time measures tend to be unimodal and invasive. We therefore propose the concept of a wearable educational fitness (EduFit) tracker. We use machine learning with physiological data to understand how to develop a wearable device that tracks cognitive load accurately in real time. In an initial study, we found that body temperature, skin conductance, and heart rate were able to distinguish between (i) a problem solving activity (high cognitive load), (ii) a leisure activity (moderate cognitive load), and (iii) daydreaming (low cognitive load) with high accuracy in the test dataset. In a second study, we found that these physiological features can be used to predict accurately user-reported mental focus in the test dataset, even when relatively small numbers of training data were used. We explain how these findings inform the development and implementation of a wearable device for temporal tracking and logging a user’s learning activities and cognitive load.",
-      "url": "https://www.mdpi.com/1424-8220/20/17/4833",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "William L Romine and Noah L Schroeder and Josephine Graft and Fan Yang and Reza Sadeghi and Mahdieh Zabihimayvan and Dipesh Kadariya and Tanvi Banerjee"
     },
     {
       "title": "Learner control aids learning from instructional videos with a virtual human",
       "year": 2020,
       "citation": "Technology, Knowledge and Learning 25 (4), 733-751, 2020",
-      "abstract": "Experimental research around virtual humans acting as pedagogical agents has often taken place in learner-paced learning environments. However, virtual humans are increasingly embedded in educational materials such as instructional videos, where the pacing of the environment can be fundamentally different than a stand-alone learner-controlled software package. This study examined the influence of three types of pacing with varying levels of learner control when learning from an instructional video with an embedded virtual human. The results of our three-group randomized study indicate that increased learner control led to the strongest learning outcomes, although moderate learner control was the most instructionally efficient. The results suggest that some aspects of learner control can be beneficial when learning from instructional videos with embedded virtual humans.",
-      "url": "https://link.springer.com/article/10.1007/s10758-019-09417-6",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Joshua Chin and Scotty D Craig"
     },
     {
       "title": "Science of Learning and Readiness (SoLaR) Recommendation Report: Science of Learning Practices for Distributed Online Environments.",
       "year": 2020,
       "citation": "Advanced Distributed Learning Initiative, 2020",
-      "abstract": "The Science of Learning and Readiness (SoLaR) project seeks to demonstrate to Defense and other Government stakeholders the \"art of the possible\" for high-quality distributed learning and to create a practical guide for how to infuse such qualities into the broader Department of Defense (DoD) distributed learning ecosystem. This report is the third in a series of three reports examining the state of the art for advancing the applications of distributed learning. It provides recommendations for setting up modern learning ecosystems that incorporate distributed learning techniques. The DoD can use these specific and actionable recommendations for enhancing its distributed/blended learning institutions (i.e., the overall system), courseware, and associated learning strategies/tactics. The recommendations are based on findings from the two previous reports. The first report, the State of the Art Report (ED612433), was a review of the state of the art for distributed learning",
-      "url": "https://eric.ed.gov/?id=ED612458",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Scotty D Craig and Noah L Schroeder"
     },
     {
       "title": "Science of Learning and Readiness (SoLaR) Exemplar Report: A Path Toward Learning at Scale",
       "year": 2020,
       "citation": "https://apps.dtic.mil/sti/citations/AD1104999, 2020",
-      "abstract": "The Science of Learning and Readiness (SoLaR) project seeks to demonstrate to Defense and other Government stakeholders the \"art of the possible\" for high-quality distributed learning and to create a practical guide for how to infuse such qualities into the broader Department of Defense (DoD) distributed learning ecosystem. This report seeks to provide an understanding of a State-of-the-Art Learning Organization. The features of an exemplar learning organization at scale were identified based on a broad review of the literature. The summarized key findings include: (1) Principles of human learning from the learning sciences hold within learning at scale environments; (2) Human learning within these environments must be supported by technology; (3) The technology must provide data on the learning process to the organization; and (4) Learning organizations must use data to support both the learners in the form of learning, social, and academic guidance, and the members of the",
-      "url": "https://eric.ed.gov/?id=ED612459",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Scotty D Craig and Siyuan Li and Deborah Prewitt and Laurie A Morgan and Noah L Schroeder"
     },
     {
       "title": "Immersive learning environments at scale: Constraints and opportunities",
       "year": 2020,
       "citation": "Proceedings of the human factors and ergonomics society annual meeting 64 (1 …, 2020",
-      "abstract": "The expansion of online education into massive open online courses (MOOCs) and equipment have created a unique opportunity for delivering immersive learning experiences at scale. However, although the inclusivity of the MOOC ecosystem can be commended, many online courses lack key benefits associated with traditional classroom environments: immersive, engaging, and team-driven learning opportunities. Immersive learning environments (ILEs) address these educational gaps but has not been able to operate at the broad scale that MOOCs offer. Importantly, ILEs address opportunities missing from MOOC systems, they add unique learning opportunities that would also be missing in a traditional classroom. The inclusion of this virtual reality technology is pivotal topic for educational research. This theoretical paper will briefly define immersive learning environments and the potential benefits of …",
-      "url": "https://journals.sagepub.com/doi/abs/10.1177/1071181320641278",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Robert F Siegle and Rod D Roscoe and Noah L Schroeder and Scotty D Craig"
     },
     {
@@ -288,264 +288,264 @@
       "title": "Text-to-speech software and learning: Investigating the relevancy of the voice effect",
       "year": 2019,
       "citation": "Journal of Educational Computing Research 57 (6), 1534-1548, 2019",
-      "abstract": "Technology advances quickly in today’s society. This is particularly true in regard to instructional multimedia. One increasingly important aspect of instructional multimedia design is determining the type of voice that will provide the narration; however, research in the area is dated and limited in scope. Using a randomized pretest–posttest design, we examined the efficacy of learning from an instructional animation where narration was provided by an older text-to-speech engine, a modern text-to-speech engine, or a recorded human voice. In most respects, those who learned from the modern text-to-speech engine were not statistically different in regard to their perceptions, learning outcomes, or cognitive efficiency measures compared with those who learned from the recorded human voice. Our results imply that software technologies may have reached a point where they can credibly and effectively deliver the …",
-      "url": "https://journals.sagepub.com/doi/abs/10.1177/0735633118802877",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Scotty D Craig and Noah L Schroeder"
     },
     {
       "title": "Cross-cultural academic mentoring dyads: a case study",
       "year": 2019,
       "citation": "Mentoring & Tutoring: Partnership in Learning 27 (2), 164-189, 2019",
-      "abstract": "Mentoring and diversity are disparate elements of interest within universities. We used a descriptive case study to provide an understanding of the interaction between diversity and the academic mentoring process. The conceptual framework is two-fold: (a) that mentoring relationships progressed through four phases: Initiation, Cultivation, Separation and Redefinition; and (b) that mentors play four roles: Advisor, Instructor, Employer, and Agent of Socialization. Interviews with a cross-cultural mentoring dyad consisting of a graduate student and her mentor revealed that the dyad had experienced the first two of the mentoring phases (Initiation and Cultivation) in their entirety, with elements of the second two phases (Separation and Redefinition) becoming apparent; and that the mentor had fulfilled all of the faculty roles. We identified how the four phases of mentoring relationships and the four faculty roles adopted …",
-      "url": "https://www.tandfonline.com/doi/abs/10.1080/13611267.2019.1611286",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Amber Daniel and Suzanne Franco and Noah L Schroeder and Ada T Cenkci"
     },
     {
       "title": "The impact of virtual human voice on learner trust",
       "year": 2019,
       "citation": "Proceedings of the human factors and ergonomics society annual meeting 63 (1 …, 2019",
-      "abstract": "The current study investigates if a virtual human’s voice can impact the user’s trust in interacting with the virtual human in a learning setting. It was hypothesized that trust is a malleable factor impacted by the quality of the virtual human’s voice. A randomized alternative treatments design with a pretest placed participants in either a low-quality Text-to-Speech (TTS) engine female voice (Microsoft speech engine), a high-quality TTS engine female voice (Neospeech voice engine), or a human voice (native female English speaker) condition. All three treatments were paired with the same female virtual human. Assessments for the study included a self-report pretest on knowledge of meteorology, which occurred before viewing the instructional video, and a measure of system trust. The current study found that voice type impacts a user’s trust ratings, with the human voice resulting in higher ratings compared to the two …",
-      "url": "https://journals.sagepub.com/doi/abs/10.1177/1071181319631517",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Scotty D Craig and Erin K Chiou and Noah L Schroeder"
     },
     {
       "title": "Studying and constructing concept maps: A meta-analysis",
       "year": 2018,
       "citation": "Educational psychology review 30, 431-455, 2018",
-      "abstract": "A concept map is a node-link diagram in which each node represents a concept and each link identifies the relationship between the two concepts it connects. We investigated how using concept maps influences learning by synthesizing the results of 142 independent effect sizes (n = 11,814). A random-effects model meta-analysis revealed that learning with concept and knowledge maps produced a moderate, statistically significant effect (g = 0.58, p < 0.001). A moderator analysis revealed that creating concept maps (g = 0.72, p < 0.001) was associated with greater benefit relative to respective comparison conditions than studying concept maps (g = 0.43, p < 0.001). Additional moderator analyses indicated learning with concept maps was superior to other instructional comparison conditions, and was effective across science, technology, engineering, and math (STEM) and non-STEM knowledge domains …",
-      "url": "https://link.springer.com/article/10.1007/s10648-017-9403-9",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and John C Nesbit and Carlos J Anguiano and Olusola O Adesope"
     },
     {
       "title": "Spatial contiguity and spatial split-attention effects in multimedia learning environments: A meta-analysis",
       "year": 2018,
       "citation": "Educational Psychology Review 30, 679-701, 2018",
-      "abstract": "Spatial split-attention effects have been noted in the research literature, where, under split-attention conditions, integrating text and diagrams has been shown to be effective. From this literature grew the spatial contiguity principle (or spatial contiguity effect), which states that people learn more when related words and pictures are displayed spatially near one another. Research has shown both effects to influence learning; however, little is known about the conditions in which integrated designs are most effective. This meta-analysis examines the influence of integrated designs across numerous moderator variables in order to improve our understanding of under which conditions integrated designs influence learning. A random effects meta-analysis of 58 independent comparisons (n = 2426) produced an overall effect size of g = 0.63 (p < 0.001). Moderator analyses indicated that integrated designs …",
-      "url": "https://link.springer.com/article/10.1007/s10648-018-9435-9",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Ada T Cenkci"
     },
     {
       "title": "The influence of learners' perceptions of virtual humans on learning transfer",
       "year": 2018,
       "citation": "Computers & Education 126, 170-182, 2018",
-      "abstract": "Virtual humans are often integrated into novel multimedia learning environments. However, little is known about learner's perceptions of the agents or the relationship between the perceptions and learning. In this study, the authors revise the Agent Persona Instrument, a measurement tool designed to examine how learners perceive pedagogical agents. The factor structure of the revised instrument was evaluated with confirmatory factor analysis. Next, k-means clustering was used to examine how participants' ratings on the instrument cluster into groups based on their perceptions of the virtual human. After describing the qualities of the clusters within the data, linear regression was used to examine to what extent the cluster membership influenced participant's scores on a transfer test of learning. The results indicated that cluster membership only explained a small amount of variance in transfer test scores. This …",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0360131518301805",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Fan Yang and Tanvi Banerjee and William L Romine and Scotty D Craig"
     },
     {
       "title": "Design principles for virtual humans in educational technology environments",
       "year": 2018,
       "citation": "Deep comprehension, 128-139, 2018",
-      "abstract": "Virtual humans are characters used as social interfaces. These characters have shown a positive impact both on social interactions and learning. The current chapter summarizes a set of design principles that span the use of virtual humans as interface elements and social elements within learning technologies. Much of the virtual human research in the learning area has investigated their use as interface elements (e.g., directing attention, information presentation). However, virtual humans’ stronger contribution comes from the role as a social interface (e.g., conversational partner, feedback, emotional support, and modeling skills). These design elements should be taken into consideration in order to support deep learning with virtual human-based systems.",
-      "url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315109503-11/design-principles-virtual-humans-educational-technology-environments-scotty-craig-noah-schroeder",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Scotty D Craig and Noah L Schroeder"
     },
     {
       "title": "Investigation of a stand-alone online learning module for cellular respiration instruction",
       "year": 2018,
       "citation": "Journal of Microbiology & Biology Education 19 (2), 10.1128/jmbe. v19i2. 1460, 2018",
-      "abstract": "With the recent rise of alternative instructional methodologies such as flipped classrooms and active learning, many core concepts are being introduced outside of the classroom prior to scheduled class meeting times. One popular means for external concept introduction in many undergraduate biology courses is the use of stand-alone online learning modules. Using a group of four large introductory biology course sections, we investigate the use of a stand-alone online learning module developed using animations from Virtual Cell Animation Collection as a resource for the introduction of cellular respiration concepts outside of the classroom. Results from four sections of introductory biology (n = 629) randomized to treatments show that students who interacted with the stand-alone online learning module had significantly higher normalized gain scores on a cellular respiration assessment than students who only …",
-      "url": "https://journals.asm.org/doi/abs/10.1128/jmbe.v19i2.1460",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Eric E Goff and Katie M Reindl and Christina Johnson and Phillip McClean and Erika G Offerdahl and Noah L Schroeder and Alan R White"
     },
     {
       "title": "Development of an Educational Video Game That Can Be Modified by End-Users",
       "year": 2018,
       "citation": "End-User Considerations in Educational Technology Design, 184-204, 2018",
-      "abstract": "The development of educational video games can be a challenging process. Typically, games are created for one content area and are designed to specifically facilitate learning in regards to that content. However, this approach inherently limits the utility of the game to specific content. In this chapter, the authors describe the development and systematic iterative playtesting of an educational game designed to be modified by end-users (eg, teachers, researchers, students). Quantitative and qualitative data were collected through three phases of beta-testing, and the results from each test informed the subsequent version of the software. Overall, the results indicated that, aside from fixing software glitches, the addition of aesthetically pleasing graphical user interfaces and the integration of sound effects appear to have made the biggest contributions to players' perceptions of the game.",
-      "url": "https://www.igi-global.com/chapter/development-of-an-educational-video-game-that-can-be-modified-by-end-users/183019",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Alexandrea Oliver and Kenneth Deffet and James Morgan"
     },
     {
       "title": "Usability Assessment for Caregiver Behavior Analysis Using Gaming Technology",
       "year": 2018,
       "citation": "",
-      "abstract": "The proposed research focuses on developing a mobile application for Android systems that will detect changes in behavior and activity patterns of those who are primary caregivers for dementia patients. This application will be used to detect fluctuation in the behavior and the task performance of the caregivers as a measure of caregiver stress. By detecting these changes in behavior, the goal is to analyze the effects of caregiving to evaluate caregiver burnout. A usability study was conducted for this application to find the optimal design factors and features that benefit the target user: the caregiver.",
-      "url": "https://corescholar.libraries.wright.edu/cse/468/",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Alexandrea C Oliver and Tanvi Banerjee and Jennifer Hughes and Noah L Schroeder"
     },
     {
       "title": "Reconsidering the voice effect when learning from a virtual human",
       "year": 2017,
       "citation": "Computers & Education 114, 193-205, 2017",
-      "abstract": "The current paper investigates an essential design component of virtual humans, the voice they communicate with, by examining the impact of varied voice types. A standard voice effect has held that human voices should be paired with virtual humans. The current study revisits this effect. In a randomized trial, virtual humans used one of three voice types (classic and modern text-to-speech engines, as well as human voice) to present information to a sample of participants from an online population. The impact of each voice type on learning, cognitive load, and perceptions of the virtual human were examined. The study found that the modern voice engine produced significantly more learning on transfer outcomes, had greater training efficiency, and was rated at the same level as an agent with a human voice for facilitating learning and credibility while outperforming the older speech engine. These results call into …",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0360131517301653",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Scotty D Craig and Noah L Schroeder"
     },
     {
       "title": "Measuring pedagogical agent persona and the influence of agent persona on learning",
       "year": 2017,
       "citation": "Computers & Education 109, 176-186, 2017",
-      "abstract": "Pedagogical agents are virtual characters embedded within a learning environment to enhance student learning. Researchers are beginning to understand the conditions in which pedagogical agents can enhance learning, but many questions still remain. Namely, the field has few options in terms of measurement instruments, and limited research has investigated the influence of pedagogical agent persona, or the way the agent is perceived by students, on learning outcomes. In this study, we re-examine the Agent Persona Instrument (API) using confirmatory factor analysis and Rasch methods. We then examine the influence of agent persona on learning outcomes using path analysis. The results confirmed the four factor structure of the instrument, and the fit of items with the Rasch model demonstrates construct validity in our context. However, the analyses indicated that revisions to the instrument are warranted …",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0360131517300477",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and William L Romine and Scotty D Craig"
     },
     {
       "title": "Humanizing instructional videos in physics: When less is more",
       "year": 2017,
       "citation": "Journal of Science Education and Technology 26, 269-278, 2017",
-      "abstract": "Many instructors in science, technology, engineering, and mathematics fields are striving to create active learning environments in their classrooms and in doing so are frequently moving the lecture portion of their course into online video format. In this classroom-based study, we used a two group randomized experimental design to examine the efficacy of an instructional video that incorporates a human hand demonstrating and modeling how to solve frictional inclined plane problems compared to an identical video that did not include the human hand. The results show that the learners who viewed the video without the human hand present performed significantly better on a learning test and experienced a significantly better training efficiency than the learners who viewed the video with the human hand present. Meanwhile, those who learned with the human hand present in the instructional video rated …",
-      "url": "https://link.springer.com/article/10.1007/s10956-016-9677-6",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Adrienne L Traxler"
     },
     {
       "title": "Efficacy of a meiosis learning module developed for the virtual cell animation collection",
       "year": 2017,
       "citation": "CBE—Life Sciences Education 16 (1), ar9, 2017",
-      "abstract": "Recent reports calling for change in undergraduate biology education have resulted in the redesign of many introductory biology courses. Reports on one common change to course structure, the active-learning environment, have placed an emphasis on student preparation, noting that the positive outcomes of active learning in the classroom depend greatly on how well the student prepares before class. As a possible preparatory resource, we test the efficacy of a learning module developed for the Virtual Cell Animation Collection. This module presents the concepts of meiosis in an interactive, dynamic environment that has previously been shown to facilitate learning in introductory biology students. Participants (n = 534) were enrolled in an introductory biology course and were presented the concepts of meiosis in one of two treatments: the interactive-learning module or a traditional lecture session. Analysis of …",
-      "url": "https://www.lifescied.org/doi/abs/10.1187/cbe.16-03-0141",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Eric E Goff and Katie M Reindl and Christina Johnson and Phillip McClean and Erika G Offerdahl and Noah L Schroeder and Alan R White"
     },
     {
       "title": "The influence of a pedagogical agent on learners’ cognitive load",
       "year": 2017,
       "citation": "Journal of Educational Technology & Society 20 (4), 138-147, 2017",
-      "abstract": "According to cognitive load theorists, the incorporation of extraneous features, such as pedagogical agents, into the learning environment can introduce extraneous cognitive load and thus interfere with learning outcome scores. In this study, the influence of a pedagogical agent’s presence in an instructional video was compared to a video that did not contain a pedagogical agent. The results indicated no significant differences on a multiple choice learning outcome measure or on a perceived mental effort measure that was rated both after the instructional sequence and after completion of the post-test. In addition, no significant differences were found between groups in relation to their training efficiency or instructional efficiency. Accordingly, the position that the mere appearance of a pedagogical agent in the learning environment increases the cognitive load imposed by a learning task should be re-examined.",
-      "url": "https://www.jstor.org/stable/26229212",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder"
     },
     {
       "title": "Strategies for designing engaging online kinesiology courses based on the community of inquiry model",
       "year": 2017,
       "citation": "Quest 69 (4), 480-493, 2017",
-      "abstract": "Technology integration has become an ever-present phenomenon in institutions of higher education. This has led to an increase in online learning experiences that make higher education accessible to those who previously experienced barriers, such as having full-time jobs. One issue that affects online education is the challenge of engaging the learner in meaningful learning experiences that they subsequently use once they are in their careers. This article uses the Community of Inquiry (CoI) theoretical model to explain how instructors can increase student engagement in online kinesiology courses. By focusing on the CoI constructs of teaching presence, cognitive presence, and social presence, instructors can design engaging online classes that can help to positively influence each student’s experience with online education.",
-      "url": "https://www.tandfonline.com/doi/abs/10.1080/00336297.2017.1295274",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Bethany Hersman and Noah Schroeder"
     },
     {
       "title": "The effect of pacing on learners’ perceptions of pedagogical agents",
       "year": 2017,
       "citation": "Journal of Educational Computing Research 55 (7), 937-950, 2017",
-      "abstract": "This study examined the influence of three levels of learner control on learners’ perceptions when learning with a pedagogical agent. Pedagogical agents have shown promise for improving learning and connections with learning materials within video-based instruction, and research has shown that agent design choices can influence how agents are perceived by learners. However, it is unclear the effect that the pacing of the video could have on the way the agent is perceived by the learner. The pacing of the learning environment refers to the amount of control a learner has over their learning experience. The question of how much control to provide the learner, in what situations, and for whom, is a persisting question in the literature. Using a three-group randomized experimental procedure, our analyses revealed that providing the learners with increased control of their learning experience was not associated …",
-      "url": "https://journals.sagepub.com/doi/abs/10.1177/0735633116689790",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Scotty D Craig"
     },
     {
       "title": "Variation in external representations as part of the classroom lecture: an investigation of virtual cell animations in introductory photosynthesis instruction",
       "year": 2017,
       "citation": "Biochemistry and Molecular Biology Education 45 (3), 226-234, 2017",
-      "abstract": "The use of external representations (ERs) to introduce concepts in undergraduate biology has become increasingly common. Two of the most prevalent are static images and dynamic animations. While previous studies comparing static images and dynamic animations have resulted in somewhat conflicting findings in regards to learning outcomes, the benefits of each have been shown individually. Using ERs developed by the Virtual Cell Animation project, we aim to further investigate student learning using different ERs as part of an introductory biology lecture. We focus our study on the topic of photosynthesis as reports have noted that students struggle with a number of basic photosynthesis concepts. Students (n = 167) in ten sections of introductory biology laboratory were introduced to photosynthesis concepts by instructional lectures differing only in the format of the embedded ERs. Normalized gain scores …",
-      "url": "https://iubmb.onlinelibrary.wiley.com/doi/abs/10.1002/bmb.21032",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Eric E Goff and Katie M Reindl and Christina Johnson and Phillip McClean and Erika G Offerdahl and Noah L Schroeder and Alan R White"
     },
     {
       "title": "Learning about chemiosmosis and ATP synthesis with animations outside of the classroom",
       "year": 2017,
       "citation": "Journal of Microbiology & Biology Education 18 (1), 10.1128/jmbe. v18i1. 1223, 2017",
-      "abstract": "Many undergraduate biology courses have begun to implement instructional strategies aimed at increasing student interaction with course material outside of the classroom. Two examples of such practices are introducing students to concepts as preparation prior to instruction, and as conceptual reinforcement after the instructional period. Using a three-group design, we investigate the impact of an animation developed as part of the Virtual Cell Animation Collection on the topic of concentration gradients and their role in the actions of ATP synthase as a means of pre-class preparation or post-class reinforcement compared with a no-intervention control group. Results from seven sections of introductory biology (n = 732) randomized to treatments over two semesters show that students who viewed animation as preparation (d = 0.44, p < 0.001) or as reinforcement (d = 0.53, p < 0.001) both outperformed students in …",
-      "url": "https://journals.asm.org/doi/abs/10.1128/jmbe.v18i1.1223",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Eric E Goff and Katie M Reindl and Christina Johnson and Phillip McClean and Erika G Offerdahl and Noah L Schroeder and Alan R White"
     },
     {
       "title": "A preliminary investigation of the influences of refutation text and instructional design",
       "year": 2016,
       "citation": "Technology, Knowledge and Learning 21, 325-340, 2016",
-      "abstract": "Teachers are often tasked with changing their students’ conceptions about scientific topics. One strategy that has been found effective for conceptual change is the use of refutation text. However, reviewing the literature revealed that many practical questions around the use refutation text have not been adequately addressed. A secondary issue is that teachers often create instructional videos for their students to view outside of class, but little guidance exists on how to design these videos. This study begins to examine the intersection of refutation text, conceptual change, and instructional video design by testing (a) the effects of traditional refutation text and soft refutation text on conceptual change when presented as narration in an instructional video, (b) the effects of traditional refutation text compared to soft refutation text when presented as narration on conceptual change in an instructional video, and (c …",
-      "url": "https://link.springer.com/article/10.1007/s10758-016-9278-8",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder"
     },
     {
       "title": "Pedagogical agents for learning",
       "year": 2016,
       "citation": "Emerging tools and applications of virtual reality in education, 216-238, 2016",
-      "abstract": "Throughout the past two decades, researchers have seen rapid innovations in the field of learning technologies. Virtual reality, video games, and online learning are becoming quite common in educational contexts. Pedagogical agents are often present in a variety of these virtual environments. Pedagogical agents are virtual characters with an on-screen presence that are designed to facilitate learning in multimedia environments. In this chapter the author examines the theoretical rationale for incorporating a pedagogical agent into a learning environment, critically examines their effectiveness for learning, and discusses how they have been implemented in research studies to date. Suggestions for future research in virtual reality environments are highlighted.",
-      "url": "https://www.igi-global.com/chapter/pedagogical-agents-for-learning/144061",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder"
     },
     {
       "title": "Persisting issues in pedagogical agent research",
       "year": 2015,
       "citation": "Journal of Educational Computing Research 53 (2), 183-204, 2015",
-      "abstract": "Virtual characters have become ubiquitous in multimedia applications, appearing in numerous contexts such as characters in video games, avatars in immersive worlds, or tutors in multimedia learning environments. One type of virtual character is known as a pedagogical agent. Pedagogical agents are lifelike characters present in multimedia learning environments in order to facilitate learning. Pedagogical agents have been researched for nearly two decades, yet the effectiveness of including an agent in a learning environment remains debatable. The purpose of this study was to critically examine persisting issues in pedagogical agent research that examines the use of an agent to a nonagent condition. Our analysis of the literature highlights three persisting issues and provides promising future research directions.",
-      "url": "https://journals.sagepub.com/doi/abs/10.1177/0735633115597625",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Chad M Gotch"
     },
     {
       "title": "Impacts of pedagogical agent gender in an accessible learning environment",
       "year": 2015,
       "citation": "Journal of Educational Technology & Society 18 (4), 401-411, 2015",
-      "abstract": "Advances in information technologies have resulted in the use of pedagogical agents to facilitate learning. Although several studies have been conducted to examine the effects of pedagogical agents on learning, little is known about gender stereotypes of agents and how those stereotypes influence student learning and attitudes. This study investigates if the pedagogical agent’s gender influences cognitive and affective outcomes in learnerattenuated system-paced environments. The findings reveal that the gender of the agent did not produce any statistically significant effects. This indicates that the effects of learning with pedagogical agents may be independent of the agents’ gender. The implications for theory and practice are discussed, along with future research directions.",
-      "url": "https://www.jstor.org/stable/pdf/jeductechsoci.18.4.401.pdf",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Olusola O Adesope"
     },
     {
       "title": "A systematic review of pedagogical agents’ persona, motivation, and cognitive load implications for learners",
       "year": 2014,
       "citation": "Journal of Research on Technology in Education 46 (3), 229-251, 2014",
-      "abstract": "After more than a decade of pedagogical agent research, this review synthesizes the affective implications of learning with pedagogical agents. The review investigates different affective measures within 99 pedagogical agent outcome measures. The results suggest that learners may prefer pedagogical agents compared to non-agent control conditions, and pedagogical agents may provide motivational benefits for some populations under certain conditions. However, it is unclear whether pedagogical agents impose extraneous cognitive load. Overall, consistent with research around learning outcomes (Mayer, Dow, & Mayer, 2003), the results suggest that the image of the agent may not be necessary for the learner to receive the affective benefits of the interaction. We delineate limitations of the current study and future research directions.",
-      "url": "https://www.tandfonline.com/doi/abs/10.1080/15391523.2014.888265",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Olusola O Adesope"
     },
     {
       "title": "Efficacy beliefs, job satisfaction, stress and their influence on the occupational commitment of English-medium content teachers in the Dominican Republic",
       "year": 2014,
       "citation": "Educational Psychology 34 (7), 876-899, 2014",
-      "abstract": "The purpose of the present study was to investigate the effects of efficacy, job satisfaction, job stress and their influence on the occupational commitment of English-medium content teachers. A total of 109 practicing English-medium and Spanish-medium content teachers from the Dominican Republic volunteered to participate in the study. Findings suggest both teacher self-efficacy and collective efficacy measures were inversely but significantly correlated with occupational commitment and positively correlated with job satisfaction. The results also showed significant differences between English-medium and Spanish-medium content teachers’ self-efficacy, job satisfaction, job stress and occupational commitment. These findings have significant implications for advancing theory and practice. Recommendations for further research are discussed.",
-      "url": "https://www.tandfonline.com/doi/abs/10.1080/01443410.2013.814193",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Rachel Barouch Gilbert and Olusola O Adesope and Noah Lee Schroeder"
     },
     {
       "title": "Building Assessment and Evaluation Capacity of Engineering Educators Through ASSESS",
       "year": 2014,
       "citation": "2014 ASEE Annual Conference & Exposition, 24.241. 1-24.241. 17, 2014",
-      "abstract": "In recent years, assessment and evaluation have become vital to engineering educators for both program accreditation and judging the impacts of educational innovations. For effective assessment, engineering faculty must understand assessment, be able to select appropriate assessment instruments, administer assessments suitably to gain accurate measures of outcomes, and interpret results for properly informed decision making. Yet, engineering faculty often do not receive training to adequately incorporate assessment into daily practice. Others face ongoing challenges of locating assessment instruments suitable for their specific needs and knowing how to use them competently. A need exists to identify ways of incorporating assessment instruments into evaluation of educational innovations and outcomes in engineering contexts.This paper aims to build the evaluation and assessment capacity of engineering educators by unfolding the final version of the Appraisal System for Superior Engineering Education Evaluation-instrument Sharing and Scholarship (ASSESS), a web-based repository and search engine for finding desired assessment instruments. The paper provides an overview of the engineering assessment landscape and ways in which assessment can be used to effectively evaluate educational practices. The paper characterizes assessment instruments currently used in engineering education and tabulates characteristics of assessment instruments necessary for sound assessment and evaluation. Specific cases from ASSESS are examined for assessing selected outcomes, and gaps are identified where additional instruments …",
-      "url": "https://sftp.asee.org/building-assessment-and-evaluation-capacity-of-engineering-educators-through-assess.pdf",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Jennifer E LeBeau and Denny C Davis and Howard P Davis and Noah L Schroeder and Brian F French and Shane A Brown"
     },
     {
       "title": "How effective are pedagogical agents for learning? A meta-analytic review",
       "year": 2013,
       "citation": "Journal of Educational Computing Research 49 (1), 1-39, 2013",
-      "abstract": "Research on the use of software programs and tools such as pedagogical agents has peaked over the last decade. Pedagogical agents are on-screen characters that facilitate instruction. This meta-analysis examined the effect of using pedagogical agents on learning by reviewing 43 studies involving 3,088 participants. Analysis of the results indicated that pedagogical agents produced a small but significant effect on learning. The overall mean effect size was moderated by the contextual and methodological features of the studies. The findings revealed that the use of pedagogical agents were more beneficial for K-12 students than post-secondary students. Pedagogical agents that communicated with students using on-screen text facilitated learning more effectively than agents that communicated using narration. The findings of this study have implications for advancing theory and practice, as well as highlighting …",
-      "url": "https://journals.sagepub.com/doi/abs/10.2190/EC.49.1.a",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Olusola O Adesope and Rachel Barouch Gilbert"
     },
     {
       "title": "How does a contextually-relevant peer pedagogical agent in a learner-attenuated system-paced learning environment affect cognitive and affective outcomes?",
       "year": 2013,
       "citation": "Journal of Teaching and Learning with Technology, 114-133, 2013",
-      "abstract": "Educational technology is becoming ubiquitous in schools, thus presenting new challenges in the classroom. For instance, teachers may struggle to find ways to motivate students to learn in multimedia learning environments. One plausible solution is the use of pedagogical agents, which are characters meant to facilitate learning in multimedia learning environments. This study examines the impact of a contextually-relevant, peer agent compared to a condition which provided narration and concurrent keywords displayed on the screen. The findings revealed no statistically significant differences between the two groups. The results, in part, support the presence principle of multimedia learning. However, the results do not suggest that a pedagogical agent is deemed a seductive detail, or distraction during the learning task. Rather, the agent’s presence does not have any significant effect on learning or affective outcomes.",
-      "url": "https://scholarworks.iu.edu/journals/index.php/jotlt/article/view/3968",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Olusola O Adesope"
     },
     {
       "title": "A case for the use of pedagogical agents in online learning environments",
       "year": 2013,
       "citation": "Journal of Teaching and Learning with Technology, 43-47, 2013",
-      "abstract": "Progressive multimedia learning tools have been extensively researched over the past twenty years. Two of these tools include intelligent tutoring systems (Graesser et al., 2004; Ma, Adesope, & Nesbit, 2011; VanLehn, 2011) and pedagogical agents (Mayer & DaPra, 2012; Moreno, Mayer, Spires, & Lester, 2001). In this paper we discuss pedagogical agents, which are visible characters in multimedia learning environments designed to facilitate learning (Moreno, 2005; Schroeder, Adesope, & Barouch Gilbert, 2012). Some researchers have expressed reservations that pedagogical agents may not be cost-effective (Choi & Clark, 2006; Clark & Choi, 2005; 2007). However, while it previously may have taken a considerable amount of time and resources to design and implement a pedagogical agent within a learning environment, recent advances in technology make pedagogical agent-based systems more accessible and affordable to educators.Pedagogical agent research is typically grounded in social agency theory. Social agency theory is based on previous research which indicates that people treat computers as fellow humans (Reeves & Nass, 1996), and posits that “social cues in a multimedia message can prime the social conversation schema in learners”(Mayer, Sabko, & Mautone, 2003, p. 419). Thus, Mayer et al.(2003) suggest that learners may perceive computer interaction as a social exchange of information. In sum, it is hypothesized that if the learner perceives the computer interaction as social communication, it may cause increased performance on transfer tests due to the student engaging in the “sense-making process”(Mayer et al …",
-      "url": "https://rex.libraries.wsu.edu/esploro/fulltext/journalArticle/A-Case-for-the-use-of/99900601057301842?repId=12353563260001842&mId=13354546620001842&institution=01ALLIANCE_WSU",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Olusola O Adesope"
     },
     {
       "title": "Do 3D Pedagogical Agents Help Students Learn Science?: A Systematic Review",
       "year": 2013,
       "citation": "Cases on 3D Technology Application and Integration in Education, 49-71, 2013",
-      "abstract": "This systematic review investigates the effects of 3D pedagogical agents on learning scientific materials. A comprehensive search of the literature produced 576 research abstracts. After applying pre-determined inclusion criteria, fifteen studies compared the use of 3D pedagogical agents with a non-agent control condition to offer instruction to participants. The results revealed that 3D pedagogical agents provided more benefits to students learning science than other instructional approaches, such as reading a text. The results are discussed, and suggestions for future research are delineated.",
-      "url": "https://www.igi-global.com/chapter/pedagogical-agents-help-students-learn/74405",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Olusola O Adesope"
     },
     {
       "title": "Exploring pedagogical agent use within learner-attenuated system-paced learning environments",
       "year": 2013,
       "citation": "Washington State University, 2013",
-      "abstract": "Educational technology is influencing the paradigms of both K-12 and post-secondary education in the United States. While some teachers may still give lectures in a classroom environment, we are now seeing the development and increasing popularity of online schooling. As educators attempt to meet the challenges of teaching with technology, they must choose which educational tools they will employ. Pedagogical agents represent one such tool. Pedagogical agents are on-screen characters which have been found to facilitate learning in some situations. The purpose of this dissertation was to explore pedagogical agents use in a learner-attenuated system-paced (LASP) learning environment. LASP learning environments differ from other types of multimedia learning systems because they allow the user to fast-forward, pause, or rewind, while presenting all of the information in one streaming video rather than …",
-      "url": "https://search.proquest.com/openview/f8aad2a320286f9781e0ac4cc446bd7d/1?pq-origsite=gscholar&cbl=18750",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah Lee Schroeder"
     },
     {
       "title": "Does a Pedagogical Agent’s Gender Impact Learner’s Perceptive Responses in a Learner-Attenuated System-Paced Learning Environment?",
       "year": 2013,
       "citation": "E-Learn: World Conference on E-Learning in Corporate, Government, Healthcare …, 2013",
-      "abstract": "Pedagogical agents are visible characters within multimedia learning environments. Previous research has utilized pedagogical agents in system-paced and learner-paced environments. Yet, some computer programs accessible to teachers create learning environments which do not clearly align with either of these conditions. The purpose of this study was to investigate how manipulating the gender of a pedagogical agent in a learner-attenuated system-paced learning environment can affect a learner’s perceptive responses. The findings showed that learner’s responded similarly to both the female and male agents, with no significant advantage to either gender. The implications of these findings are briefly discussed.",
-      "url": "https://www.learntechlib.org/p/115188/",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah Schroeder and Olusola Adesope"
     },
     {
       "title": "Does a Pedagogical Agent Facilitate Learning in a Learner-Attenuated System-Paced Learning Environment?",
       "year": 2013,
       "citation": "E-Learn: World Conference on E-Learning in Corporate, Government, Healthcare …, 2013",
-      "abstract": "Pedagogical agents are characters which appear in a multimedia learning environment to facilitate learning. In the past, researchers have explored their use in system-paced and learner-paced environments. Yet, learning environments exist which do not clearly fall into either category. The purpose of this study was to investigate the effect of a contextually-relevant, peer pedagogical agent compared to a low verbal redundancy non-agent condition in a learner-attenuated system-paced learning environment. The findings showed that there were no significant differences between the two groups. The implications for theory and practice are briefly discussed.",
-      "url": "https://www.learntechlib.org/p/115187/",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah Schroeder and Olusola Adesope"
     },
     {
@@ -553,39 +553,39 @@
       "year": 2012,
       "citation": "American Educational Research Association Annual Meeting, 2012",
       "abstract": "Abstract not available",
-      "url": "https://rex.libraries.wsu.edu/esploro/outputs/conferencePresentation/A-meta-analysis-of-the-effects-of/99900612065401842",
+      "url": "#",
       "authors": "Noah Lee Schroeder and Olusola O Adesope and R Barouch Gilbert"
     },
     {
       "title": "Concept Maps as Tools for Learning Scientific Language",
       "year": 2012,
       "citation": "Cases on Inquiry through Instructional Technology in Math and Science, 51-72, 2012",
-      "abstract": "Learning scientific language continues to be challenging for many students because of its inherent complexity, volume of specific terminology, and many fields of science which incorporate the same terminology for different applications. In order to more effectively learn and apply the language of science, the authors propose the use of concept mapping. Research on concept mapping suggests that it is more effective than traditional teaching methods in students’ knowledge retention and transfer when compared to control groups that did not use concept mapping, but rather participated in class discussions, attended lectures, and read text passages regardless of educational level, settings, or subject domain (Nesbit & Adesope, 2006). Based on this synthesis of research, teachers are encouraged to adopt concept mapping as a pedagogical strategy in their science classrooms as no detrimental findings have been …",
-      "url": "https://www.igi-global.com/chapter/content/62203",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder and Olusola O Adesope"
     },
     {
       "title": "Pedagogical Agents and Learning: Are They Worth the Cost?",
       "year": 2011,
       "citation": "E-Learn: World Conference on E-Learning in Corporate, Government, Healthcare …, 2011",
-      "abstract": "Pedagogical agent research over the past decade has examined a broad range of topics. Research of pedagogical agent’s effect on the cognitive domain has, at best, produced mixed results as to whether the agent’s presence on-screen produces learning gains. The results appear to be mixed because of the vast range of possible agent features, and lack of a common control group in numerous experiments. This paper reviews the theoretical underpinnings of pedagogical agents, practical uses of pedagogical agents, as well as the conflicting empirical research results. The review concludes with the cost-effectiveness considerations and suggestions for future research.",
-      "url": "https://www.learntechlib.org/p/39032/",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah Schroeder and Rachel Barouch Gilbert and Olusola Adesope"
     },
     {
       "title": "PEDAGOGICAL AGENTS EFFECTS ON LEARNING",
       "year": 2011,
       "citation": "Washington State University, 2011",
-      "abstract": "Innovative educational technology tools have great promise for improving learning, yet they are often not utilized to their full potential (Moreno, Mayer, Spires, & Lester, 2001). For example, it is common for these tools to take the role of books, conveying large amounts of textual information (Moreno, Mayer, Spires, & Lester, 2001). In an effort to break away from this trend, sophisticated instructional software tools have been developed, such as intelligent tutoring systems and software agents. Pedagogical agents, for the purposes of this study, are onscreen characters which can interact with or instruct the learner (for similar definitions see",
-      "url": "https://rex.libraries.wsu.edu/view/pdfCoverPage?instCode=01ALLIANCE_WSU&filePid=13338223140001842&download=true",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah Lee Schroeder"
     },
     {
       "title": "Concept Maps as Metacognitive Instructional Tools for English Language Learners",
       "year": 2011,
       "citation": "E-Learn: World Conference on E-Learning in Corporate, Government, Healthcare …, 2011",
-      "abstract": "Education of limited English proficiency students has posed an enormous challenge to the United States public education system. Difficulties triggered by language limitations hinder the academic growth of these students and affect their overall achievement. Alternative instructional tools, such as concept maps, may offer a unique approach to instruction offering multiple benefits to the English language learner. Research findings suggest that concept maps are useful instructional tools applicable with learners across a range of proficiency levels, without contextual limitations. This paper discusses the inherent metacognitive benefits concept mapping activities offer, and how these are ideal the for limited English proficient student’s success inside the classroom.",
-      "url": "https://www.learntechlib.org/p/38991/",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Rachel Barouch Gilbert and Noah Schroeder and Olusola Adesope"
     },
     {
@@ -593,7 +593,7 @@
       "year": "Year Unknown",
       "citation": "American Educational Research Association Annual Meeting, 0",
       "abstract": "Abstract not available",
-      "url": "https://rex.libraries.wsu.edu/esploro/outputs/conferencePresentation/Do-teachers-quit-due-to-stress/99900612066101842",
+      "url": "#",
       "authors": "Rachel Barouch Gilbert and Noah Lee Schroeder and Olusola O Adesope"
     },
     {
@@ -601,7 +601,7 @@
       "year": "Year Unknown",
       "citation": "Canadian Society for the Study of Education Conference, 0",
       "abstract": "Abstract not available",
-      "url": "https://rex.libraries.wsu.edu/esploro/outputs/conferencePresentation/Are-we-preparing-pre-service-teachers-to/99900612066901842",
+      "url": "#",
       "authors": "Noah Lee Schroeder and Olusola O Adesope"
     },
     {
@@ -609,7 +609,7 @@
       "year": "Year Unknown",
       "citation": "American Educational Research Association Annual Meeting, 0",
       "abstract": "Abstract not available",
-      "url": "https://rex.libraries.wsu.edu/esploro/outputs/conferencePresentation/A-meta-analysis-of-the-effect-of/99900612039001842",
+      "url": "#",
       "authors": "R Barouch Gilbert and Noah Lee Schroeder and Olusola O Adesope"
     },
     {
@@ -617,7 +617,7 @@
       "year": "Year Unknown",
       "citation": "Technology-Enhanced Curricula in Higher Education, 0",
       "abstract": "Abstract not available",
-      "url": "https://rex.libraries.wsu.edu/esploro/outputs/conferencePresentation/How-effective-is-blended-learning-for/99900612067801842",
+      "url": "#",
       "authors": "J Lloyd and Noah Lee Schroeder and Olusola O Adesope"
     },
     {
@@ -625,15 +625,15 @@
       "year": "Year Unknown",
       "citation": "Canadian Society for the Study of Education Conference, 0",
       "abstract": "Abstract not available",
-      "url": "https://rex.libraries.wsu.edu/esploro/outputs/conferencePresentation/A-systematic-review-of-learners-perceptions/99900612066601842",
+      "url": "#",
       "authors": "Noah Lee Schroeder and Olusola O Adesope"
     },
     {
       "title": "Mesa, AZ 85212 USA,(scotty. craig@ asu. edu)",
       "year": "Year Unknown",
       "citation": "",
-      "abstract": "The current paper investigates an essential design component of virtual humans, the voice they communicate with, by examining the impact of varied voice types. A standard voice effect has held that human voices should be paired with virtual humans. The current study revisits this effect. In a randomized trial, virtual humans used one of three voice types (classic and modern text-to-speech engines, as well as human voice) to present information to a sample of participants from an online population. The impact of each voice type on learning, cognitive load, and perceptions of the virtual human were examined. The study found that the modern voice engine produced significantly more learning on transfer outcomes, had greater training efficiency, and was rated at the same level as an agent with a human voice for facilitating learning and credibility while outperforming the older speech engine. These results call into question previous results using older voice engines and the claims of the voice effect.",
-      "url": "https://www.researchgate.net/profile/Scotty-Craig/publication/318341059_Reconsidering_the_voice_effect_when_learning_from_a_virtual_human/links/5b746423299bf14c6da8a23f/Reconsidering-the-voice-effect-when-learning-from-a-virtual-human.pdf",
+      "abstract": "Abstract not available",
+      "url": "#",
       "authors": "Noah L Schroeder"
     },
     {
@@ -641,7 +641,7 @@
       "year": "Year Unknown",
       "citation": "",
       "abstract": "Abstract not available",
-      "url": "https://scholar.google.com/scholar?cluster=12934058761513632148&hl=en&oi=scholarr",
+      "url": "#",
       "authors": "Noah L Schroeder and Olusola O Adesope"
     }
   ]
