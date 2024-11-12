@@ -1,8 +1,8 @@
 {
-  "citations": 2397,
+  "citations": 2409,
   "h_index": 24,
-  "publications": 80,
-  "last_updated": "2024-11-10 16:21:24",
+  "publications": 81,
+  "last_updated": "2024-11-12 14:24:39",
   "recent_publications": [
     {
       "title": "Pedagogical agents in K-12 education: a scoping review",
@@ -11,6 +11,14 @@
       "abstract": "Over the past three decades the field of pedagogical agents (PAs) has seen significant growth, but no review has specifically focused on the design and use of PAs for K-12 students, despite the fact that an early meta-analysis showed that they receive the most benefits from learning from or with PAs. Our systematic search revealed 112 studies that met the inclusion criteria and were analyzed. Our findings revealed a plethora of studies investigating the use of PAs with K-12 populations and a considerable number of longitudinal studies, both of which the field has long stated did not exist in significant numbers. Our findings contrast long-held findings in the field, further support others, and highlight areas where further experimentation and research synthesis are needed.",
       "url": "https://www.tandfonline.com/doi/abs/10.1080/15391523.2024.2381229",
       "authors": "Shan Zhang and Chris Davis Jaldi and Noah L Schroeder and Jessica R Gladstone"
+    },
+    {
+      "title": "Semi-automating the Scoping Review Process: Is it Worthwhile? A Methodological Evaluation",
+      "year": 2024,
+      "citation": "Educational Psychology Review 36 (4), 1-35, 2024",
+      "abstract": "Systematic reviews are a time-consuming yet effective approach to understanding research trends. While researchers have investigated how to speed up the process of screening studies for potential inclusion, few have focused on to what extent we can use algorithms to extract data instead of human coders. In this study, we explore to what extent analyses and algorithms can produce results similar to human data extraction during a scoping review—a type of systematic review aimed at understanding the nature of the field rather than the efficacy of an intervention—in the context of a never before analyzed sample of studies that were intended for a scoping review. Specifically, we tested five approaches: bibliometric analysis with VOSviewer, latent Dirichlet allocation (LDA) with bag of words, k-means clustering with TF-IDF, Sentence-BERT, or SPECTER, hierarchical clustering with Sentence-BERT, and BERTopic …",
+      "url": "https://link.springer.com/article/10.1007/s10648-024-09972-0",
+      "authors": "Shan Zhang and Chris Palaguachi and Marcin Pitera and Chris Davis Jaldi and Noah L Schroeder and Anthony F Botelho and Jessica R Gladstone"
     },
     {
       "title": "Large language models for whole-learner support: opportunities and challenges",
@@ -53,20 +61,20 @@
       "authors": "Noah L Schroeder"
     },
     {
-      "title": "The instructor presence effect and its moderators in instructional video: A series of meta-analyses",
-      "year": 2023,
-      "citation": "Educational Research Review, 100564, 2023",
-      "abstract": "Researchers disagree on the extent to which social cues in instructional videos influence learning and learning-relevant outcomes and processes. The instructor presence effect states that visible instructors in instructional videos lead to increased social presence and higher scores in subjective ratings like motivation, social presence, or affect, but do not improve learning outcomes. In contrast, the Cognitive-Affective-Social Theory of Learning in digital Environments outlines how social cues not only enhance social, emotional, and motivational processes, but they also potentially promote learning outcomes. We conducted a series of meta-analyses to explore the effects of instructor presence in instructional videos on retention, transfer, social presence, motivation, cognitive load, affect, and visual dwell time. The meta-analyses include 35 studies, which contained 46 pair-wise comparisons and 6339 participants …",
-      "url": "https://www.sciencedirect.com/science/article/pii/S1747938X2300057X",
-      "authors": "Maik Beege and Noah L Schroeder and Steffi Heidig and Günter Daniel Rey and Sascha Schneider"
-    },
-    {
       "title": "Twenty-five years of learning with pedagogical agents: History, barriers, and opportunities",
       "year": 2023,
       "citation": "TechTrends 67 (5), 851-864, 2023",
       "abstract": "Pedagogical agents are on-screen characters that help facilitate learning in a virtual or mixed-reality setting. The research on pedagogical agents has shifted focus since their creation, from understanding their underlying principles, identifying their potential roles and usage, and recently finetuning their design for applied practice. This paper explores the history of pedagogical agents and summarizes the current state of knowledge. Once the current state of pedagogical agents is established, barriers and opportunities are discussed to suggest how researchers can best improve pedagogical agents and their implementation.",
       "url": "https://link.springer.com/article/10.1007/s11528-023-00869-3",
       "authors": "Robert F Siegle and Noah L Schroeder and H Chad Lane and Scotty D Craig"
+    },
+    {
+      "title": "The instructor presence effect and its moderators in instructional video: A series of meta-analyses",
+      "year": 2023,
+      "citation": "Educational Research Review, 100564, 2023",
+      "abstract": "Researchers disagree on the extent to which social cues in instructional videos influence learning and learning-relevant outcomes and processes. The instructor presence effect states that visible instructors in instructional videos lead to increased social presence and higher scores in subjective ratings like motivation, social presence, or affect, but do not improve learning outcomes. In contrast, the Cognitive-Affective-Social Theory of Learning in digital Environments outlines how social cues not only enhance social, emotional, and motivational processes, but they also potentially promote learning outcomes. We conducted a series of meta-analyses to explore the effects of instructor presence in instructional videos on retention, transfer, social presence, motivation, cognitive load, affect, and visual dwell time. The meta-analyses include 35 studies, which contained 46 pair-wise comparisons and 6339 participants …",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1747938X2300057X",
+      "authors": "Maik Beege and Noah L Schroeder and Steffi Heidig and Günter Daniel Rey and Sascha Schneider"
     },
     {
       "title": "Lessons learned from online learning at scale: a study of exemplar learning organizations",
@@ -489,7 +497,7 @@
       "year": 2014,
       "citation": "2014 ASEE Annual Conference & Exposition, 24.241. 1-24.241. 17, 2014",
       "abstract": "In recent years, assessment and evaluation have become vital to engineering educators for both program accreditation and judging the impacts of educational innovations. For effective assessment, engineering faculty must understand assessment, be able to select appropriate assessment instruments, administer assessments suitably to gain accurate measures of outcomes, and interpret results for properly informed decision making. Yet, engineering faculty often do not receive training to adequately incorporate assessment into daily practice. Others face ongoing challenges of locating assessment instruments suitable for their specific needs and knowing how to use them competently. A need exists to identify ways of incorporating assessment instruments into evaluation of educational innovations and outcomes in engineering contexts.This paper aims to build the evaluation and assessment capacity of engineering educators by unfolding the final version of the Appraisal System for Superior Engineering Education Evaluation-instrument Sharing and Scholarship (ASSESS), a web-based repository and search engine for finding desired assessment instruments. The paper provides an overview of the engineering assessment landscape and ways in which assessment can be used to effectively evaluate educational practices. The paper characterizes assessment instruments currently used in engineering education and tabulates characteristics of assessment instruments necessary for sound assessment and evaluation. Specific cases from ASSESS are examined for assessing selected outcomes, and gaps are identified where additional instruments …",
-      "url": "https://scholar.archive.org/work/gfmheyvn4rbfvoifyw4rrx75ki/access/wayback/https://www.jee.org/20132.pdf",
+      "url": "https://sftp.asee.org/building-assessment-and-evaluation-capacity-of-engineering-educators-through-assess.pdf",
       "authors": "Jennifer E LeBeau and Denny C Davis and Howard P Davis and Noah L Schroeder and Brian F French and Shane A Brown"
     },
     {
