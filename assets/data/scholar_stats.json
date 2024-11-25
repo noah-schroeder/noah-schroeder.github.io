@@ -1,8 +1,8 @@
 {
-  "citations": 2422,
+  "citations": 2433,
   "h_index": 24,
-  "publications": 81,
-  "last_updated": "2024-11-18 17:31:35",
+  "publications": 82,
+  "last_updated": "2024-11-25 20:31:29",
   "recent_publications": [
     {
       "title": "Pedagogical agents in K-12 education: a scoping review",
@@ -13,12 +13,28 @@
       "authors": "Shan Zhang and Chris Davis Jaldi and Noah L Schroeder and Jessica R Gladstone"
     },
     {
+      "title": "Pedagogical Agent Design for K-12 Education: A Systematic Review",
+      "year": 2024,
+      "citation": "Computers & Education, 105165, 2024",
+      "abstract": "Pedagogical agents (PAs) are increasingly being integrated into educational technologies. Although previous reviews have examined the impact of PAs on learning and learning-related outcomes, it still remains unclear what specific design features, social cues, and other contextual elements of PA implementation can optimize the learning process. These questions are even more prevalent with regards to the K-12 population, as most reviews to date have largely focused on post-secondary learners. To address this gap in the literature, we systematically review empirical studies around the design of PAs for K-12 learners. After reviewing 1374 studies for potential inclusion, we analyzed 44 studies that met our inclusion criteria using Heidig and Clarebout’s (2011) frameworks. Our findings showed that learners had preferences for specific types of PAs. While these preferences were not always associated with …",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0360131524001799",
+      "authors": "Shan Zhang and Chris Davis Jaldi and Noah L Schroeder and Alexis A López and Jessica R Gladstone and Steffi Heidig"
+    },
+    {
       "title": "Semi-automating the Scoping Review Process: Is it Worthwhile? A Methodological Evaluation",
       "year": 2024,
       "citation": "Educational Psychology Review 36 (4), 1-35, 2024",
       "abstract": "Systematic reviews are a time-consuming yet effective approach to understanding research trends. While researchers have investigated how to speed up the process of screening studies for potential inclusion, few have focused on to what extent we can use algorithms to extract data instead of human coders. In this study, we explore to what extent analyses and algorithms can produce results similar to human data extraction during a scoping review—a type of systematic review aimed at understanding the nature of the field rather than the efficacy of an intervention—in the context of a never before analyzed sample of studies that were intended for a scoping review. Specifically, we tested five approaches: bibliometric analysis with VOSviewer, latent Dirichlet allocation (LDA) with bag of words, k-means clustering with TF-IDF, Sentence-BERT, or SPECTER, hierarchical clustering with Sentence-BERT, and BERTopic …",
       "url": "https://link.springer.com/article/10.1007/s10648-024-09972-0",
       "authors": "Shan Zhang and Chris Palaguachi and Marcin Pitera and Chris Davis Jaldi and Noah L Schroeder and Anthony F Botelho and Jessica R Gladstone"
+    },
+    {
+      "title": "Education in the Era of Neurosymbolic AI",
+      "year": 2024,
+      "citation": "arXiv preprint arXiv:2411.12763, 2024",
+      "abstract": "Education is poised for a transformative shift with the advent of neurosymbolic artificial intelligence (NAI), which will redefine how we support deeply adaptive and personalized learning experiences. NAI-powered education systems will be capable of interpreting complex human concepts and contexts while employing advanced problem-solving strategies, all grounded in established pedagogical frameworks. This will enable a level of personalization in learning systems that to date has been largely unattainable at scale, providing finely tailored curricula that adapt to an individual's learning pace and accessibility needs, including the diagnosis of student understanding of subjects at a fine-grained level, identifying gaps in foundational knowledge, and adjusting instruction accordingly. In this paper, we propose a system that leverages the unique affordances of pedagogical agents -- embodied characters designed to enhance learning -- as critical components of a hybrid NAI architecture. To do so, these agents can thus simulate nuanced discussions, debates, and problem-solving exercises that push learners beyond rote memorization toward deep comprehension. We discuss the rationale for our system design and the preliminary findings of our work. We conclude that education in the era of NAI will make learning more accessible, equitable, and aligned with real-world skills. This is an era that will explore a new depth of understanding in educational tools.",
+      "url": "https://arxiv.org/abs/2411.12763",
+      "authors": "Chris Davis Jaldi and Eleni Ilkou and Noah Schroeder and Cogan Shimizu"
     },
     {
       "title": "Large language models for whole-learner support: opportunities and challenges",
@@ -35,14 +51,6 @@
       "abstract": "Pedagogical agents are virtual characters that instructional designers include in learning environments to help students learn. Research in the area has flourished for thirty years, yet there are still critical questions about the efficacy of pedagogical agents for influencing learning and affect. As such, we conducted an umbrella review to synthesize the field. We located 17 systematic reviews or meta-analyses focused on the use of pedagogical agents in educational settings. We found that agents can have small positive effects on learning, motivation, and other affective variables. However, we still cannot say how one should design a pedagogical agent for any given educational context. We highlight the limitations of existing theory in the area, as well as existing reviews from a practical and methodological perspective, and highlight productive areas for future research.",
       "url": "https://journals.sagepub.com/doi/abs/10.1177/07356331241288476",
       "authors": "Noah L Schroeder and Robert O Davis and Eunbyul Yang"
-    },
-    {
-      "title": "Pedagogical Agent Design for K-12 Education: A Systematic Review",
-      "year": 2024,
-      "citation": "Computers & Education, 105165, 2024",
-      "abstract": "Pedagogical agents (PAs) are increasingly being integrated into educational technologies. Although previous reviews have examined the impact of PAs on learning and learning-related outcomes, it still remains unclear what specific design features, social cues, and other contextual elements of PA implementation can optimize the learning process. These questions are even more prevalent with regards to the K-12 population, as most reviews to date have largely focused on post-secondary learners. To address this gap in the literature, we systematically review empirical studies around the design of PAs for K-12 learners. After reviewing 1374 studies for potential inclusion, we analyzed 44 studies that met our inclusion criteria using Heidig and Clarebout’s (2011) frameworks. Our findings showed that learners had preferences for specific types of PAs. While these preferences were not always associated with …",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0360131524001799",
-      "authors": "Shan Zhang and Chris Davis Jaldi and Noah L Schroeder and Alexis A López and Jessica R Gladstone and Steffi Heidig"
     },
     {
       "title": "Simple meta-analysis",
@@ -77,20 +85,20 @@
       "authors": "Maik Beege and Noah L Schroeder and Steffi Heidig and Günter Daniel Rey and Sascha Schneider"
     },
     {
-      "title": "Lessons learned from online learning at scale: a study of exemplar learning organizations",
-      "year": 2023,
-      "citation": "TechTrends 67 (1), 84-97, 2023",
-      "abstract": "As the areas of education and workforce training tend more toward online training, they have emphasized the rapid setup and expansion of online environments. This scaling-up and scaling-out of training programs can be difficult, but there are examples of success available for us to learn from. To capture the lessons learned, we conducted semi-structured interviews across academic, public, private, and non-profit organizations. Using deductive thematic analysis, three major groups of determinants were identified: technological infrastructure, human infrastructure, and governance. A framework consisting of three actionable recommendations was created to facilitate online learning organizational scaling-up including learner (learning experiences and user-friendly design), technical (technical competencies and the use of integrated data), and management (technical competencies for both learners and instructors …",
-      "url": "https://link.springer.com/article/10.1007/s11528-022-00761-6",
-      "authors": "Siyuan Li and Scotty D Craig and Noah L Schroeder"
-    },
-    {
       "title": "A meta-analysis on learning from 360° video",
       "year": 2023,
       "citation": "Computers & Education 206, 104901, 2023",
       "abstract": "Learners are increasingly experiencing 360° videos across educational environments, including within spherical video virtual reality (SVVR) environments. Although 360° videos may offer an immersive experience, it is not yet clear if they offer any broadly generalizable learning benefits compared to other conditions. In this study, we conducted a three-level meta-analysis to examine the effects of 360° videos on learning compared to other learning conditions. Results show no significant benefit nor detriment from learning with 360° videos. We also found few factors which significantly moderated the effect. We conclude that if supporting cognitive learning outcomes is the goal, as opposed to affective or perceptive outcomes, there are likely other technologies that may be more resource efficient for supporting learning. Additional implications for research and practice are discussed.",
       "url": "https://www.sciencedirect.com/science/article/pii/S0360131523001781",
       "authors": "Noah L Schroeder and Robert F Siegle and Scotty D Craig"
+    },
+    {
+      "title": "Lessons learned from online learning at scale: a study of exemplar learning organizations",
+      "year": 2023,
+      "citation": "TechTrends 67 (1), 84-97, 2023",
+      "abstract": "As the areas of education and workforce training tend more toward online training, they have emphasized the rapid setup and expansion of online environments. This scaling-up and scaling-out of training programs can be difficult, but there are examples of success available for us to learn from. To capture the lessons learned, we conducted semi-structured interviews across academic, public, private, and non-profit organizations. Using deductive thematic analysis, three major groups of determinants were identified: technological infrastructure, human infrastructure, and governance. A framework consisting of three actionable recommendations was created to facilitate online learning organizational scaling-up including learner (learning experiences and user-friendly design), technical (technical competencies and the use of integrated data), and management (technical competencies for both learners and instructors …",
+      "url": "https://link.springer.com/article/10.1007/s11528-022-00761-6",
+      "authors": "Siyuan Li and Scotty D Craig and Noah L Schroeder"
     },
     {
       "title": "A preliminary study of the efficacy of using a wrist-worn multiparameter sensor for the prediction of cognitive flow states in university-level students",
@@ -205,20 +213,20 @@
       "authors": "Noah L Schroeder and Scotty D Craig"
     },
     {
-      "title": "Longitudinal classification of mental effort using electrodermal activity, heart rate, and skin temperature data from a wearable sensor",
-      "year": 2021,
-      "citation": "Pattern Recognition. ICPR International Workshops and Challenges: Virtual …, 2021",
-      "abstract": "Recent studies show that physiological data can detect changes in mental effort, making way for the development of wearable sensors to monitor mental effort in school, work, and at home. We have yet to explore how such a device would work with a single participant over an extended time duration. We used a longitudinal case study design with ~38 h of data to explore the efficacy of electrodermal activity, skin temperature, and heart rate for classifying mental effort. We utilized a 2-state Markov switching regression model to understand the efficacy of these physiological measures for predicting self-reported mental effort during logged activities. On average, a model with state-dependent relationships predicted within one unit of reported mental effort (training RMSE = 0.4, testing RMSE = 0.7). This automated sensing of mental effort can have applications in various domains including student …",
-      "url": "https://link.springer.com/chapter/10.1007/978-3-030-68790-8_8",
-      "authors": "William Romine and Noah Schroeder and Anjali Edwards and Tanvi Banerjee"
-    },
-    {
       "title": "Sensor-Based Prediction of Mental Effort during Learning from Physiological Data: A Longitudinal Case Study",
       "year": 2021,
       "citation": "Signals 2 (4), 886-901, 2021",
       "abstract": "Trackers for activity and physical fitness have become ubiquitous. Although recent work has demonstrated significant relationships between mental effort and physiological data such as skin temperature, heart rate, and electrodermal activity, we have yet to demonstrate their efficacy for the forecasting of mental effort such that a useful mental effort tracker can be developed. Given prior difficulty in extracting relationships between mental effort and physiological responses that are repeatable across individuals, we make the case that fusing self-report measures with physiological data within an internet or smartphone application may provide an effective method for training a useful mental effort tracking system. In this case study, we utilized over 90 h of data from a single participant over the course of a college semester. By fusing the participant’s self-reported mental effort in different activities over the course of the semester with concurrent physiological data collected with the Empatica E4 wearable sensor, we explored questions around how much data were needed to train such a device, and which types of machine-learning algorithms worked best. We concluded that although baseline models such as logistic regression and Markov models provided useful explanatory information on how the student’s physiology changed with mental effort, deep-learning algorithms were able to generate accurate predictions using the first 28 h of data for training. A system that combines long short-term memory and convolutional neural networks is recommended in order to generate smooth predictions while also being able to capture transitions in mental effort …",
       "url": "https://www.mdpi.com/2624-6120/2/4/51",
       "authors": "Ankita Agarwal and Josephine Graft and Noah Schroeder and William Romine"
+    },
+    {
+      "title": "Longitudinal classification of mental effort using electrodermal activity, heart rate, and skin temperature data from a wearable sensor",
+      "year": 2021,
+      "citation": "Pattern Recognition. ICPR International Workshops and Challenges: Virtual …, 2021",
+      "abstract": "Recent studies show that physiological data can detect changes in mental effort, making way for the development of wearable sensors to monitor mental effort in school, work, and at home. We have yet to explore how such a device would work with a single participant over an extended time duration. We used a longitudinal case study design with ~38 h of data to explore the efficacy of electrodermal activity, skin temperature, and heart rate for classifying mental effort. We utilized a 2-state Markov switching regression model to understand the efficacy of these physiological measures for predicting self-reported mental effort during logged activities. On average, a model with state-dependent relationships predicted within one unit of reported mental effort (training RMSE = 0.4, testing RMSE = 0.7). This automated sensing of mental effort can have applications in various domains including student …",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-030-68790-8_8",
+      "authors": "William Romine and Noah Schroeder and Anjali Edwards and Tanvi Banerjee"
     },
     {
       "title": "Scaling team training: Using virtual worlds to support learning in massive open online courses",
