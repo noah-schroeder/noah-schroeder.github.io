@@ -1,9 +1,17 @@
 {
-  "citations": 2433,
+  "citations": 2457,
   "h_index": 24,
   "publications": 82,
-  "last_updated": "2024-11-25 20:31:29",
+  "last_updated": "2024-12-06 14:55:08",
   "recent_publications": [
+    {
+      "title": "Designing and Learning With Pedagogical Agents: An Umbrella Review",
+      "year": 2025,
+      "citation": "Journal of Educational Computing Research 62 (8), 2127-2156, 2025",
+      "abstract": "Pedagogical agents are virtual characters that instructional designers include in learning environments to help students learn. Research in the area has flourished for thirty years, yet there are still critical questions about the efficacy of pedagogical agents for influencing learning and affect. As such, we conducted an umbrella review to synthesize the field. We located 17 systematic reviews or meta-analyses focused on the use of pedagogical agents in educational settings. We found that agents can have small positive effects on learning, motivation, and other affective variables. However, we still cannot say how one should design a pedagogical agent for any given educational context. We highlight the limitations of existing theory in the area, as well as existing reviews from a practical and methodological perspective, and highlight productive areas for future research.",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/07356331241288476",
+      "authors": "Noah L Schroeder and Robert O Davis and Eunbyul Yang"
+    },
     {
       "title": "Pedagogical agents in K-12 education: a scoping review",
       "year": 2024,
@@ -13,7 +21,7 @@
       "authors": "Shan Zhang and Chris Davis Jaldi and Noah L Schroeder and Jessica R Gladstone"
     },
     {
-      "title": "Pedagogical Agent Design for K-12 Education: A Systematic Review",
+      "title": "Pedagogical agent design for K-12 education: A systematic review",
       "year": 2024,
       "citation": "Computers & Education, 105165, 2024",
       "abstract": "Pedagogical agents (PAs) are increasingly being integrated into educational technologies. Although previous reviews have examined the impact of PAs on learning and learning-related outcomes, it still remains unclear what specific design features, social cues, and other contextual elements of PA implementation can optimize the learning process. These questions are even more prevalent with regards to the K-12 population, as most reviews to date have largely focused on post-secondary learners. To address this gap in the literature, we systematically review empirical studies around the design of PAs for K-12 learners. After reviewing 1374 studies for potential inclusion, we analyzed 44 studies that met our inclusion criteria using Heidig and Clarebout’s (2011) frameworks. Our findings showed that learners had preferences for specific types of PAs. While these preferences were not always associated with …",
@@ -45,14 +53,6 @@
       "authors": "Amogh Mannekote and Adam Davies and Juan D Pinto and Shan Zhang and Daniel Olds and Noah L Schroeder and Blair Lehman and Diego Zapata-Rivera and ChengXiang Zhai"
     },
     {
-      "title": "Designing and Learning With Pedagogical Agents: An Umbrella Review",
-      "year": 2024,
-      "citation": "Journal of Educational Computing Research, 07356331241288476, 2024",
-      "abstract": "Pedagogical agents are virtual characters that instructional designers include in learning environments to help students learn. Research in the area has flourished for thirty years, yet there are still critical questions about the efficacy of pedagogical agents for influencing learning and affect. As such, we conducted an umbrella review to synthesize the field. We located 17 systematic reviews or meta-analyses focused on the use of pedagogical agents in educational settings. We found that agents can have small positive effects on learning, motivation, and other affective variables. However, we still cannot say how one should design a pedagogical agent for any given educational context. We highlight the limitations of existing theory in the area, as well as existing reviews from a practical and methodological perspective, and highlight productive areas for future research.",
-      "url": "https://journals.sagepub.com/doi/abs/10.1177/07356331241288476",
-      "authors": "Noah L Schroeder and Robert O Davis and Eunbyul Yang"
-    },
-    {
       "title": "Simple meta-analysis",
       "year": 2024,
       "citation": "https://github.com/noah-schroeder/simple_meta-analysis/, 2024",
@@ -69,20 +69,20 @@
       "authors": "Noah L Schroeder"
     },
     {
-      "title": "Twenty-five years of learning with pedagogical agents: History, barriers, and opportunities",
-      "year": 2023,
-      "citation": "TechTrends 67 (5), 851-864, 2023",
-      "abstract": "Pedagogical agents are on-screen characters that help facilitate learning in a virtual or mixed-reality setting. The research on pedagogical agents has shifted focus since their creation, from understanding their underlying principles, identifying their potential roles and usage, and recently finetuning their design for applied practice. This paper explores the history of pedagogical agents and summarizes the current state of knowledge. Once the current state of pedagogical agents is established, barriers and opportunities are discussed to suggest how researchers can best improve pedagogical agents and their implementation.",
-      "url": "https://link.springer.com/article/10.1007/s11528-023-00869-3",
-      "authors": "Robert F Siegle and Noah L Schroeder and H Chad Lane and Scotty D Craig"
-    },
-    {
       "title": "The instructor presence effect and its moderators in instructional video: A series of meta-analyses",
       "year": 2023,
       "citation": "Educational Research Review, 100564, 2023",
       "abstract": "Researchers disagree on the extent to which social cues in instructional videos influence learning and learning-relevant outcomes and processes. The instructor presence effect states that visible instructors in instructional videos lead to increased social presence and higher scores in subjective ratings like motivation, social presence, or affect, but do not improve learning outcomes. In contrast, the Cognitive-Affective-Social Theory of Learning in digital Environments outlines how social cues not only enhance social, emotional, and motivational processes, but they also potentially promote learning outcomes. We conducted a series of meta-analyses to explore the effects of instructor presence in instructional videos on retention, transfer, social presence, motivation, cognitive load, affect, and visual dwell time. The meta-analyses include 35 studies, which contained 46 pair-wise comparisons and 6339 participants …",
       "url": "https://www.sciencedirect.com/science/article/pii/S1747938X2300057X",
       "authors": "Maik Beege and Noah L Schroeder and Steffi Heidig and Günter Daniel Rey and Sascha Schneider"
+    },
+    {
+      "title": "Twenty-five years of learning with pedagogical agents: History, barriers, and opportunities",
+      "year": 2023,
+      "citation": "TechTrends 67 (5), 851-864, 2023",
+      "abstract": "Pedagogical agents are on-screen characters that help facilitate learning in a virtual or mixed-reality setting. The research on pedagogical agents has shifted focus since their creation, from understanding their underlying principles, identifying their potential roles and usage, and recently finetuning their design for applied practice. This paper explores the history of pedagogical agents and summarizes the current state of knowledge. Once the current state of pedagogical agents is established, barriers and opportunities are discussed to suggest how researchers can best improve pedagogical agents and their implementation.",
+      "url": "https://link.springer.com/article/10.1007/s11528-023-00869-3",
+      "authors": "Robert F Siegle and Noah L Schroeder and H Chad Lane and Scotty D Craig"
     },
     {
       "title": "A meta-analysis on learning from 360° video",
