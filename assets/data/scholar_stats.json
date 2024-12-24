@@ -1,24 +1,16 @@
 {
-  "citations": 2457,
+  "citations": 2476,
   "h_index": 24,
-  "publications": 82,
-  "last_updated": "2024-12-06 14:55:08",
+  "publications": 83,
+  "last_updated": "2024-12-24 03:08:34",
   "recent_publications": [
     {
-      "title": "Designing and Learning With Pedagogical Agents: An Umbrella Review",
+      "title": "Designing and learning with pedagogical agents: An umbrella review",
       "year": 2025,
       "citation": "Journal of Educational Computing Research 62 (8), 2127-2156, 2025",
       "abstract": "Pedagogical agents are virtual characters that instructional designers include in learning environments to help students learn. Research in the area has flourished for thirty years, yet there are still critical questions about the efficacy of pedagogical agents for influencing learning and affect. As such, we conducted an umbrella review to synthesize the field. We located 17 systematic reviews or meta-analyses focused on the use of pedagogical agents in educational settings. We found that agents can have small positive effects on learning, motivation, and other affective variables. However, we still cannot say how one should design a pedagogical agent for any given educational context. We highlight the limitations of existing theory in the area, as well as existing reviews from a practical and methodological perspective, and highlight productive areas for future research.",
       "url": "https://journals.sagepub.com/doi/abs/10.1177/07356331241288476",
       "authors": "Noah L Schroeder and Robert O Davis and Eunbyul Yang"
-    },
-    {
-      "title": "Pedagogical agents in K-12 education: a scoping review",
-      "year": 2024,
-      "citation": "Journal of Research on Technology in Education, 1-28, 2024",
-      "abstract": "Over the past three decades the field of pedagogical agents (PAs) has seen significant growth, but no review has specifically focused on the design and use of PAs for K-12 students, despite the fact that an early meta-analysis showed that they receive the most benefits from learning from or with PAs. Our systematic search revealed 112 studies that met the inclusion criteria and were analyzed. Our findings revealed a plethora of studies investigating the use of PAs with K-12 populations and a considerable number of longitudinal studies, both of which the field has long stated did not exist in significant numbers. Our findings contrast long-held findings in the field, further support others, and highlight areas where further experimentation and research synthesis are needed.",
-      "url": "https://www.tandfonline.com/doi/abs/10.1080/15391523.2024.2381229",
-      "authors": "Shan Zhang and Chris Davis Jaldi and Noah L Schroeder and Jessica R Gladstone"
     },
     {
       "title": "Pedagogical agent design for K-12 education: A systematic review",
@@ -27,6 +19,14 @@
       "abstract": "Pedagogical agents (PAs) are increasingly being integrated into educational technologies. Although previous reviews have examined the impact of PAs on learning and learning-related outcomes, it still remains unclear what specific design features, social cues, and other contextual elements of PA implementation can optimize the learning process. These questions are even more prevalent with regards to the K-12 population, as most reviews to date have largely focused on post-secondary learners. To address this gap in the literature, we systematically review empirical studies around the design of PAs for K-12 learners. After reviewing 1374 studies for potential inclusion, we analyzed 44 studies that met our inclusion criteria using Heidig and Clarebout’s (2011) frameworks. Our findings showed that learners had preferences for specific types of PAs. While these preferences were not always associated with …",
       "url": "https://www.sciencedirect.com/science/article/pii/S0360131524001799",
       "authors": "Shan Zhang and Chris Davis Jaldi and Noah L Schroeder and Alexis A López and Jessica R Gladstone and Steffi Heidig"
+    },
+    {
+      "title": "Pedagogical agents in K-12 education: a scoping review",
+      "year": 2024,
+      "citation": "Journal of Research on Technology in Education, 1-28, 2024",
+      "abstract": "Over the past three decades the field of pedagogical agents (PAs) has seen significant growth, but no review has specifically focused on the design and use of PAs for K-12 students, despite the fact that an early meta-analysis showed that they receive the most benefits from learning from or with PAs. Our systematic search revealed 112 studies that met the inclusion criteria and were analyzed. Our findings revealed a plethora of studies investigating the use of PAs with K-12 populations and a considerable number of longitudinal studies, both of which the field has long stated did not exist in significant numbers. Our findings contrast long-held findings in the field, further support others, and highlight areas where further experimentation and research synthesis are needed.",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/15391523.2024.2381229",
+      "authors": "Shan Zhang and Chris Davis Jaldi and Noah L Schroeder and Jessica R Gladstone"
     },
     {
       "title": "Semi-automating the Scoping Review Process: Is it Worthwhile? A Methodological Evaluation",
@@ -51,6 +51,14 @@
       "abstract": "In recent years, large language models (LLMs) have seen rapid advancement and adoption, and are increasingly being used in educational contexts. In this perspective article, we explore the open challenge of leveraging LLMs to create personalized learning environments that support the “whole learner” by modeling and adapting to both cognitive and non-cognitive characteristics. We identify three key challenges toward this vision: (1) improving the interpretability of LLMs' representations of whole learners, (2) implementing adaptive technologies that can leverage such representations to provide tailored pedagogical support, and (3) authoring and evaluating LLM-based educational agents. For interpretability, we discuss approaches for explaining LLM behaviors in terms of their internal representations of learners; for adaptation, we examine how LLMs can be used to provide context-aware feedback and scaffold non-cognitive skills through natural language interactions; and for authoring, we highlight the opportunities and challenges involved in using natural language instructions to specify behaviors of educational agents. Addressing these challenges will enable personalized AI tutors that can enhance learning by accounting for each student's unique background, abilities, motivations, and socioemotional needs.",
       "url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1460364/full",
       "authors": "Amogh Mannekote and Adam Davies and Juan D Pinto and Shan Zhang and Daniel Olds and Noah L Schroeder and Blair Lehman and Diego Zapata-Rivera and ChengXiang Zhai"
+    },
+    {
+      "title": "Measuring Skin Temperature as an Indicator for Cognitive Flow Using a Wrist-worn Wearable",
+      "year": 2024,
+      "citation": "2024 46th Annual International Conference of the IEEE Engineering in …, 2024",
+      "abstract": "As traditional fitness sensors have revolutionized engagement in exercise through continuous feedback on physical effort and exertion, continuous feedback provided by wearable sensors can help us optimize our mental engagement and experience. To that end, our research focuses on developing a framework for measuring cognitive flow using physiological data which can be readily collected through wrist-worn wearable sensors. Previous research suggests that movement and skin temperature are strong predictors of flow state. While movement is a precursor to flow in many cases, an increase in skin temperature is an outcome of being in flow and may be a robust predictor for flow across many types of activities. In this study, we compare skin temperature trajectories between activities which are conducive to flow and those which are not conducive to flow and evaluate the efficacy of the trajectory curve …",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10782532/",
+      "authors": "William Romine and Tanvi Banerjee and Noah Schroeder"
     },
     {
       "title": "Simple meta-analysis",
@@ -157,20 +165,20 @@
       "authors": "William Romine and Noah Schroeder and Tanvi Banerjee and Josephine Graft"
     },
     {
-      "title": "Inconsistent interactions between the seductive details effect and ego depletion in multimedia learning",
-      "year": 2022,
-      "citation": "Applied Cognitive Psychology 36 (2), 418-432, 2022",
-      "abstract": "Multimedia learning often consists of a sequence of tasks, and research suggests that the sequence itself may influence learning outcomes. This study examines one theory related to task sequencing, known as ego depletion, and its interaction with a well‐established instructional design effect, the seductive details effect. To investigate the potential impact of ego depletion, a state of depleted self‐control strength, on learning with seductive details, which are interesting but irrelevant elements of the instruction, we conducted a randomized controlled experiment in which both ego depletion and seductive details were manipulated as two between‐subjects independent variables. Although manipulation checks confirmed the efficacy of the interventions, we found mixed results in learning outcome measures, particularly in the investigation of an interaction between the seductive details effect and ego depletion …",
-      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3932",
-      "authors": "Zhe Wang and Noah L Schroeder"
-    },
-    {
       "title": "When refutation and deep reasoning questions lose their edge: The case of short, narrated videos",
       "year": 2022,
       "citation": "Journal of Educational Computing Research 60 (5), 1197-1219, 2022",
       "abstract": "Virtual humans are virtual characters within multimedia learning environments designed to aid the learning process. While there is a large variety of research examining how to design the physical appearance of the character or the teaching strategies it should embody, there is comparatively little work around the design of the narrative the virtual human uses to communicate with the learner. In this study, we examine the use of four different types of text structures to structure the character’s narrative in an instructional video: expository, refutation text, deep reasoning questions, and refutation text and deep reasoning questions; and their effects on learning, perceptions, attitudes, and emotions about genetically modified foods. Our results largely indicated no significant differences between the different communication strategies. We hypothesize that the length, dosage, and pacing of the intervention could explain why …",
       "url": "https://journals.sagepub.com/doi/abs/10.1177/07356331211070534",
       "authors": "Noah L Schroeder and Robert F Siegle and Vipin Verma and Scotty D Craig"
+    },
+    {
+      "title": "Inconsistent interactions between the seductive details effect and ego depletion in multimedia learning",
+      "year": 2022,
+      "citation": "Applied Cognitive Psychology 36 (2), 418-432, 2022",
+      "abstract": "Multimedia learning often consists of a sequence of tasks, and research suggests that the sequence itself may influence learning outcomes. This study examines one theory related to task sequencing, known as ego depletion, and its interaction with a well‐established instructional design effect, the seductive details effect. To investigate the potential impact of ego depletion, a state of depleted self‐control strength, on learning with seductive details, which are interesting but irrelevant elements of the instruction, we conducted a randomized controlled experiment in which both ego depletion and seductive details were manipulated as two between‐subjects independent variables. Although manipulation checks confirmed the efficacy of the interventions, we found mixed results in learning outcome measures, particularly in the investigation of an interaction between the seductive details effect and ego depletion …",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3932",
+      "authors": "Zhe Wang and Noah L Schroeder"
     },
     {
       "title": "Implementation and Importance of Science of Learning Best Practices within Learning Organizations",
