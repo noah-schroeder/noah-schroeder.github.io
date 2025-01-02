@@ -1,8 +1,8 @@
 {
-  "citations": 2476,
+  "citations": 2485,
   "h_index": 24,
   "publications": 83,
-  "last_updated": "2024-12-24 03:08:34",
+  "last_updated": "2025-01-02 17:55:22",
   "recent_publications": [
     {
       "title": "Designing and learning with pedagogical agents: An umbrella review",
@@ -29,20 +29,20 @@
       "authors": "Shan Zhang and Chris Davis Jaldi and Noah L Schroeder and Jessica R Gladstone"
     },
     {
+      "title": "Education in the era of Neurosymbolic AI",
+      "year": 2024,
+      "citation": "Journal of Web Semantics, 100857, 2024",
+      "abstract": "Education is poised for a transformative shift with the advent of neurosymbolic artificial intelligence (NAI), which will redefine how we support deeply adaptive and personalized learning experiences. The integration of Knowledge Graphs (KGs) with Large Language Models (LLMs), a significant and popular form of NAI, presents a promising avenue for advancing personalized instruction via neurosymbolic educational agents. By leveraging structured knowledge, these agents can provide individualized learning experiences that align with specific learner preferences and desired learning paths, while also mitigating biases inherent in traditional AI systems. NAI-powered education systems will be capable of interpreting complex human concepts and contexts while employing advanced problem-solving strategies, all grounded in established pedagogical frameworks. In this paper, we propose a system that leverages …",
+      "url": "https://www.sciencedirect.com/science/article/pii/S157082682400043X",
+      "authors": "Chris Davis Jaldi and Eleni Ilkou and Noah Schroeder and Cogan Shimizu"
+    },
+    {
       "title": "Semi-automating the Scoping Review Process: Is it Worthwhile? A Methodological Evaluation",
       "year": 2024,
       "citation": "Educational Psychology Review 36 (4), 1-35, 2024",
       "abstract": "Systematic reviews are a time-consuming yet effective approach to understanding research trends. While researchers have investigated how to speed up the process of screening studies for potential inclusion, few have focused on to what extent we can use algorithms to extract data instead of human coders. In this study, we explore to what extent analyses and algorithms can produce results similar to human data extraction during a scoping review—a type of systematic review aimed at understanding the nature of the field rather than the efficacy of an intervention—in the context of a never before analyzed sample of studies that were intended for a scoping review. Specifically, we tested five approaches: bibliometric analysis with VOSviewer, latent Dirichlet allocation (LDA) with bag of words, k-means clustering with TF-IDF, Sentence-BERT, or SPECTER, hierarchical clustering with Sentence-BERT, and BERTopic …",
       "url": "https://link.springer.com/article/10.1007/s10648-024-09972-0",
       "authors": "Shan Zhang and Chris Palaguachi and Marcin Pitera and Chris Davis Jaldi and Noah L Schroeder and Anthony F Botelho and Jessica R Gladstone"
-    },
-    {
-      "title": "Education in the Era of Neurosymbolic AI",
-      "year": 2024,
-      "citation": "arXiv preprint arXiv:2411.12763, 2024",
-      "abstract": "Education is poised for a transformative shift with the advent of neurosymbolic artificial intelligence (NAI), which will redefine how we support deeply adaptive and personalized learning experiences. NAI-powered education systems will be capable of interpreting complex human concepts and contexts while employing advanced problem-solving strategies, all grounded in established pedagogical frameworks. This will enable a level of personalization in learning systems that to date has been largely unattainable at scale, providing finely tailored curricula that adapt to an individual's learning pace and accessibility needs, including the diagnosis of student understanding of subjects at a fine-grained level, identifying gaps in foundational knowledge, and adjusting instruction accordingly. In this paper, we propose a system that leverages the unique affordances of pedagogical agents -- embodied characters designed to enhance learning -- as critical components of a hybrid NAI architecture. To do so, these agents can thus simulate nuanced discussions, debates, and problem-solving exercises that push learners beyond rote memorization toward deep comprehension. We discuss the rationale for our system design and the preliminary findings of our work. We conclude that education in the era of NAI will make learning more accessible, equitable, and aligned with real-world skills. This is an era that will explore a new depth of understanding in educational tools.",
-      "url": "https://arxiv.org/abs/2411.12763",
-      "authors": "Chris Davis Jaldi and Eleni Ilkou and Noah Schroeder and Cogan Shimizu"
     },
     {
       "title": "Large language models for whole-learner support: opportunities and challenges",
