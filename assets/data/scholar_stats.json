@@ -1,8 +1,8 @@
 {
-  "citations": 2485,
+  "citations": 2518,
   "h_index": 24,
-  "publications": 83,
-  "last_updated": "2025-01-02 17:55:22",
+  "publications": 85,
+  "last_updated": "2025-01-27 15:46:57",
   "recent_publications": [
     {
       "title": "Designing and learning with pedagogical agents: An umbrella review",
@@ -13,12 +13,12 @@
       "authors": "Noah L Schroeder and Robert O Davis and Eunbyul Yang"
     },
     {
-      "title": "Pedagogical agent design for K-12 education: A systematic review",
-      "year": 2024,
-      "citation": "Computers & Education, 105165, 2024",
-      "abstract": "Pedagogical agents (PAs) are increasingly being integrated into educational technologies. Although previous reviews have examined the impact of PAs on learning and learning-related outcomes, it still remains unclear what specific design features, social cues, and other contextual elements of PA implementation can optimize the learning process. These questions are even more prevalent with regards to the K-12 population, as most reviews to date have largely focused on post-secondary learners. To address this gap in the literature, we systematically review empirical studies around the design of PAs for K-12 learners. After reviewing 1374 studies for potential inclusion, we analyzed 44 studies that met our inclusion criteria using Heidig and Clarebout’s (2011) frameworks. Our findings showed that learners had preferences for specific types of PAs. While these preferences were not always associated with …",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0360131524001799",
-      "authors": "Shan Zhang and Chris Davis Jaldi and Noah L Schroeder and Alexis A López and Jessica R Gladstone and Steffi Heidig"
+      "title": "Large Language Models with Human-In-The-Loop Validation for Systematic Review Data Extraction",
+      "year": 2025,
+      "citation": "arXiv preprint arXiv:2501.11840, 2025",
+      "abstract": "Systematic reviews are time-consuming endeavors. Historically speaking, knowledgeable humans have had to screen and extract data from studies before it can be analyzed. However, large language models (LLMs) hold promise to greatly accelerate this process. After a pilot study which showed great promise, we investigated the use of freely available LLMs for extracting data for systematic reviews. Using three different LLMs, we extracted 24 types of data, 9 explicitly stated variables and 15 derived categorical variables, from 112 studies that were included in a published scoping review. Overall we found that Gemini 1.5 Flash, Gemini 1.5 Pro, and Mistral Large 2 performed reasonably well, with 71.17%, 72.14%, and 62.43% of data extracted being consistent with human coding, respectively. While promising, these results highlight the dire need for a human-in-the-loop (HIL) process for AI-assisted data extraction. As a result, we present a free, open-source program we developed (AIDE) to facilitate user-friendly, HIL data extraction with LLMs.",
+      "url": "https://arxiv.org/abs/2501.11840",
+      "authors": "Noah L Schroeder and Chris Davis Jaldi and Shan Zhang"
     },
     {
       "title": "Pedagogical agents in K-12 education: a scoping review",
@@ -27,6 +27,14 @@
       "abstract": "Over the past three decades the field of pedagogical agents (PAs) has seen significant growth, but no review has specifically focused on the design and use of PAs for K-12 students, despite the fact that an early meta-analysis showed that they receive the most benefits from learning from or with PAs. Our systematic search revealed 112 studies that met the inclusion criteria and were analyzed. Our findings revealed a plethora of studies investigating the use of PAs with K-12 populations and a considerable number of longitudinal studies, both of which the field has long stated did not exist in significant numbers. Our findings contrast long-held findings in the field, further support others, and highlight areas where further experimentation and research synthesis are needed.",
       "url": "https://www.tandfonline.com/doi/abs/10.1080/15391523.2024.2381229",
       "authors": "Shan Zhang and Chris Davis Jaldi and Noah L Schroeder and Jessica R Gladstone"
+    },
+    {
+      "title": "Pedagogical agent design for K-12 education: A systematic review",
+      "year": 2024,
+      "citation": "Computers & Education, 105165, 2024",
+      "abstract": "Pedagogical agents (PAs) are increasingly being integrated into educational technologies. Although previous reviews have examined the impact of PAs on learning and learning-related outcomes, it still remains unclear what specific design features, social cues, and other contextual elements of PA implementation can optimize the learning process. These questions are even more prevalent with regards to the K-12 population, as most reviews to date have largely focused on post-secondary learners. To address this gap in the literature, we systematically review empirical studies around the design of PAs for K-12 learners. After reviewing 1374 studies for potential inclusion, we analyzed 44 studies that met our inclusion criteria using Heidig and Clarebout’s (2011) frameworks. Our findings showed that learners had preferences for specific types of PAs. While these preferences were not always associated with …",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0360131524001799",
+      "authors": "Shan Zhang and Chris Davis Jaldi and Noah L Schroeder and Alexis A López and Jessica R Gladstone and Steffi Heidig"
     },
     {
       "title": "Education in the era of Neurosymbolic AI",
@@ -611,6 +619,14 @@
       "abstract": "Education of limited English proficiency students has posed an enormous challenge to the United States public education system. Difficulties triggered by language limitations hinder the academic growth of these students and affect their overall achievement. Alternative instructional tools, such as concept maps, may offer a unique approach to instruction offering multiple benefits to the English language learner. Research findings suggest that concept maps are useful instructional tools applicable with learners across a range of proficiency levels, without contextual limitations. This paper discusses the inherent metacognitive benefits concept mapping activities offer, and how these are ideal the for limited English proficient student’s success inside the classroom.",
       "url": "https://www.learntechlib.org/p/38991/",
       "authors": "Rachel Barouch Gilbert and Noah Schroeder and Olusola Adesope"
+    },
+    {
+      "title": "Learning and Teaching with AI in STEM Education: An Umbrella Review",
+      "year": "Year Unknown",
+      "citation": "OSF, 0",
+      "abstract": "Artificial intelligence (AI) is increasingly integrated into educational settings, particularly within Science, Technology, Engineering, and Mathematics (STEM) education. However, existing research syntheses on AI in STEM are fragmented, each focusing on different subjects, leaving a lack of comprehensive understanding. To address this, we conducted a systematic review of systematic reviews, also known as an umbrella review. We identified and analyzed 13 reviews focusing on AI in STEM education covering Science, Computer Science, Mathematics, and broader STEM fields. We analyzed key implications for research and practice, research gaps, and future directions in each field, and used a wide range of quality metrics to assess trends. Our results reveal that most research focused on the development of effective AI systems, with less emphasis on their integration and practical implications. Consequently, there is a need for more rigorous and longitudinal studies to substantiate key research findings in the field. Implications for research and practice are discussed.",
+      "url": "https://osf.io/preprints/osf/472nm",
+      "authors": "Shan Zhang and Chris Davis Jaldi and Noah Schroeder"
     },
     {
       "title": "Do teachers quit due to stress?",
