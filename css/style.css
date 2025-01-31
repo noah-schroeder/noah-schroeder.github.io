@@ -240,6 +240,11 @@ section {
     margin-top: 3rem;
 }
 
+.research-item a {
+    text-decoration: none;
+    color: inherit;
+}
+
 .research-item {
     background: var(--white);
     padding: 2rem;
