@@ -265,6 +265,20 @@ section {
     font-size: 1.5rem;
 }
 
+.research-item-image {
+    width: 100%;
+    height: 300px; 
+    margin-bottom: 1rem;
+    overflow: hidden;
+    border-radius: 10px; /* Optional: for rounded corners */
+}
+
+.research-item-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* This ensures the image covers the area without distortion */
+}
+
 /* Publications */
 /* Add these styles to your CSS file */
 .publication-list {
@@ -458,7 +472,6 @@ section {
         width: 300px;
         height: 400px;
     }
-
     .profile-text h1 {
         font-size: 2.5rem;
     }
