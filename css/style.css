@@ -208,6 +208,15 @@ header {
     margin-bottom: 0;
 }
 
+.software-image {
+    width: 700px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 30px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
 /* Sections */
 section {
     padding: 8rem 0;
