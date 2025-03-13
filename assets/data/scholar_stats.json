@@ -1,9 +1,17 @@
 {
-  "citations": 2518,
+  "citations": 2597,
   "h_index": 24,
-  "publications": 85,
-  "last_updated": "2025-01-27 15:46:57",
+  "publications": 87,
+  "last_updated": "2025-03-13 16:10:48",
   "recent_publications": [
+    {
+      "title": "Education in the era of Neurosymbolic AI",
+      "year": 2025,
+      "citation": "Journal of Web Semantics 85, 100857, 2025",
+      "abstract": "Education is poised for a transformative shift with the advent of neurosymbolic artificial intelligence (NAI), which will redefine how we support deeply adaptive and personalized learning experiences. The integration of Knowledge Graphs (KGs) with Large Language Models (LLMs), a significant and popular form of NAI, presents a promising avenue for advancing personalized instruction via neurosymbolic educational agents. By leveraging structured knowledge, these agents can provide individualized learning experiences that align with specific learner preferences and desired learning paths, while also mitigating biases inherent in traditional AI systems. NAI-powered education systems will be capable of interpreting complex human concepts and contexts while employing advanced problem-solving strategies, all grounded in established pedagogical frameworks. In this paper, we propose a system that leverages …",
+      "url": "https://www.sciencedirect.com/science/article/pii/S157082682400043X",
+      "authors": "Chris Davis Jaldi and Eleni Ilkou and Noah Schroeder and Cogan Shimizu"
+    },
     {
       "title": "Designing and learning with pedagogical agents: An umbrella review",
       "year": 2025,
@@ -11,6 +19,14 @@
       "abstract": "Pedagogical agents are virtual characters that instructional designers include in learning environments to help students learn. Research in the area has flourished for thirty years, yet there are still critical questions about the efficacy of pedagogical agents for influencing learning and affect. As such, we conducted an umbrella review to synthesize the field. We located 17 systematic reviews or meta-analyses focused on the use of pedagogical agents in educational settings. We found that agents can have small positive effects on learning, motivation, and other affective variables. However, we still cannot say how one should design a pedagogical agent for any given educational context. We highlight the limitations of existing theory in the area, as well as existing reviews from a practical and methodological perspective, and highlight productive areas for future research.",
       "url": "https://journals.sagepub.com/doi/abs/10.1177/07356331241288476",
       "authors": "Noah L Schroeder and Robert O Davis and Eunbyul Yang"
+    },
+    {
+      "title": "The role of learner trust in generative artificially intelligent learning environments",
+      "year": 2025,
+      "citation": "Journal of Engineering Education 114 (2), e70000, 2025",
+      "abstract": "Large language models (LLMs) and specifically generative pre-trained transformer (GPT) models have dramatically increased the availability, use, and performance of generative artificial intelligence (AI) tools. Inevitably, there have been pushes and steps toward integrating generative AI into educational settings (Baidoo-Anu & Ansah, 2023; Su & Yang, 2023), and researchers have argued that these technologies hold the potential for offering deeply personalized learning (Jaldi et al., 2025; Mannekote et al., 2024). Although generative AI is still evolving, these technologies are frequently adopted as educational institutions strive to scale or operate effectively while improving their educational offerings and perceived value (eg, Swaak, 2024). Given the continued integration of generative AI into educational settings, researchers should consider the myriad factors that will influence the successful implementation and …",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jee.70000",
+      "authors": "Maria Goldshtein and Noah L Schroeder and Erin K Chiou"
     },
     {
       "title": "Large Language Models with Human-In-The-Loop Validation for Systematic Review Data Extraction",
@@ -37,12 +53,12 @@
       "authors": "Shan Zhang and Chris Davis Jaldi and Noah L Schroeder and Alexis A López and Jessica R Gladstone and Steffi Heidig"
     },
     {
-      "title": "Education in the era of Neurosymbolic AI",
+      "title": "Large language models for whole-learner support: opportunities and challenges",
       "year": 2024,
-      "citation": "Journal of Web Semantics, 100857, 2024",
-      "abstract": "Education is poised for a transformative shift with the advent of neurosymbolic artificial intelligence (NAI), which will redefine how we support deeply adaptive and personalized learning experiences. The integration of Knowledge Graphs (KGs) with Large Language Models (LLMs), a significant and popular form of NAI, presents a promising avenue for advancing personalized instruction via neurosymbolic educational agents. By leveraging structured knowledge, these agents can provide individualized learning experiences that align with specific learner preferences and desired learning paths, while also mitigating biases inherent in traditional AI systems. NAI-powered education systems will be capable of interpreting complex human concepts and contexts while employing advanced problem-solving strategies, all grounded in established pedagogical frameworks. In this paper, we propose a system that leverages …",
-      "url": "https://www.sciencedirect.com/science/article/pii/S157082682400043X",
-      "authors": "Chris Davis Jaldi and Eleni Ilkou and Noah Schroeder and Cogan Shimizu"
+      "citation": "Frontiers in Artificial Intelligence 7, 1460364, 2024",
+      "abstract": "In recent years, large language models (LLMs) have seen rapid advancement and adoption, and are increasingly being used in educational contexts. In this perspective article, we explore the open challenge of leveraging LLMs to create personalized learning environments that support the “whole learner” by modeling and adapting to both cognitive and non-cognitive characteristics. We identify three key challenges toward this vision: (1) improving the interpretability of LLMs' representations of whole learners, (2) implementing adaptive technologies that can leverage such representations to provide tailored pedagogical support, and (3) authoring and evaluating LLM-based educational agents. For interpretability, we discuss approaches for explaining LLM behaviors in terms of their internal representations of learners; for adaptation, we examine how LLMs can be used to provide context-aware feedback and scaffold non-cognitive skills through natural language interactions; and for authoring, we highlight the opportunities and challenges involved in using natural language instructions to specify behaviors of educational agents. Addressing these challenges will enable personalized AI tutors that can enhance learning by accounting for each student's unique background, abilities, motivations, and socioemotional needs.",
+      "url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1460364/full",
+      "authors": "Amogh Mannekote and Adam Davies and Juan D Pinto and Shan Zhang and Daniel Olds and Noah L Schroeder and Blair Lehman and Diego Zapata-Rivera and ChengXiang Zhai"
     },
     {
       "title": "Semi-automating the Scoping Review Process: Is it Worthwhile? A Methodological Evaluation",
@@ -53,12 +69,12 @@
       "authors": "Shan Zhang and Chris Palaguachi and Marcin Pitera and Chris Davis Jaldi and Noah L Schroeder and Anthony F Botelho and Jessica R Gladstone"
     },
     {
-      "title": "Large language models for whole-learner support: opportunities and challenges",
+      "title": "Learning about AI: A Systematic Review of Reviews on AI Literacy",
       "year": 2024,
-      "citation": "Frontiers in Artificial Intelligence 7, 1460364, 2024",
-      "abstract": "In recent years, large language models (LLMs) have seen rapid advancement and adoption, and are increasingly being used in educational contexts. In this perspective article, we explore the open challenge of leveraging LLMs to create personalized learning environments that support the “whole learner” by modeling and adapting to both cognitive and non-cognitive characteristics. We identify three key challenges toward this vision: (1) improving the interpretability of LLMs' representations of whole learners, (2) implementing adaptive technologies that can leverage such representations to provide tailored pedagogical support, and (3) authoring and evaluating LLM-based educational agents. For interpretability, we discuss approaches for explaining LLM behaviors in terms of their internal representations of learners; for adaptation, we examine how LLMs can be used to provide context-aware feedback and scaffold non-cognitive skills through natural language interactions; and for authoring, we highlight the opportunities and challenges involved in using natural language instructions to specify behaviors of educational agents. Addressing these challenges will enable personalized AI tutors that can enhance learning by accounting for each student's unique background, abilities, motivations, and socioemotional needs.",
-      "url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1460364/full",
-      "authors": "Amogh Mannekote and Adam Davies and Juan D Pinto and Shan Zhang and Daniel Olds and Noah L Schroeder and Blair Lehman and Diego Zapata-Rivera and ChengXiang Zhai"
+      "citation": "OSF, 2024",
+      "abstract": "Given the ubiquity of artificial intelligence (AI), it is essential to empower students to become creators, designers, and producers of AI technologies, rather than limiting them to the role of informed consumers. To achieve this, learners need to be equipped with AI knowledge and concepts and develop AI literacy. Paradoxically, it is largely unclear what AI literacy is and how we should learn and teach it. We address both of these questions through a systematic review of systematic reviews in the area, also known as an umbrella review, to gain a comprehensive understanding of the current state of AI literacy. After broadly searching the literature, we critically examine the results of 17 reviews focusing on AI literacy and the teaching and learning of AI concepts. Our analysis revealed several encouraging developments: a general consensus on the definition of AI literacy, the availability of diverse teaching tools and materials that support AI learning without prior programming experience, and effective pedagogical approaches that have shown positive effects on students' understanding and engagement. In addition, we identified several areas needing attention in the field: the need for an interdisciplinary pedagogical approach, the integration of ethical considerations in AI education research, discussion on AI policy, and a lack of standardized, content-validated, and reliable assessments across different educational levels and cultures. We conclude that the field has largely reached consensus on what AI literacy is, and there are a plethora of promising areas of future research.",
+      "url": "https://osf.io/preprints/osf/aue93",
+      "authors": "Shan Zhang and Priyadharshini Ganapathy Prasad and Noah Schroeder"
     },
     {
       "title": "Measuring Skin Temperature as an Indicator for Cognitive Flow Using a Wrist-worn Wearable",
@@ -87,7 +103,7 @@
     {
       "title": "The instructor presence effect and its moderators in instructional video: A series of meta-analyses",
       "year": 2023,
-      "citation": "Educational Research Review, 100564, 2023",
+      "citation": "Educational Research Review 41, 100564, 2023",
       "abstract": "Researchers disagree on the extent to which social cues in instructional videos influence learning and learning-relevant outcomes and processes. The instructor presence effect states that visible instructors in instructional videos lead to increased social presence and higher scores in subjective ratings like motivation, social presence, or affect, but do not improve learning outcomes. In contrast, the Cognitive-Affective-Social Theory of Learning in digital Environments outlines how social cues not only enhance social, emotional, and motivational processes, but they also potentially promote learning outcomes. We conducted a series of meta-analyses to explore the effects of instructor presence in instructional videos on retention, transfer, social presence, motivation, cognitive load, affect, and visual dwell time. The meta-analyses include 35 studies, which contained 46 pair-wise comparisons and 6339 participants …",
       "url": "https://www.sciencedirect.com/science/article/pii/S1747938X2300057X",
       "authors": "Maik Beege and Noah L Schroeder and Steffi Heidig and Günter Daniel Rey and Sascha Schneider"
@@ -125,15 +141,15 @@
       "authors": "Josephine Graft and William Romine and Brooklynn Watts and Noah Schroeder and Tawsik Jawad and Tanvi Banerjee"
     },
     {
-      "title": "Improving Online learning ecosystems with Science of Learning Best Practices",
+      "title": "A scoping review of wrist-worn wearables in education",
       "year": 2023,
-      "citation": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting 67 (1 …, 2023",
-      "abstract": "The dynamic and high-stakes nature of education and training demands that we rely on evidence-based practices and policies to make decisions about technology adoption and implementation within online learning ecosystems. To provide guidance to the field and practitioners, a broadly scoped literature review was conducted to identify the best practices for supporting and creating online learning ecosystems. This review provides a high-level summary of the findings organized into institutional and course best practices.",
-      "url": "https://journals.sagepub.com/doi/abs/10.1177/21695067231192447",
-      "authors": "Scotty D Craig and Noah L Schroeder"
+      "citation": "Computers and Education Open 5, 100154, 2023",
+      "abstract": "Within the past ten years, the public's use of wearables, such as smartwatches and fitness trackers, has greatly increased. Recently, researchers have published systematic reviews to examine how wearables are used in educational settings. However, not all wearables are alike. Head-mounted wearables and exoskeletons may be viewed as invasive, whereas smartwatches and wristbands are commonly worn by the public. In this scoping review, we systematically review the literature around wrist-worn wearables (WWs) in educational settings. Our systematic search revealed 1,932 unique research items, of which 46 met the inclusion criteria and were analyzed. Our findings reveal the trends in the field, we discuss the vast heterogeneity seen in the field, and we make a call for further in-depth systematic reviews in the areas of WWs as educational interventions, of studies where the data from WWs is used to predict …",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2666557323000320",
+      "authors": "Noah L Schroeder and William L Romine and Sidney E Kemp"
     },
     {
-      "title": "Trusting and Learning From Virtual Humans that Correct Common Misconceptions",
+      "title": "Trusting and learning from virtual humans that correct common misconceptions",
       "year": 2023,
       "citation": "Journal of Educational Computing Research 61 (4), 790-816, 2023",
       "abstract": "Virtual humans are on-screen characters that are often embedded in learning technologies to deliver educational content. Little research has investigated how virtual humans can be used to correct common misconceptions. In this study, we explored how different types of narrative structures, refutation text and expository text, influence perceptions of trust, credibility, and learning outcomes. In addition, we conducted exploratory analyses examining how different measures of trust and credibility are related to each other and how these measures may mediate learning outcomes. Results showed that the type of narrative used did not influence any measure. However, the trust and credibility measures, while related to one another, were measurably distinct. In addition, only perceptions of message trust were significantly related to learning. Perceptions of message trust did not mediate learning outcomes, but were …",
@@ -141,12 +157,12 @@
       "authors": "Noah L Schroeder and Erin K Chiou and Robert F Siegle and Scotty D Craig"
     },
     {
-      "title": "A Scoping Review of Wrist-worn Wearables in Education",
+      "title": "Improving online learning ecosystems with science of learning best practices",
       "year": 2023,
-      "citation": "Computers and Education Open, 100154, 2023",
-      "abstract": "Within the past ten years, the public's use of wearables, such as smartwatches and fitness trackers, has greatly increased. Recently, researchers have published systematic reviews to examine how wearables are used in educational settings. However, not all wearables are alike. Head-mounted wearables and exoskeletons may be viewed as invasive, whereas smartwatches and wristbands are commonly worn by the public. In this scoping review, we systematically review the literature around wrist-worn wearables (WWs) in educational settings. Our systematic search revealed 1,932 unique research items, of which 46 met the inclusion criteria and were analyzed. Our findings reveal the trends in the field, we discuss the vast heterogeneity seen in the field, and we make a call for further in-depth systematic reviews in the areas of WWs as educational interventions, of studies where the data from WWs is used to predict …",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2666557323000320",
-      "authors": "Noah L Schroeder and William L Romine and Sidney E Kemp"
+      "citation": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting 67 (1 …, 2023",
+      "abstract": "The dynamic and high-stakes nature of education and training demands that we rely on evidence-based practices and policies to make decisions about technology adoption and implementation within online learning ecosystems. To provide guidance to the field and practitioners, a broadly scoped literature review was conducted to identify the best practices for supporting and creating online learning ecosystems. This review provides a high-level summary of the findings organized into institutional and course best practices.",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/21695067231192447",
+      "authors": "Scotty D Craig and Noah L Schroeder"
     },
     {
       "title": "Refutation text facilitates learning: A meta-analysis of between-subjects experiments",
@@ -159,7 +175,7 @@
     {
       "title": "Pedagogical agents",
       "year": 2022,
-      "citation": "The Handbook on Socially Interactive Agents: 20 years of Research on …, 2022",
+      "citation": "The handbook on socially interactive agents: 20 years of research on …, 2022",
       "abstract": "This handbook consists of 28 chapters, covering the major topics in Socially Inter active Agents (SIAs). Each chapter provides a survey that summarizes the theoret ical background, approaches for implementation, history/overview of the topic, alongside with current challenges and future directions. All chapters discuss simi larities and differences between Intelligent Virtual Agents (IVAs) and Social Robots (SRs) and highlight important work of both fields in the topic. The chapters are clustered into five parts, representing broad themes in SIA research. Volume 1 [Lugrin et al. 2021] contains Parts I–III. Part I “Establishing SIA Research” helps the reader understand how research in this area is con ducted and discusses the impact on individuals and society. Part II “Appearance and Behaviour” deals with the most immediately noticeable external features of SIAs across multiple modalities. Part III “Social Cognition …",
       "url": "https://dl.acm.org/doi/abs/10.1145/3563659.3563669",
       "authors": "H Chad Lane and Noah L Schroeder"
@@ -201,11 +217,11 @@
       "year": 2022,
       "citation": "Computers and Education Open 3, 100097, 2022",
       "abstract": "The publisher regrets that this article failed to include a statement that affirmed, given their role as Editorial Board Member, Noah Schroederhad had no involvement in the peer-review of this article and has no access to information regarding its peer-review. Full responsibility for the editorial process for this article was taken by Miguel Nussbaum, Editor-in-Chief.",
-      "url": "https://scholar.google.com/scholar?cluster=1693036606889280844&hl=en&oi=scholarr",
+      "url": "https://www.sciencedirect.com/science/article/pii/S266655732200026X",
       "authors": "Marsha L Henderson and Noah L Schroeder"
     },
     {
-      "title": "A Systematic review of instructor presence in instructional videos: Effects on learning and affect",
+      "title": "A systematic review of instructor presence in instructional videos: Effects on learning and affect",
       "year": 2021,
       "citation": "Computers and Education Open 2, 100059, 2021",
       "abstract": "In recent years the use of instructional videos with on-screen instructors has gained global popularity in college classrooms and across private industries. However, it is not clear if including the instructor on-screen in an instructional video provides any benefit to learners, and the research in the area has not been synthesized. We conducted a systematic review to examine the impact of an on-screen instructor on learning and affect. Twelve studies met the inclusion criteria and were analyzed. Our analysis of the results showed no consistent, compelling evidence that an instructor should be included on-screen in instructional videos, as non-significant and mixed results were pervasive throughout the literature. However, we also did not find convincing evidence to leave an instructor out of the instructional video, as some studies found that learners were more satisfied when the instructor was visually-present. We …",
@@ -229,7 +245,7 @@
       "authors": "Noah L Schroeder and Scotty D Craig"
     },
     {
-      "title": "Sensor-Based Prediction of Mental Effort during Learning from Physiological Data: A Longitudinal Case Study",
+      "title": "Sensor-based prediction of mental effort during learning from physiological data: A longitudinal case study",
       "year": 2021,
       "citation": "Signals 2 (4), 886-901, 2021",
       "abstract": "Trackers for activity and physical fitness have become ubiquitous. Although recent work has demonstrated significant relationships between mental effort and physiological data such as skin temperature, heart rate, and electrodermal activity, we have yet to demonstrate their efficacy for the forecasting of mental effort such that a useful mental effort tracker can be developed. Given prior difficulty in extracting relationships between mental effort and physiological responses that are repeatable across individuals, we make the case that fusing self-report measures with physiological data within an internet or smartphone application may provide an effective method for training a useful mental effort tracking system. In this case study, we utilized over 90 h of data from a single participant over the course of a college semester. By fusing the participant’s self-reported mental effort in different activities over the course of the semester with concurrent physiological data collected with the Empatica E4 wearable sensor, we explored questions around how much data were needed to train such a device, and which types of machine-learning algorithms worked best. We concluded that although baseline models such as logistic regression and Markov models provided useful explanatory information on how the student’s physiology changed with mental effort, deep-learning algorithms were able to generate accurate predictions using the first 28 h of data for training. A system that combines long short-term memory and convolutional neural networks is recommended in order to generate smooth predictions while also being able to capture transitions in mental effort …",
@@ -495,7 +511,7 @@
     {
       "title": "Impacts of pedagogical agent gender in an accessible learning environment",
       "year": 2015,
-      "citation": "Journal of Educational Technology & Society 18 (4), 401-411, 2015",
+      "citation": "Educational Technology & Society 18 (4), 401-411, 2015",
       "abstract": "Advances in information technologies have resulted in the use of pedagogical agents to facilitate learning. Although several studies have been conducted to examine the effects of pedagogical agents on learning, little is known about gender stereotypes of agents and how those stereotypes influence student learning and attitudes. This study investigates if the pedagogical agent’s gender influences cognitive and affective outcomes in learnerattenuated system-paced environments. The findings reveal that the gender of the agent did not produce any statistically significant effects. This indicates that the effects of learning with pedagogical agents may be independent of the agents’ gender. The implications for theory and practice are discussed, along with future research directions.",
       "url": "https://www.jstor.org/stable/pdf/jeductechsoci.18.4.401.pdf",
       "authors": "Noah L Schroeder and Olusola O Adesope"
@@ -520,8 +536,8 @@
       "title": "Building Assessment and Evaluation Capacity of Engineering Educators Through ASSESS",
       "year": 2014,
       "citation": "2014 ASEE Annual Conference & Exposition, 24.241. 1-24.241. 17, 2014",
-      "abstract": "In recent years, assessment and evaluation have become vital to engineering educators for both program accreditation and judging the impacts of educational innovations. For effective assessment, engineering faculty must understand assessment, be able to select appropriate assessment instruments, administer assessments suitably to gain accurate measures of outcomes, and interpret results for properly informed decision making. Yet, engineering faculty often do not receive training to adequately incorporate assessment into daily practice. Others face ongoing challenges of locating assessment instruments suitable for their specific needs and knowing how to use them competently. A need exists to identify ways of incorporating assessment instruments into evaluation of educational innovations and outcomes in engineering contexts.This paper aims to build the evaluation and assessment capacity of engineering educators by unfolding the final version of the Appraisal System for Superior Engineering Education Evaluation-instrument Sharing and Scholarship (ASSESS), a web-based repository and search engine for finding desired assessment instruments. The paper provides an overview of the engineering assessment landscape and ways in which assessment can be used to effectively evaluate educational practices. The paper characterizes assessment instruments currently used in engineering education and tabulates characteristics of assessment instruments necessary for sound assessment and evaluation. Specific cases from ASSESS are examined for assessing selected outcomes, and gaps are identified where additional instruments …",
-      "url": "https://sftp.asee.org/building-assessment-and-evaluation-capacity-of-engineering-educators-through-assess.pdf",
+      "abstract": "Building Assessment and Evaluation Capacity of Engineering Educators Through ASSESSAbstractIn recent years, assessment and evaluation have become vital to engineering educators for bothprogram accreditation and judging the impacts of educational innovations. For effectiveassessment, engineering faculty must understand assessment, be able to select appropriateassessment instruments, administer assessments suitably to gain accurate measures of outcomes, and interpret results for properly informed decision making. Yet, engineering faculty often donot receive training to adequately incorporate assessment into daily practice. Others face ongoingchallenges of locating assessment instruments suitable for their specific needs and knowing howto use them competently. A need exists to identify ways of incorporating assessment instrumentsinto evaluation of educational innovations and outcomes in engineering contexts. This paper aims to build the evaluation and assessment capacity of engineering educators byunfolding the final version of the Appraisal System for Superior Engineering EducationEvaluation-instrument Sharing and Scholarship (ASSESS), a web-based repository and searchengine for finding desired assessment instruments. The paper provides an overview of theengineering assessment landscape and ways in which assessment can be used to effectivelyevaluate educational practices. The paper characterizes assessment instruments currently used inengineering education and tabulates characteristics of assessment instruments necessary forsound assessment and evaluation. Specific cases from ASSESS are …",
+      "url": "https://peer.asee.org/building-assessment-and-evaluation-capacity-of-engineering-educators-through-assess",
       "authors": "Jennifer E LeBeau and Denny C Davis and Howard P Davis and Noah L Schroeder and Brian F French and Shane A Brown"
     },
     {
@@ -569,7 +585,7 @@
       "year": 2013,
       "citation": "E-Learn: World Conference on E-Learning in Corporate, Government, Healthcare …, 2013",
       "abstract": "Pedagogical agents are visible characters within multimedia learning environments. Previous research has utilized pedagogical agents in system-paced and learner-paced environments. Yet, some computer programs accessible to teachers create learning environments which do not clearly align with either of these conditions. The purpose of this study was to investigate how manipulating the gender of a pedagogical agent in a learner-attenuated system-paced learning environment can affect a learner’s perceptive responses. The findings showed that learner’s responded similarly to both the female and male agents, with no significant advantage to either gender. The implications of these findings are briefly discussed.",
-      "url": "https://www.learntechlib.org/p/115188/",
+      "url": "https://www.learntechlib.org/d/115188/",
       "authors": "Noah Schroeder and Olusola Adesope"
     },
     {
@@ -577,7 +593,7 @@
       "year": 2013,
       "citation": "E-Learn: World Conference on E-Learning in Corporate, Government, Healthcare …, 2013",
       "abstract": "Pedagogical agents are characters which appear in a multimedia learning environment to facilitate learning. In the past, researchers have explored their use in system-paced and learner-paced environments. Yet, learning environments exist which do not clearly fall into either category. The purpose of this study was to investigate the effect of a contextually-relevant, peer pedagogical agent compared to a low verbal redundancy non-agent condition in a learner-attenuated system-paced learning environment. The findings showed that there were no significant differences between the two groups. The implications for theory and practice are briefly discussed.",
-      "url": "https://www.learntechlib.org/p/115187/",
+      "url": "https://www.learntechlib.org/d/115187/",
       "authors": "Noah Schroeder and Olusola Adesope"
     },
     {
@@ -599,34 +615,34 @@
     {
       "title": "Pedagogical Agents and Learning: Are They Worth the Cost?",
       "year": 2011,
-      "citation": "E-Learn: World Conference on E-Learning in Corporate, Government, Healthcare …, 2011",
+      "citation": "eLearn: World Conference on EdTech, 2078-2083, 2011",
       "abstract": "Pedagogical agent research over the past decade has examined a broad range of topics. Research of pedagogical agent’s effect on the cognitive domain has, at best, produced mixed results as to whether the agent’s presence on-screen produces learning gains. The results appear to be mixed because of the vast range of possible agent features, and lack of a common control group in numerous experiments. This paper reviews the theoretical underpinnings of pedagogical agents, practical uses of pedagogical agents, as well as the conflicting empirical research results. The review concludes with the cost-effectiveness considerations and suggestions for future research.",
-      "url": "https://www.learntechlib.org/p/39032/",
+      "url": "https://www.learntechlib.org/primary/p/39032/",
       "authors": "Noah Schroeder and Rachel Barouch Gilbert and Olusola Adesope"
-    },
-    {
-      "title": "PEDAGOGICAL AGENTS EFFECTS ON LEARNING",
-      "year": 2011,
-      "citation": "Washington State University, 2011",
-      "abstract": "Innovative educational technology tools have great promise for improving learning, yet they are often not utilized to their full potential (Moreno, Mayer, Spires, & Lester, 2001). For example, it is common for these tools to take the role of books, conveying large amounts of textual information (Moreno, Mayer, Spires, & Lester, 2001). In an effort to break away from this trend, sophisticated instructional software tools have been developed, such as intelligent tutoring systems and software agents. Pedagogical agents, for the purposes of this study, are onscreen characters which can interact with or instruct the learner (for similar definitions see",
-      "url": "https://rex.libraries.wsu.edu/view/pdfCoverPage?instCode=01ALLIANCE_WSU&filePid=13338223140001842&download=true",
-      "authors": "Noah Lee Schroeder"
     },
     {
       "title": "Concept Maps as Metacognitive Instructional Tools for English Language Learners",
       "year": 2011,
       "citation": "E-Learn: World Conference on E-Learning in Corporate, Government, Healthcare …, 2011",
       "abstract": "Education of limited English proficiency students has posed an enormous challenge to the United States public education system. Difficulties triggered by language limitations hinder the academic growth of these students and affect their overall achievement. Alternative instructional tools, such as concept maps, may offer a unique approach to instruction offering multiple benefits to the English language learner. Research findings suggest that concept maps are useful instructional tools applicable with learners across a range of proficiency levels, without contextual limitations. This paper discusses the inherent metacognitive benefits concept mapping activities offer, and how these are ideal the for limited English proficient student’s success inside the classroom.",
-      "url": "https://www.learntechlib.org/p/38991/",
+      "url": "https://www.learntechlib.org/d/38991/",
       "authors": "Rachel Barouch Gilbert and Noah Schroeder and Olusola Adesope"
+    },
+    {
+      "title": "Pedagogical agents effects on learning: A meta-analysis",
+      "year": 2011,
+      "citation": "Washington State University, 2011",
+      "abstract": "Innovative educational technology tools have great promise for improving learning, yet they are often not utilized to their full potential (Moreno, Mayer, Spires, & Lester, 2001). For example, it is common for these tools to take the role of books, conveying large amounts of textual information (Moreno, Mayer, Spires, & Lester, 2001). In an effort to break away from this trend, sophisticated instructional software tools have been developed, such as intelligent tutoring systems and software agents. Pedagogical agents, for the purposes of this study, are onscreen characters which can interact with or instruct the learner (for similar definitions see",
+      "url": "https://rex.libraries.wsu.edu/esploro/outputs/graduate/Pedagogical-agents-effects-on-learning-A/99900524806701842",
+      "authors": "Noah Lee Schroeder"
     },
     {
       "title": "Learning and Teaching with AI in STEM Education: An Umbrella Review",
       "year": "Year Unknown",
       "citation": "OSF, 0",
       "abstract": "Artificial intelligence (AI) is increasingly integrated into educational settings, particularly within Science, Technology, Engineering, and Mathematics (STEM) education. However, existing research syntheses on AI in STEM are fragmented, each focusing on different subjects, leaving a lack of comprehensive understanding. To address this, we conducted a systematic review of systematic reviews, also known as an umbrella review. We identified and analyzed 13 reviews focusing on AI in STEM education covering Science, Computer Science, Mathematics, and broader STEM fields. We analyzed key implications for research and practice, research gaps, and future directions in each field, and used a wide range of quality metrics to assess trends. Our results reveal that most research focused on the development of effective AI systems, with less emphasis on their integration and practical implications. Consequently, there is a need for more rigorous and longitudinal studies to substantiate key research findings in the field. Implications for research and practice are discussed.",
-      "url": "https://osf.io/preprints/osf/472nm",
-      "authors": "Shan Zhang and Chris Davis Jaldi and Noah Schroeder"
+      "url": "https://www.researchgate.net/profile/Shan-Zhang-68/publication/388021226_Learning_and_Teaching_with_AI_in_STEM_Education_An_Umbrella_Review/links/678fbd5f98c4e967fa73e845/Learning-and-Teaching-with-AI-in-STEM-Education-An-Umbrella-Review.pdf",
+      "authors": "Shan Zhanga and Chris Davis Jaldib and Noah L Schroedera"
     },
     {
       "title": "Do teachers quit due to stress?",
