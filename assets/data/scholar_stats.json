@@ -1,9 +1,41 @@
 {
-  "citations": 2597,
-  "h_index": 24,
-  "publications": 87,
-  "last_updated": "2025-03-13 16:10:48",
+  "citations": 3110,
+  "h_index": 28,
+  "publications": 93,
+  "last_updated": "2025-09-24 16:55:00",
   "recent_publications": [
+    {
+      "title": "Do Pedagogical Agents Enhance Student Motivation? Unraveling the Evidence Through Meta-Analysis",
+      "year": 2025,
+      "citation": "Educational Psychology Review 37(3), 72, 2025",
+      "abstract": "As generative AI tools like ChatGPT are integrated into education, concerns persist about over-reliance, where students seek direct answers without engaging in critical thinking. To address this, we propose VETTING, a framework for designing pedagogically-aligned applications of large language models (LLMs) in education. To explore the practical implementation of this framework, we present a case study examining the impact of a VETTING-informed chatbot that includes a verification layer designed to restrict the provision of direct problem solutions to students. In a randomized trial with 41 undergraduate students, participants interacted with either a general GPT-4o model or a VETTING-informed version designed to promote problem-solving. Findings indicate that students engaged with AI in unexpected ways, rarely asking direct questions. Instead, they sought clarification or broke problems into smaller parts. They treated the chatbot as an extension of their learning materials and rarely followed up when direct answers were unavailable. While students in the VETTING group interacted more frequently, their engagement lacked sustained inquiry. These findings highlight the complexities of designing AI tools that foster deeper learning, but offer insights into how frameworks like VETTING can be implemented to promote targeted pedagogical practices.",
+      "url": "https://link.springer.com/article/10.1007/s10648-025-10050-2",
+      "authors": "Jessica R Gladstone, Noah L Schroeder, Steffi Heidig, Shan Zhang, Chris Palaguachi, Marcin Pitera"
+    },
+    {
+      "title": "VETTING AI for Deeper Learning: Constraining LLMs to Encourage Student Inquiry",
+      "year": 2025,
+      "citation": "International Conference on Artificial Intelligence in Education 266-273, 2025",
+      "abstract": "As generative AI tools like ChatGPT are integrated into education, concerns persist about over-reliance, where students seek direct answers without engaging in critical thinking. To address this, we propose VETTING, a framework for designing pedagogically-aligned applications of large language models (LLMs) in education. To explore the practical implementation of this framework, we present a case study examining the impact of a VETTING-informed chatbot that includes a verification layer designed to restrict the provision of direct problem solutions to students. In a randomized trial with 41 undergraduate students, participants interacted with either a general GPT-4o model or a VETTING-informed version designed to promote problem-solving. Findings indicate that students engaged with AI in unexpected ways, rarely asking direct questions. Instead, they sought clarification or broke problems into smaller parts. They treated the chatbot as an extension of their learning materials and rarely followed up when direct answers were unavailable. While students in the VETTING group interacted more frequently, their engagement lacked sustained inquiry. These findings highlight the complexities of designing AI tools that foster deeper learning, but offer insights into how frameworks like VETTING can be implemented to promote targeted pedagogical practices.",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-99264-3_33",
+      "authors": "Shan Zhang, Hongming Li, Seiyon M Lee, Noah L Schroeder, Anthony F Botelho"
+    },
+    {
+      "title": "From Generative AI to Extended Reality: Multidisciplinary Perspectives on the Challenges, Opportunities, and Future of Educational Computing",
+      "year": 2025,
+      "citation": "Journal of Educational Computing Research 63(5), 1292-1322, 2025",
+      "abstract": "This editorial brings together the insights of fourteen members of the journal’s editorial board to critically examine the evolving landscape of educational computing. In an era marked by rapid technological advancements; from generative artificial intelligence to extended reality, this editorial explores the multidimensional challenges and opportunities these developments present for education. Drawing from multidisciplinary perspectives, the contributors collectively identify four thematic areas that demand sustained scholarly attention: (1) Equity, Inclusion, and the Digital Divide; (2) Ethics, Social Sustainability, and Well-being; (3) Instructional Design; and (4) Human-Computer Interaction in Educational Technologies. Each theme reflects a convergence of urgent concerns and transformative potential and is accompanied by forward-looking research questions that aim to shape the future agenda of the field. Together, the contributions highlight critical tensions and possibilities, offering a roadmap for researchers, practitioners, and policymakers committed to harnessing educational computing technologies in socially responsible, pedagogically sound, and human-centred ways.",
+      "url": "https://doi.org/10.1177/07356331251359964",
+      "authors": "Jordan Allison, Gwo-Jen Hwang, Richard E Mayer, Nikolaos Pellas, Oscar Karnalim, Sara de Freitas, Oi-Lam Ng, Yueh-Min Huang, Danial Hooshyar, Robert H Seidman, Mostafa Al-Emran, Tassos A Mikropoulos, Noah L Schroeder, Rod D Roscoe, Ismaila Sanusi"
+    },
+    {
+      "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
+      "year": 2025,
+      "citation": "Journal of Educational Computing Research 63(5), 1292-1322, 2025",
+      "abstract": "Given the ubiquity of artificial intelligence (AI), it is essential to empower students to become creators, designers, and producers of AI technologies, rather than limiting them to the role of informed consumers. To achieve this, learners need to be equipped with AI knowledge and concepts and develop AI literacy. Paradoxically, it is largely unclear what AI literacy is and how we should learn and teach it. We address both of these questions through a systematic review of systematic reviews, also known as an umbrella review, to gain a comprehensive understanding of AI literacy. After searching the literature, we critically examine the results of 17 reviews focusing on AI literacy and the teaching and learning of AI concepts. Our analysis revealed several encouraging developments: a general consensus on the definition of AI literacy, the availability of teaching tools and materials that support AI learning without prior programming experience, and effective pedagogical approaches that have shown positive effects on students' understanding and engagement. In addition, we identified several areas needing attention in the field: an interdisciplinary pedagogical approach, integration of ethical considerations in AI education, discussions on AI policy, and standardized, content-validated, reliable assessments across educational levels and cultures.",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/07356331251342081",
+      "authors": "Shan Zhang, Priyadharshini Ganapathy Prasad, Noah L Schroeder"
+    },
     {
       "title": "Education in the era of Neurosymbolic AI",
       "year": 2025,
