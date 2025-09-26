@@ -1,9 +1,17 @@
 {
   "citations": 3110,
   "h_index": 28,
-  "publications": 93,
+  "publications": 94,
   "last_updated": "2025-09-24 16:55:00",
   "recent_publications": [
+    {
+      "title": "Measuring Persistence and Academic Resilience of K–12 Students: Systematic Review and Operational Definitions",
+      "year": 2025,
+      "citation": "Frontiers in Education 10, 2025",
+      "abstract": "Persistence and academic resilience are two non-cognitive skills that are important for students' long-term academic success. To date, there has been a lack of consensus on how to define and measure these critical constructs at the K–12 level. Clear operational definitions and valid measures are essential to assess students' competencies with respect to these two skills and to evaluate how these skills may develop through educational interventions. To address this gap, we conducted a systematic review of 74 studies to synthesize definitions of persistence and academic resilience and evaluate available measures based on evidence of reliability, validity, and fairness. After reviewing the various definitions of persistence and academic resilience, we proposed synthesized definitions. We defined persistence as involving sustained effort toward completion of a goal-directed task despite challenges or difficulties and further broke this down into four components: presence of a goal-directed task, presence of challenges or difficulties, sustained effort, and task completion. Academic resilience was defined as the process of bouncing back or recovering in the face of challenges, adversities, or stressors to achieve successful outcomes (e.g., academic achievement) by using adaptive behaviors or coping strategies over time. Our results revealed wide variation in how existing measures align with these synthesized construct definitions. For persistence, self-report instruments such as the Attitude and Persistence towards STEM Scale and the Academic Self-Efficacy Scale demonstrated strong alignment with all four components. For academic resilience, the Adolescent Resilience Questionnaire and Design My Future scale encompassed all facets of academic resilience. Behavioral measures were less commonly available, particularly for academic resilience. Additionally, our review revealed that both constructs are empirically linked with other social-emotional competencies (e.g., self-efficacy, self-regulation), suggesting an 3 important avenue for future research and intervention development at the K–12 level. We conclude with recommendations for selecting and adapting measures in K–12 settings and offer suggested directions for future research.",
+      "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1673500/abstract",
+      "authors": "Jesse R Sparks, Blair Lehman, Jessica Gladstone, Shan Zhang, Noah L. Schroeder, Maya Israel"
+    },
     {
       "title": "Do Pedagogical Agents Enhance Student Motivation? Unraveling the Evidence Through Meta-Analysis",
       "year": 2025,
