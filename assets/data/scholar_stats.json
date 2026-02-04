@@ -10,7 +10,7 @@
       "citation": "Review of Educational Research, 2025",
       "abstract": "Pedagogical agents, conversational agents, motivational agents, and other virtual characters have long been used in educational technologies. We built and analyzed the most comprehensive dataset to date of studies examining how virtual characters influence K–12 students’ learning and learning-related outcomes using three-level meta-analytic procedures. The results from five three-level meta-analyses indicate that virtual characters helped K–12 students learn (g = 0.42, p < .001, k = 70) and improved their motivation (g = 0.48, p = .001, k = 47) but did not have any significant effects on emotions (g = 0.60, p = .20, k = 15), perceptions (g = 0.05, p = .88, k = 34), or cognitive load (g = −0.09, p = .84, k = 5) compared to systems without a virtual character present. We conclude that virtual characters can provide a meaningful addition to learning environments for K–12 learners.",
       "url": "https://journals.sagepub.com/doi/abs/10.3102/00346543251389930",
-      "authors": "Noah L. Schroeder, Shan Zhang, Chris Davis Jaldi, Jessica R. Gladstone, Alexis A. Lopez, and Emmanuel Dorley"
+      "authors": "Noah L. Schroeder, Shan Zhang, Chris Davis Jaldi, Jessica R. Gladstone, Alexis A. L\u00f3pez, Emmanuel Dorley"
     },
     {
       "title": "Towards assessing persistence in reading in young learners using pedagogical agents",
@@ -18,7 +18,7 @@
       "citation": "Proceedings of the Artificial Intelligence in Measurement and Education Conference, 2025",
       "abstract": "This pilot study investigated the use of a pedagogical agent to administer a conversational survey to second graders following a digital reading activity, measuring comprehension, persistence, and enjoyment. Analysis of survey responses and behavioral log data provide evidence for recommendations for the design of agent-mediated assessment in early literacy.",
       "url": "https://aclanthology.org/2025.aimecon-main.9/",
-      "authors": "Caitlin Tenison, Beata Beigman Kelbanov, Noah Schroeder, Shan Zhang, Michael Suhan, and Chuyang Zhang"
+      "authors": "Caitlin Tenison, Beata Beigman Kelbanov, Noah Schroeder, Shan Zhang, Michael Suhan, Chuyang Zhang"
     },
     {
       "title": "Measuring Persistence and Academic Resilience of K–12 Students: Systematic Review and Operational Definitions",
