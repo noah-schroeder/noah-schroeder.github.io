@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-dm-serif);
+  --font-mono: var(--font-jetbrains);
+
+  --color-brand-teal:      #0d9488;
+  --color-brand-teal-dark: #0f766e;
+  --color-brand-teal-deep: #0d2b28;
+  --color-brand-teal-pale: #f0fdfa;
+  --color-brand-cyan:      #22d3ee;
+  --color-brand-amber:     #d97706;
+  --color-surface:         #fafaf8;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-surface);
+  color: theme(--color-stone-900);
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse-node {
+  0%, 100% { opacity: 0.35; }
+  50%       { opacity: 1; }
+}
+
+@keyframes pulse-spike {
+  0%, 100% { opacity: 0.5; }
+  50%       { opacity: 1; }
+}
+
+@keyframes hero-in {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes flow-dash {
+  from { stroke-dashoffset: 0; }
+  to   { stroke-dashoffset: -20; }
+}
+
+@keyframes orbit-ring {
+  from { stroke-dashoffset: 0; }
+  to   { stroke-dashoffset: -264; }
+}

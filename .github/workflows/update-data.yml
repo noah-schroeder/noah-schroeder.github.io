@@ -1,0 +1,31 @@
+name: Update OpenAlex Data
+
+on:
+  schedule:
+    # Every Monday at 06:00 UTC
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Fetch latest data from OpenAlex
+        run: node scripts/fetch-openalex.mjs
+
+      - name: Commit updated data files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/author.json src/data/publications.json
+          git diff --cached --quiet || git commit -m "chore: update OpenAlex data [skip ci]"
+          git push

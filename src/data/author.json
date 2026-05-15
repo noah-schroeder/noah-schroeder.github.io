@@ -1,0 +1,35 @@
+{
+  "id": "A5014375110",
+  "name": "Noah L. Schroeder",
+  "institution": "University of Florida",
+  "summary_stats": {
+    "h_index": 25,
+    "i10_index": 45,
+    "cited_by_count": 2341,
+    "works_count": 101,
+    "2yr_mean_citedness": 5.222222222222222
+  },
+  "topics": [
+    {
+      "name": "Innovative Teaching and Learning Methods",
+      "count": 26
+    },
+    {
+      "name": "Visual and Cognitive Learning Processes",
+      "count": 21
+    },
+    {
+      "name": "Intelligent Tutoring Systems and Adaptive Learning",
+      "count": 21
+    },
+    {
+      "name": "Online and Blended Learning",
+      "count": 16
+    },
+    {
+      "name": "Online Learning and Analytics",
+      "count": 15
+    }
+  ],
+  "last_updated": "2026-05-07"
+}
