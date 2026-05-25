@@ -4,10 +4,10 @@
   "institution": "University of Florida",
   "summary_stats": {
     "h_index": 25,
-    "i10_index": 45,
-    "cited_by_count": 2361,
+    "i10_index": 46,
+    "cited_by_count": 2374,
     "works_count": 101,
-    "2yr_mean_citedness": 5.666666666666667
+    "2yr_mean_citedness": 5.777777777777778
   },
   "topics": [
     {
@@ -31,5 +31,5 @@
       "count": 15
     }
   ],
-  "last_updated": "2026-05-18"
+  "last_updated": "2026-05-25"
 }
