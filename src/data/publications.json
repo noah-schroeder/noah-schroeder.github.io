@@ -3,7 +3,7 @@
     "id": "W2100242321",
     "title": "How Effective are Pedagogical Agents for Learning? A Meta-Analytic Review",
     "year": 2013,
-    "cited_by_count": 287,
+    "cited_by_count": 288,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.2190/ec.49.1.a",
     "is_oa": false,
@@ -17,7 +17,7 @@
     "id": "W2603090530",
     "title": "Studying and Constructing Concept Maps: a Meta-Analysis",
     "year": 2017,
-    "cited_by_count": 243,
+    "cited_by_count": 244,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-017-9403-9",
     "is_oa": false,
@@ -32,7 +32,7 @@
     "id": "W2794691683",
     "title": "Spatial Contiguity and Spatial Split-Attention Effects in Multimedia Learning Environments: a Meta-Analysis",
     "year": 2018,
-    "cited_by_count": 166,
+    "cited_by_count": 167,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-018-9435-9",
     "is_oa": false,
@@ -126,7 +126,7 @@
     "id": "W4207047326",
     "title": "Refutation Text Facilitates Learning: a Meta-Analysis of Between-Subjects Experiments",
     "year": 2022,
-    "cited_by_count": 65,
+    "cited_by_count": 66,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-021-09656-z",
     "is_oa": true,
@@ -610,6 +610,21 @@
     ]
   },
   {
+    "id": "W3130908445",
+    "title": "Immersive Learning Environments at Scale: Constraints and Opportunities",
+    "year": 2020,
+    "cited_by_count": 11,
+    "venue": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
+    "doi": "https://doi.org/10.1177/1071181320641278",
+    "is_oa": false,
+    "authors": [
+      "Robert F. Siegle",
+      "Rod D. Roscoe",
+      "Noah L. Schroeder",
+      "Scotty D. Craig"
+    ]
+  },
+  {
     "id": "W4316368916",
     "title": "Trusting and Learning From Virtual Humans that Correct Common Misconceptions",
     "year": 2023,
@@ -621,21 +636,6 @@
       "Noah L. Schroeder",
       "Erin K. Chiou",
       "Robert F. Siegle",
-      "Scotty D. Craig"
-    ]
-  },
-  {
-    "id": "W3130908445",
-    "title": "Immersive Learning Environments at Scale: Constraints and Opportunities",
-    "year": 2020,
-    "cited_by_count": 10,
-    "venue": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
-    "doi": "https://doi.org/10.1177/1071181320641278",
-    "is_oa": false,
-    "authors": [
-      "Robert F. Siegle",
-      "Rod D. Roscoe",
-      "Noah L. Schroeder",
       "Scotty D. Craig"
     ]
   },
