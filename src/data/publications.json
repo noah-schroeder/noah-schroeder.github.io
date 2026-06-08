@@ -17,7 +17,7 @@
     "id": "W2603090530",
     "title": "Studying and Constructing Concept Maps: a Meta-Analysis",
     "year": 2017,
-    "cited_by_count": 244,
+    "cited_by_count": 245,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-017-9403-9",
     "is_oa": false,
@@ -58,7 +58,7 @@
     "id": "W2046145495",
     "title": "A Systematic Review of Pedagogical Agents’ Persona, Motivation, and Cognitive Load Implications for Learners",
     "year": 2014,
-    "cited_by_count": 97,
+    "cited_by_count": 98,
     "venue": "Journal of Research on Technology in Education",
     "doi": "https://doi.org/10.1080/15391523.2014.888265",
     "is_oa": false,
@@ -71,7 +71,7 @@
     "id": "W2986334266",
     "title": "How we trust, perceive, and learn from virtual humans: The influence of voice quality",
     "year": 2019,
-    "cited_by_count": 81,
+    "cited_by_count": 82,
     "venue": "Computers & Education",
     "doi": "https://doi.org/10.1016/j.compedu.2019.103756",
     "is_oa": false,
@@ -85,7 +85,7 @@
     "id": "W2589724482",
     "title": "Measuring pedagogical agent persona and the influence of agent persona on learning",
     "year": 2017,
-    "cited_by_count": 74,
+    "cited_by_count": 75,
     "venue": "Computers & Education",
     "doi": "https://doi.org/10.1016/j.compedu.2017.02.015",
     "is_oa": false,
@@ -152,7 +152,7 @@
     "id": "W3080112302",
     "title": "Using Machine Learning to Train a Wearable Device for Measuring Students’ Cognitive Load during Problem-Solving Activities Based on Electrodermal Activity, Body Temperature, and Heart Rate: Development of a Cognitive Load Tracker for Both Personal and Classroom Use",
     "year": 2020,
-    "cited_by_count": 58,
+    "cited_by_count": 59,
     "venue": "Sensors",
     "doi": "https://doi.org/10.3390/s20174833",
     "is_oa": true,
@@ -338,6 +338,36 @@
     ]
   },
   {
+    "id": "W4410379016",
+    "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
+    "year": 2025,
+    "cited_by_count": 26,
+    "venue": "Journal of Educational Computing Research",
+    "doi": "https://doi.org/10.1177/07356331251342081",
+    "is_oa": false,
+    "authors": [
+      "Shan Zhang",
+      "P. Prasad",
+      "Noah L. Schroeder"
+    ]
+  },
+  {
+    "id": "W4412120312",
+    "title": "From Generative AI to Extended Reality: Multidisciplinary Perspectives on the Challenges, Opportunities, and Future of Educational Computing",
+    "year": 2025,
+    "cited_by_count": 26,
+    "venue": "Journal of Educational Computing Research",
+    "doi": "https://doi.org/10.1177/07356331251359964",
+    "is_oa": true,
+    "authors": [
+      "Jordan Allison",
+      "Gwo‐Jen Hwang",
+      "Richard E. Mayer",
+      "Νικόλαος Πέλλας",
+      "Oscar Karnalim"
+    ]
+  },
+  {
     "id": "W2992898335",
     "title": "A Case for the use of Pedagogical Agents in Online Learning Environments",
     "year": 2013,
@@ -361,36 +391,6 @@
     "authors": [
       "H. Chad Lane",
       "Noah L. Schroeder"
-    ]
-  },
-  {
-    "id": "W4410379016",
-    "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
-    "year": 2025,
-    "cited_by_count": 24,
-    "venue": "Journal of Educational Computing Research",
-    "doi": "https://doi.org/10.1177/07356331251342081",
-    "is_oa": false,
-    "authors": [
-      "Shan Zhang",
-      "P. Prasad",
-      "Noah L. Schroeder"
-    ]
-  },
-  {
-    "id": "W4412120312",
-    "title": "From Generative AI to Extended Reality: Multidisciplinary Perspectives on the Challenges, Opportunities, and Future of Educational Computing",
-    "year": 2025,
-    "cited_by_count": 24,
-    "venue": "Journal of Educational Computing Research",
-    "doi": "https://doi.org/10.1177/07356331251359964",
-    "is_oa": true,
-    "authors": [
-      "Jordan Allison",
-      "Gwo‐Jen Hwang",
-      "Richard E. Mayer",
-      "Νικόλαος Πέλλας",
-      "Oscar Karnalim"
     ]
   },
   {
@@ -580,6 +580,20 @@
     ]
   },
   {
+    "id": "W4388822154",
+    "title": "A scoping review of wrist-worn wearables in education",
+    "year": 2023,
+    "cited_by_count": 12,
+    "venue": "Computers and Education Open",
+    "doi": "https://doi.org/10.1016/j.caeo.2023.100154",
+    "is_oa": true,
+    "authors": [
+      "Noah L. Schroeder",
+      "William L. Romine",
+      "S Kemp"
+    ]
+  },
+  {
     "id": "W2811439332",
     "title": "Investigation of a Stand-Alone Online Learning Module for Cellular Respiration Instruction",
     "year": 2018,
@@ -593,20 +607,6 @@
       "Christina Johnson",
       "Phillip E. McClean",
       "Erika G. Offerdahl"
-    ]
-  },
-  {
-    "id": "W4388822154",
-    "title": "A scoping review of wrist-worn wearables in education",
-    "year": 2023,
-    "cited_by_count": 11,
-    "venue": "Computers and Education Open",
-    "doi": "https://doi.org/10.1016/j.caeo.2023.100154",
-    "is_oa": true,
-    "authors": [
-      "Noah L. Schroeder",
-      "William L. Romine",
-      "S Kemp"
     ]
   },
   {
@@ -966,6 +966,22 @@
     ]
   },
   {
+    "id": "W4404206627",
+    "title": "Semi-automating the Scoping Review Process: Is it Worthwhile? A Methodological Evaluation",
+    "year": 2024,
+    "cited_by_count": 1,
+    "venue": "Educational Psychology Review",
+    "doi": "https://doi.org/10.1007/s10648-024-09972-0",
+    "is_oa": false,
+    "authors": [
+      "Shan Zhang",
+      "Chris Palaguachi",
+      "Marcin Pitera",
+      "Chris Davis Jaldi",
+      "Noah L. Schroeder"
+    ]
+  },
+  {
     "id": "W4404415725",
     "title": "Learning about AI: A Systematic Review of Reviews on AI Literacy",
     "year": 2024,
@@ -1234,22 +1250,6 @@
     "is_oa": true,
     "authors": [
       "Marsha L. Henderson",
-      "Noah L. Schroeder"
-    ]
-  },
-  {
-    "id": "W4404206627",
-    "title": "Semi-automating the Scoping Review Process: Is it Worthwhile? A Methodological Evaluation",
-    "year": 2024,
-    "cited_by_count": 0,
-    "venue": "Educational Psychology Review",
-    "doi": "https://doi.org/10.1007/s10648-024-09972-0",
-    "is_oa": false,
-    "authors": [
-      "Shan Zhang",
-      "Chris Palaguachi",
-      "Marcin Pitera",
-      "Chris Davis Jaldi",
       "Noah L. Schroeder"
     ]
   },
