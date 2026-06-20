@@ -10,7 +10,7 @@ const areas = [
   {
     title: "Pedagogical Agents & Virtual Humans",
     description:
-      "Pedagogical agents are on-screen characters embedded in learning environments to guide and motivate learners. My work investigates how agent design choices — persona, voice, gender, appearance, and expressed emotion — shape trust, perception, and learning outcomes. I use meta-analysis and controlled experiments to identify which design variables actually move the needle and which are myths.",
+      "Pedagogical agents are on-screen characters embedded in learning environments to guide and motivate learners. My work investigates how agent design choices such as persona, voice, gender, appearance, and expressed emotion, shape trust, perception, and learning outcomes. I use meta-analysis and controlled experiments to identify which design variables actually move the needle and which are myths.",
     keyPaperIds: ["W4416823136", "W4412594062", "W4402544340", "W3092141661"],
   },
   {
