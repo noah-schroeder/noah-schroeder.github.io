@@ -17,7 +17,7 @@
     "id": "W2603090530",
     "title": "Studying and Constructing Concept Maps: a Meta-Analysis",
     "year": 2017,
-    "cited_by_count": 247,
+    "cited_by_count": 249,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-017-9403-9",
     "is_oa": false,
@@ -126,7 +126,7 @@
     "id": "W4207047326",
     "title": "Refutation Text Facilitates Learning: a Meta-Analysis of Between-Subjects Experiments",
     "year": 2022,
-    "cited_by_count": 67,
+    "cited_by_count": 68,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-021-09656-z",
     "is_oa": true,
@@ -325,6 +325,20 @@
     ]
   },
   {
+    "id": "W4410379016",
+    "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
+    "year": 2025,
+    "cited_by_count": 28,
+    "venue": "Journal of Educational Computing Research",
+    "doi": "https://doi.org/10.1177/07356331251342081",
+    "is_oa": false,
+    "authors": [
+      "Shan Zhang",
+      "P. Prasad",
+      "Noah L. Schroeder"
+    ]
+  },
+  {
     "id": "W3135273136",
     "title": "Learning with virtual humans: Introduction to the special issue",
     "year": 2021,
@@ -335,20 +349,6 @@
     "authors": [
       "Noah L. Schroeder",
       "Scotty D. Craig"
-    ]
-  },
-  {
-    "id": "W4410379016",
-    "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
-    "year": 2025,
-    "cited_by_count": 27,
-    "venue": "Journal of Educational Computing Research",
-    "doi": "https://doi.org/10.1177/07356331251342081",
-    "is_oa": false,
-    "authors": [
-      "Shan Zhang",
-      "P. Prasad",
-      "Noah L. Schroeder"
     ]
   },
   {
@@ -480,24 +480,10 @@
     ]
   },
   {
-    "id": "W4403377683",
-    "title": "Designing and Learning With Pedagogical Agents: An Umbrella Review",
-    "year": 2024,
-    "cited_by_count": 20,
-    "venue": "Journal of Educational Computing Research",
-    "doi": "https://doi.org/10.1177/07356331241288476",
-    "is_oa": false,
-    "authors": [
-      "Noah L. Schroeder",
-      "R. O. Davis",
-      "Eunbyul Yang"
-    ]
-  },
-  {
     "id": "W4403439632",
     "title": "Large language models for whole-learner support: opportunities and challenges",
     "year": 2024,
-    "cited_by_count": 20,
+    "cited_by_count": 21,
     "venue": "Frontiers in Artificial Intelligence",
     "doi": "https://doi.org/10.3389/frai.2024.1460364",
     "is_oa": true,
@@ -510,6 +496,20 @@
     ]
   },
   {
+    "id": "W4403377683",
+    "title": "Designing and Learning With Pedagogical Agents: An Umbrella Review",
+    "year": 2024,
+    "cited_by_count": 20,
+    "venue": "Journal of Educational Computing Research",
+    "doi": "https://doi.org/10.1177/07356331241288476",
+    "is_oa": true,
+    "authors": [
+      "Noah L. Schroeder",
+      "R. O. Davis",
+      "Eunbyul Yang"
+    ]
+  },
+  {
     "id": "W2767303595",
     "title": "The Influence of a Pedagogical Agent on Learners' Cognitive Load.",
     "year": 2017,
@@ -519,6 +519,21 @@
     "is_oa": true,
     "authors": [
       "Noah L. Schroeder"
+    ]
+  },
+  {
+    "id": "W4405893789",
+    "title": "Education in the era of Neurosymbolic AI",
+    "year": 2024,
+    "cited_by_count": 17,
+    "venue": "Journal of Web Semantics",
+    "doi": "https://doi.org/10.1016/j.websem.2024.100857",
+    "is_oa": true,
+    "authors": [
+      "Chris Davis Jaldi",
+      "Eleni Ilkou",
+      "Noah L. Schroeder",
+      "Cogan Shimizu"
     ]
   },
   {
@@ -548,21 +563,6 @@
       "Suzanne Franco",
       "Noah L. Schroeder",
       "Ada T. Cenkci"
-    ]
-  },
-  {
-    "id": "W4405893789",
-    "title": "Education in the era of Neurosymbolic AI",
-    "year": 2024,
-    "cited_by_count": 15,
-    "venue": "Journal of Web Semantics",
-    "doi": "https://doi.org/10.1016/j.websem.2024.100857",
-    "is_oa": true,
-    "authors": [
-      "Chris Davis Jaldi",
-      "Eleni Ilkou",
-      "Noah L. Schroeder",
-      "Cogan Shimizu"
     ]
   },
   {
@@ -610,13 +610,25 @@
     ]
   },
   {
+    "id": "W2320539257",
+    "title": "A Preliminary Investigation of the Influences of Refutation Text and Instructional Design",
+    "year": 2016,
+    "cited_by_count": 11,
+    "venue": "Technology Knowledge and Learning",
+    "doi": "https://doi.org/10.1007/s10758-016-9278-8",
+    "is_oa": false,
+    "authors": [
+      "Noah L. Schroeder"
+    ]
+  },
+  {
     "id": "W3130908445",
     "title": "Immersive Learning Environments at Scale: Constraints and Opportunities",
     "year": 2020,
     "cited_by_count": 11,
     "venue": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
     "doi": "https://doi.org/10.1177/1071181320641278",
-    "is_oa": false,
+    "is_oa": true,
     "authors": [
       "Robert F. Siegle",
       "Rod D. Roscoe",
@@ -631,24 +643,12 @@
     "cited_by_count": 10,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.1177/07356331221139859",
-    "is_oa": false,
+    "is_oa": true,
     "authors": [
       "Noah L. Schroeder",
       "Erin K. Chiou",
       "Robert F. Siegle",
       "Scotty D. Craig"
-    ]
-  },
-  {
-    "id": "W2320539257",
-    "title": "A Preliminary Investigation of the Influences of Refutation Text and Instructional Design",
-    "year": 2016,
-    "cited_by_count": 10,
-    "venue": "Technology Knowledge and Learning",
-    "doi": "https://doi.org/10.1007/s10758-016-9278-8",
-    "is_oa": false,
-    "authors": [
-      "Noah L. Schroeder"
     ]
   },
   {
@@ -859,7 +859,7 @@
     "cited_by_count": 4,
     "venue": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
     "doi": "https://doi.org/10.1177/21695067231192447",
-    "is_oa": false,
+    "is_oa": true,
     "authors": [
       "Scotty D. Craig",
       "Noah L. Schroeder"
