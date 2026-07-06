@@ -3,7 +3,7 @@
     "id": "W2100242321",
     "title": "How Effective are Pedagogical Agents for Learning? A Meta-Analytic Review",
     "year": 2013,
-    "cited_by_count": 289,
+    "cited_by_count": 291,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.2190/ec.49.1.a",
     "is_oa": false,
@@ -32,7 +32,7 @@
     "id": "W2794691683",
     "title": "Spatial Contiguity and Spatial Split-Attention Effects in Multimedia Learning Environments: a Meta-Analysis",
     "year": 2018,
-    "cited_by_count": 167,
+    "cited_by_count": 168,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-018-9435-9",
     "is_oa": false,
@@ -45,7 +45,7 @@
     "id": "W2734963796",
     "title": "Reconsidering the voice effect when learning from a virtual human",
     "year": 2017,
-    "cited_by_count": 144,
+    "cited_by_count": 145,
     "venue": "Computers & Education",
     "doi": "https://doi.org/10.1016/j.compedu.2017.07.003",
     "is_oa": false,
@@ -58,7 +58,7 @@
     "id": "W2046145495",
     "title": "A Systematic Review of Pedagogical Agents’ Persona, Motivation, and Cognitive Load Implications for Learners",
     "year": 2014,
-    "cited_by_count": 100,
+    "cited_by_count": 101,
     "venue": "Journal of Research on Technology in Education",
     "doi": "https://doi.org/10.1080/15391523.2014.888265",
     "is_oa": false,
@@ -96,6 +96,19 @@
     ]
   },
   {
+    "id": "W3211485050",
+    "title": "A Systematic review of instructor presence in instructional videos: Effects on learning and affect",
+    "year": 2021,
+    "cited_by_count": 74,
+    "venue": "Computers and Education Open",
+    "doi": "https://doi.org/10.1016/j.caeo.2021.100059",
+    "is_oa": true,
+    "authors": [
+      "Marsha L. Henderson",
+      "Noah L. Schroeder"
+    ]
+  },
+  {
     "id": "W2161406088",
     "title": "Efficacy beliefs, job satisfaction, stress and their influence on the occupational commitment of English-medium content teachers in the Dominican Republic",
     "year": 2013,
@@ -110,23 +123,10 @@
     ]
   },
   {
-    "id": "W3211485050",
-    "title": "A Systematic review of instructor presence in instructional videos: Effects on learning and affect",
-    "year": 2021,
-    "cited_by_count": 73,
-    "venue": "Computers and Education Open",
-    "doi": "https://doi.org/10.1016/j.caeo.2021.100059",
-    "is_oa": true,
-    "authors": [
-      "Marsha L. Henderson",
-      "Noah L. Schroeder"
-    ]
-  },
-  {
     "id": "W4207047326",
     "title": "Refutation Text Facilitates Learning: a Meta-Analysis of Between-Subjects Experiments",
     "year": 2022,
-    "cited_by_count": 68,
+    "cited_by_count": 69,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-021-09656-z",
     "is_oa": true,
@@ -168,13 +168,29 @@
     "id": "W2891137678",
     "title": "Text-to-Speech Software and Learning: Investigating the Relevancy of the Voice Effect",
     "year": 2018,
-    "cited_by_count": 47,
+    "cited_by_count": 49,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.1177/0735633118802877",
     "is_oa": false,
     "authors": [
       "Scotty D. Craig",
       "Noah L. Schroeder"
+    ]
+  },
+  {
+    "id": "W4388440497",
+    "title": "The instructor presence effect and its moderators in instructional video: A series of meta-analyses",
+    "year": 2023,
+    "cited_by_count": 44,
+    "venue": "Educational Research Review",
+    "doi": "https://doi.org/10.1016/j.edurev.2023.100564",
+    "is_oa": true,
+    "authors": [
+      "Maik Beege",
+      "Noah L. Schroeder",
+      "Steffi Heidig",
+      "Günter Daniel Rey",
+      "Sascha Schneider"
     ]
   },
   {
@@ -188,22 +204,6 @@
     "authors": [
       "Noah L. Schroeder",
       "Ada T. Cenkci"
-    ]
-  },
-  {
-    "id": "W4388440497",
-    "title": "The instructor presence effect and its moderators in instructional video: A series of meta-analyses",
-    "year": 2023,
-    "cited_by_count": 43,
-    "venue": "Educational Research Review",
-    "doi": "https://doi.org/10.1016/j.edurev.2023.100564",
-    "is_oa": true,
-    "authors": [
-      "Maik Beege",
-      "Noah L. Schroeder",
-      "Steffi Heidig",
-      "Günter Daniel Rey",
-      "Sascha Schneider"
     ]
   },
   {
@@ -251,6 +251,20 @@
     ]
   },
   {
+    "id": "W3092141661",
+    "title": "Trust influences perceptions of virtual humans, but not necessarily learning",
+    "year": 2020,
+    "cited_by_count": 35,
+    "venue": "Computers & Education",
+    "doi": "https://doi.org/10.1016/j.compedu.2020.104039",
+    "is_oa": false,
+    "authors": [
+      "Noah L. Schroeder",
+      "Erin K. Chiou",
+      "Scotty D. Craig"
+    ]
+  },
+  {
     "id": "W4298005498",
     "title": "Toward Mental Effort Measurement Using Electrodermal Activity Features",
     "year": 2022,
@@ -263,6 +277,20 @@
       "Noah L. Schroeder",
       "Tanvi Banerjee",
       "Josephine Graft"
+    ]
+  },
+  {
+    "id": "W4410379016",
+    "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
+    "year": 2025,
+    "cited_by_count": 34,
+    "venue": "Journal of Educational Computing Research",
+    "doi": "https://doi.org/10.1177/07356331251342081",
+    "is_oa": false,
+    "authors": [
+      "Shan Zhang",
+      "P. Prasad",
+      "Noah L. Schroeder"
     ]
   },
   {
@@ -282,31 +310,19 @@
     ]
   },
   {
-    "id": "W3092141661",
-    "title": "Trust influences perceptions of virtual humans, but not necessarily learning",
-    "year": 2020,
-    "cited_by_count": 34,
-    "venue": "Computers & Education",
-    "doi": "https://doi.org/10.1016/j.compedu.2020.104039",
-    "is_oa": false,
-    "authors": [
-      "Noah L. Schroeder",
-      "Erin K. Chiou",
-      "Scotty D. Craig"
-    ]
-  },
-  {
-    "id": "W4410379016",
-    "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
+    "id": "W4412120312",
+    "title": "From Generative AI to Extended Reality: Multidisciplinary Perspectives on the Challenges, Opportunities, and Future of Educational Computing",
     "year": 2025,
     "cited_by_count": 31,
     "venue": "Journal of Educational Computing Research",
-    "doi": "https://doi.org/10.1177/07356331251342081",
-    "is_oa": false,
+    "doi": "https://doi.org/10.1177/07356331251359964",
+    "is_oa": true,
     "authors": [
-      "Shan Zhang",
-      "P. Prasad",
-      "Noah L. Schroeder"
+      "Jordan Allison",
+      "Gwo‐Jen Hwang",
+      "Richard E. Mayer",
+      "Νικόλαος Πέλλας",
+      "Oscar Karnalim"
     ]
   },
   {
@@ -323,22 +339,6 @@
       "Noah L. Schroeder",
       "Alexis A. López",
       "Jessica R. Gladstone"
-    ]
-  },
-  {
-    "id": "W4412120312",
-    "title": "From Generative AI to Extended Reality: Multidisciplinary Perspectives on the Challenges, Opportunities, and Future of Educational Computing",
-    "year": 2025,
-    "cited_by_count": 29,
-    "venue": "Journal of Educational Computing Research",
-    "doi": "https://doi.org/10.1177/07356331251359964",
-    "is_oa": true,
-    "authors": [
-      "Jordan Allison",
-      "Gwo‐Jen Hwang",
-      "Richard E. Mayer",
-      "Νικόλαος Πέλλας",
-      "Oscar Karnalim"
     ]
   },
   {
@@ -438,6 +438,36 @@
     ]
   },
   {
+    "id": "W4403377683",
+    "title": "Designing and Learning With Pedagogical Agents: An Umbrella Review",
+    "year": 2024,
+    "cited_by_count": 23,
+    "venue": "Journal of Educational Computing Research",
+    "doi": "https://doi.org/10.1177/07356331241288476",
+    "is_oa": true,
+    "authors": [
+      "Noah L. Schroeder",
+      "R. O. Davis",
+      "Eunbyul Yang"
+    ]
+  },
+  {
+    "id": "W4403439632",
+    "title": "Large language models for whole-learner support: opportunities and challenges",
+    "year": 2024,
+    "cited_by_count": 23,
+    "venue": "Frontiers in Artificial Intelligence",
+    "doi": "https://doi.org/10.3389/frai.2024.1460364",
+    "is_oa": true,
+    "authors": [
+      "Amogh Mannekote",
+      "Adam Davies",
+      "Juan D. Pinto",
+      "Shan Zhang",
+      "Daniel Olds"
+    ]
+  },
+  {
     "id": "W2954222771",
     "title": "Design Principles for Virtual Humans in Educational Technology Environments",
     "year": 2018,
@@ -448,22 +478,6 @@
     "authors": [
       "Scotty D. Craig",
       "Noah L. Schroeder"
-    ]
-  },
-  {
-    "id": "W4403439632",
-    "title": "Large language models for whole-learner support: opportunities and challenges",
-    "year": 2024,
-    "cited_by_count": 22,
-    "venue": "Frontiers in Artificial Intelligence",
-    "doi": "https://doi.org/10.3389/frai.2024.1460364",
-    "is_oa": true,
-    "authors": [
-      "Amogh Mannekote",
-      "Adam Davies",
-      "Juan D. Pinto",
-      "Shan Zhang",
-      "Daniel Olds"
     ]
   },
   {
@@ -496,24 +510,10 @@
     ]
   },
   {
-    "id": "W4403377683",
-    "title": "Designing and Learning With Pedagogical Agents: An Umbrella Review",
-    "year": 2024,
-    "cited_by_count": 20,
-    "venue": "Journal of Educational Computing Research",
-    "doi": "https://doi.org/10.1177/07356331241288476",
-    "is_oa": true,
-    "authors": [
-      "Noah L. Schroeder",
-      "R. O. Davis",
-      "Eunbyul Yang"
-    ]
-  },
-  {
     "id": "W4405893789",
     "title": "Education in the era of Neurosymbolic AI",
     "year": 2024,
-    "cited_by_count": 19,
+    "cited_by_count": 20,
     "venue": "Journal of Web Semantics",
     "doi": "https://doi.org/10.1016/j.websem.2024.100857",
     "is_oa": true,
@@ -878,6 +878,20 @@
     ]
   },
   {
+    "id": "W4408384310",
+    "title": "The role of learner trust in generative artificially intelligent learning environments",
+    "year": 2025,
+    "cited_by_count": 3,
+    "venue": "Journal of Engineering Education",
+    "doi": "https://doi.org/10.1002/jee.70000",
+    "is_oa": true,
+    "authors": [
+      "Maria Goldshtein",
+      "Noah L. Schroeder",
+      "Erin K. Chiou"
+    ]
+  },
+  {
     "id": "W3214257895",
     "title": "Scaling team training: Using virtual worlds to support learning in massive open online courses",
     "year": 2021,
@@ -914,7 +928,7 @@
     "title": "Large Language Models with Human-In-The-Loop Validation for Systematic Review Data Extraction",
     "year": 2025,
     "cited_by_count": 3,
-    "venue": "ArXiv.org",
+    "venue": "arXiv (Cornell University)",
     "doi": "https://doi.org/10.48550/arxiv.2501.11840",
     "is_oa": true,
     "authors": [
@@ -924,17 +938,19 @@
     ]
   },
   {
-    "id": "W4408384310",
-    "title": "The role of learner trust in generative artificially intelligent learning environments",
-    "year": 2025,
+    "id": "W4404206627",
+    "title": "Semi-automating the Scoping Review Process: Is it Worthwhile? A Methodological Evaluation",
+    "year": 2024,
     "cited_by_count": 2,
-    "venue": "Journal of Engineering Education",
-    "doi": "https://doi.org/10.1002/jee.70000",
-    "is_oa": true,
+    "venue": "Educational Psychology Review",
+    "doi": "https://doi.org/10.1007/s10648-024-09972-0",
+    "is_oa": false,
     "authors": [
-      "Maria Goldshtein",
-      "Noah L. Schroeder",
-      "Erin K. Chiou"
+      "Shan Zhang",
+      "Chris Palaguachi",
+      "Marcin Pitera",
+      "Chris Davis Jaldi",
+      "Noah L. Schroeder"
     ]
   },
   {
@@ -977,22 +993,6 @@
       "Noah L. Schroeder",
       "Anjali Edwards",
       "Tanvi Banerjee"
-    ]
-  },
-  {
-    "id": "W4404206627",
-    "title": "Semi-automating the Scoping Review Process: Is it Worthwhile? A Methodological Evaluation",
-    "year": 2024,
-    "cited_by_count": 1,
-    "venue": "Educational Psychology Review",
-    "doi": "https://doi.org/10.1007/s10648-024-09972-0",
-    "is_oa": false,
-    "authors": [
-      "Shan Zhang",
-      "Chris Palaguachi",
-      "Marcin Pitera",
-      "Chris Davis Jaldi",
-      "Noah L. Schroeder"
     ]
   },
   {
@@ -1415,7 +1415,7 @@
     "title": "Fine-Tuning A Large Language Model for Systematic Review Screening",
     "year": 2026,
     "cited_by_count": 0,
-    "venue": "ArXiv.org",
+    "venue": "arXiv (Cornell University)",
     "doi": null,
     "is_oa": true,
     "authors": [
