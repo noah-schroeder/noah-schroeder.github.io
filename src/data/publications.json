@@ -17,7 +17,7 @@
     "id": "W2603090530",
     "title": "Studying and Constructing Concept Maps: a Meta-Analysis",
     "year": 2017,
-    "cited_by_count": 252,
+    "cited_by_count": 253,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-017-9403-9",
     "is_oa": false,
@@ -99,7 +99,7 @@
     "id": "W3211485050",
     "title": "A Systematic review of instructor presence in instructional videos: Effects on learning and affect",
     "year": 2021,
-    "cited_by_count": 74,
+    "cited_by_count": 75,
     "venue": "Computers and Education Open",
     "doi": "https://doi.org/10.1016/j.caeo.2021.100059",
     "is_oa": true,
@@ -181,7 +181,7 @@
     "id": "W4388440497",
     "title": "The instructor presence effect and its moderators in instructional video: A series of meta-analyses",
     "year": 2023,
-    "cited_by_count": 45,
+    "cited_by_count": 46,
     "venue": "Educational Research Review",
     "doi": "https://doi.org/10.1016/j.edurev.2023.100564",
     "is_oa": true,
@@ -241,7 +241,7 @@
     "id": "W4410379016",
     "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
     "year": 2025,
-    "cited_by_count": 38,
+    "cited_by_count": 39,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.1177/07356331251342081",
     "is_oa": false,
@@ -249,6 +249,22 @@
       "Shan Zhang",
       "P. Prasad",
       "Noah L. Schroeder"
+    ]
+  },
+  {
+    "id": "W4412120312",
+    "title": "From Generative AI to Extended Reality: Multidisciplinary Perspectives on the Challenges, Opportunities, and Future of Educational Computing",
+    "year": 2025,
+    "cited_by_count": 39,
+    "venue": "Journal of Educational Computing Research",
+    "doi": "https://doi.org/10.1177/07356331251359964",
+    "is_oa": true,
+    "authors": [
+      "Jordan Allison",
+      "Gwo‐Jen Hwang",
+      "Richard E. Mayer",
+      "Νικόλαος Πέλλας",
+      "Oscar Karnalim"
     ]
   },
   {
@@ -262,22 +278,6 @@
     "authors": [
       "Noah L. Schroeder",
       "Adrienne L. Traxler"
-    ]
-  },
-  {
-    "id": "W4412120312",
-    "title": "From Generative AI to Extended Reality: Multidisciplinary Perspectives on the Challenges, Opportunities, and Future of Educational Computing",
-    "year": 2025,
-    "cited_by_count": 37,
-    "venue": "Journal of Educational Computing Research",
-    "doi": "https://doi.org/10.1177/07356331251359964",
-    "is_oa": true,
-    "authors": [
-      "Jordan Allison",
-      "Gwo‐Jen Hwang",
-      "Richard E. Mayer",
-      "Νικόλαος Πέλλας",
-      "Oscar Karnalim"
     ]
   },
   {
@@ -839,7 +839,7 @@
   },
   {
     "id": "W4406745129",
-    "title": "Large Language Models with Human-In-The-Loop Validation for Systematic Review Data Extraction",
+    "title": "AI-Assisted Data Extraction for Systematic Reviews in Education",
     "year": 2025,
     "cited_by_count": 4,
     "venue": "arXiv (Cornell University)",
@@ -848,7 +848,8 @@
     "authors": [
       "Noah L. Schroeder",
       "Chris Davis Jaldi",
-      "Shan Zhang"
+      "Shan Zhang",
+      "Yamoah, Kweku"
     ]
   },
   {
@@ -996,123 +997,6 @@
     ]
   },
   {
-    "id": "W4416187045",
-    "title": "Measuring persistence and academic resilience of K−12 students: systematic review and operational definitions",
-    "year": 2025,
-    "cited_by_count": 1,
-    "venue": "Frontiers in Education",
-    "doi": "https://doi.org/10.3389/feduc.2025.1673500",
-    "is_oa": true,
-    "authors": [
-      "Jesse R. Sparks",
-      "Blair Lehman",
-      "Jessica R. Gladstone",
-      "Shan Zhang",
-      "Noah L. Schroeder"
-    ]
-  },
-  {
-    "id": "W4416823136",
-    "title": "Virtual Characters Help K–12 Students Learn and Improve Motivation: A Meta-Analysis",
-    "year": 2025,
-    "cited_by_count": 1,
-    "venue": "Review of Educational Research",
-    "doi": "https://doi.org/10.3102/00346543251389930",
-    "is_oa": false,
-    "authors": [
-      "Noah L. Schroeder",
-      "Shan Zhang",
-      "Chris Davis Jaldi",
-      "Jessica R. Gladstone",
-      "Alexis A. López"
-    ]
-  },
-  {
-    "id": "W2625555190",
-    "title": "Development of an Educational Video Game That Can Be Modified by End-Users",
-    "year": 2017,
-    "cited_by_count": 1,
-    "venue": "Advances in educational technologies and instructional design book series",
-    "doi": "https://doi.org/10.4018/978-1-5225-2639-1.ch009",
-    "is_oa": false,
-    "authors": [
-      "Noah L. Schroeder",
-      "Alexandrea Oliver",
-      "Kenneth Deffet",
-      "James Morgan"
-    ]
-  },
-  {
-    "id": "W2488064600",
-    "title": "Concept Maps as Tools for Learning Scientific Language",
-    "year": 2012,
-    "cited_by_count": 1,
-    "venue": "Advances in educational technologies and instructional design book series",
-    "doi": "https://doi.org/10.4018/978-1-4666-0068-3.ch003",
-    "is_oa": false,
-    "authors": [
-      "Noah L. Schroeder",
-      "Olusola Adesope"
-    ]
-  },
-  {
-    "id": "W4242213805",
-    "title": "Pedagogical Agents for Learning",
-    "year": 2018,
-    "cited_by_count": 1,
-    "venue": "IGI Global eBooks",
-    "doi": "https://doi.org/10.4018/978-1-5225-5469-1.ch075",
-    "is_oa": false,
-    "authors": [
-      "Noah L. Schroeder"
-    ]
-  },
-  {
-    "id": "W2221572996",
-    "title": "Pedagogical Agents and Learning: Are They Worth the Cost?",
-    "year": 2011,
-    "cited_by_count": 1,
-    "venue": "E-Learn: World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education",
-    "doi": null,
-    "is_oa": false,
-    "authors": [
-      "Noah L. Schroeder",
-      "Rachel Barouch Gilbert",
-      "Olusola Adesope"
-    ]
-  },
-  {
-    "id": "W4243257913",
-    "title": "Longitudinal Classification of Mental Effort Using Electrodermal Activity, Heart Rate, and Skin Temperature Data from a Wearable Sensor",
-    "year": 2021,
-    "cited_by_count": 1,
-    "venue": null,
-    "doi": "https://doi.org/10.36227/techrxiv.13607291",
-    "is_oa": true,
-    "authors": [
-      "William L. Romine",
-      "Noah L. Schroeder",
-      "Anjali Edwards",
-      "Tanvi Banerjee"
-    ]
-  },
-  {
-    "id": "W4404725304",
-    "title": "Correction to: Semi-automating the Scoping Review Process: Is It Worthwhile? A Methodological Evaluation",
-    "year": 2024,
-    "cited_by_count": 1,
-    "venue": "Educational Psychology Review",
-    "doi": "https://doi.org/10.1007/s10648-024-09975-x",
-    "is_oa": true,
-    "authors": [
-      "Shan Zhang",
-      "Chris Palaguachi",
-      "Marcin Pitera",
-      "Chris Davis Jaldi",
-      "Noah L. Schroeder"
-    ]
-  },
-  {
     "id": "W4412585187",
     "title": "VETTING AI for Deeper Learning: Constraining LLMs to Encourage Student Inquiry",
     "year": 2025,
@@ -1145,6 +1029,38 @@
     ]
   },
   {
+    "id": "W4416187045",
+    "title": "Measuring persistence and academic resilience of K−12 students: systematic review and operational definitions",
+    "year": 2025,
+    "cited_by_count": 1,
+    "venue": "Frontiers in Education",
+    "doi": "https://doi.org/10.3389/feduc.2025.1673500",
+    "is_oa": true,
+    "authors": [
+      "Jesse R. Sparks",
+      "Blair Lehman",
+      "Jessica R. Gladstone",
+      "Shan Zhang",
+      "Noah L. Schroeder"
+    ]
+  },
+  {
+    "id": "W4416823136",
+    "title": "Virtual Characters Help K–12 Students Learn and Improve Motivation: A Meta-Analysis",
+    "year": 2025,
+    "cited_by_count": 1,
+    "venue": "Review of Educational Research",
+    "doi": "https://doi.org/10.3102/00346543251389930",
+    "is_oa": false,
+    "authors": [
+      "Noah L. Schroeder",
+      "Shan Zhang",
+      "Chris Davis Jaldi",
+      "Jessica R. Gladstone",
+      "Alexis A. López"
+    ]
+  },
+  {
     "id": "W7165733454",
     "title": "Small, Private Language Models as Teammates for Educational Assessment Design",
     "year": 2026,
@@ -1158,6 +1074,91 @@
       "Shan Zhang",
       "Noah L. Schroeder",
       "Cogan Shimizu"
+    ]
+  },
+  {
+    "id": "W2625555190",
+    "title": "Development of an Educational Video Game That Can Be Modified by End-Users",
+    "year": 2017,
+    "cited_by_count": 1,
+    "venue": "Advances in educational technologies and instructional design book series",
+    "doi": "https://doi.org/10.4018/978-1-5225-2639-1.ch009",
+    "is_oa": false,
+    "authors": [
+      "Noah L. Schroeder",
+      "Alexandrea Oliver",
+      "Kenneth Deffet",
+      "James Morgan"
+    ]
+  },
+  {
+    "id": "W2221572996",
+    "title": "Pedagogical Agents and Learning: Are They Worth the Cost?",
+    "year": 2011,
+    "cited_by_count": 1,
+    "venue": "E-Learn: World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education",
+    "doi": null,
+    "is_oa": false,
+    "authors": [
+      "Noah L. Schroeder",
+      "Rachel Barouch Gilbert",
+      "Olusola Adesope"
+    ]
+  },
+  {
+    "id": "W2488064600",
+    "title": "Concept Maps as Tools for Learning Scientific Language",
+    "year": 2012,
+    "cited_by_count": 1,
+    "venue": "Advances in educational technologies and instructional design book series",
+    "doi": "https://doi.org/10.4018/978-1-4666-0068-3.ch003",
+    "is_oa": false,
+    "authors": [
+      "Noah L. Schroeder",
+      "Olusola Adesope"
+    ]
+  },
+  {
+    "id": "W4242213805",
+    "title": "Pedagogical Agents for Learning",
+    "year": 2018,
+    "cited_by_count": 1,
+    "venue": "IGI Global eBooks",
+    "doi": "https://doi.org/10.4018/978-1-5225-5469-1.ch075",
+    "is_oa": false,
+    "authors": [
+      "Noah L. Schroeder"
+    ]
+  },
+  {
+    "id": "W4243257913",
+    "title": "Longitudinal Classification of Mental Effort Using Electrodermal Activity, Heart Rate, and Skin Temperature Data from a Wearable Sensor",
+    "year": 2021,
+    "cited_by_count": 1,
+    "venue": null,
+    "doi": "https://doi.org/10.36227/techrxiv.13607291",
+    "is_oa": true,
+    "authors": [
+      "William L. Romine",
+      "Noah L. Schroeder",
+      "Anjali Edwards",
+      "Tanvi Banerjee"
+    ]
+  },
+  {
+    "id": "W4404725304",
+    "title": "Correction to: Semi-automating the Scoping Review Process: Is It Worthwhile? A Methodological Evaluation",
+    "year": 2024,
+    "cited_by_count": 1,
+    "venue": "Educational Psychology Review",
+    "doi": "https://doi.org/10.1007/s10648-024-09975-x",
+    "is_oa": true,
+    "authors": [
+      "Shan Zhang",
+      "Chris Palaguachi",
+      "Marcin Pitera",
+      "Chris Davis Jaldi",
+      "Noah L. Schroeder"
     ]
   },
   {
