@@ -3,7 +3,7 @@
     "id": "W2100242321",
     "title": "How Effective are Pedagogical Agents for Learning? A Meta-Analytic Review",
     "year": 2013,
-    "cited_by_count": 291,
+    "cited_by_count": 292,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.2190/ec.49.1.a",
     "is_oa": false,
@@ -17,7 +17,7 @@
     "id": "W2603090530",
     "title": "Studying and Constructing Concept Maps: a Meta-Analysis",
     "year": 2017,
-    "cited_by_count": 253,
+    "cited_by_count": 256,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-017-9403-9",
     "is_oa": false,
@@ -109,6 +109,19 @@
     ]
   },
   {
+    "id": "W4207047326",
+    "title": "Refutation Text Facilitates Learning: a Meta-Analysis of Between-Subjects Experiments",
+    "year": 2022,
+    "cited_by_count": 74,
+    "venue": "Educational Psychology Review",
+    "doi": "https://doi.org/10.1007/s10648-021-09656-z",
+    "is_oa": true,
+    "authors": [
+      "Noah L. Schroeder",
+      "Aurelia C. Kucera"
+    ]
+  },
+  {
     "id": "W2161406088",
     "title": "Efficacy beliefs, job satisfaction, stress and their influence on the occupational commitment of English-medium content teachers in the Dominican Republic",
     "year": 2013,
@@ -123,16 +136,19 @@
     ]
   },
   {
-    "id": "W4207047326",
-    "title": "Refutation Text Facilitates Learning: a Meta-Analysis of Between-Subjects Experiments",
-    "year": 2022,
-    "cited_by_count": 73,
-    "venue": "Educational Psychology Review",
-    "doi": "https://doi.org/10.1007/s10648-021-09656-z",
+    "id": "W3080112302",
+    "title": "Using Machine Learning to Train a Wearable Device for Measuring Students’ Cognitive Load during Problem-Solving Activities Based on Electrodermal Activity, Body Temperature, and Heart Rate: Development of a Cognitive Load Tracker for Both Personal and Classroom Use",
+    "year": 2020,
+    "cited_by_count": 61,
+    "venue": "Sensors",
+    "doi": "https://doi.org/10.3390/s20174833",
     "is_oa": true,
     "authors": [
+      "William L. Romine",
       "Noah L. Schroeder",
-      "Aurelia C. Kucera"
+      "Josephine Graft",
+      "Fan Yang",
+      "Reza Sadeghi"
     ]
   },
   {
@@ -146,22 +162,6 @@
     "authors": [
       "Noah L. Schroeder",
       "Chad M. Gotch"
-    ]
-  },
-  {
-    "id": "W3080112302",
-    "title": "Using Machine Learning to Train a Wearable Device for Measuring Students’ Cognitive Load during Problem-Solving Activities Based on Electrodermal Activity, Body Temperature, and Heart Rate: Development of a Cognitive Load Tracker for Both Personal and Classroom Use",
-    "year": 2020,
-    "cited_by_count": 60,
-    "venue": "Sensors",
-    "doi": "https://doi.org/10.3390/s20174833",
-    "is_oa": true,
-    "authors": [
-      "William L. Romine",
-      "Noah L. Schroeder",
-      "Josephine Graft",
-      "Fan Yang",
-      "Reza Sadeghi"
     ]
   },
   {
@@ -181,7 +181,7 @@
     "id": "W4388440497",
     "title": "The instructor presence effect and its moderators in instructional video: A series of meta-analyses",
     "year": 2023,
-    "cited_by_count": 46,
+    "cited_by_count": 47,
     "venue": "Educational Research Review",
     "doi": "https://doi.org/10.1016/j.edurev.2023.100564",
     "is_oa": true,
@@ -238,6 +238,22 @@
     ]
   },
   {
+    "id": "W4412120312",
+    "title": "From Generative AI to Extended Reality: Multidisciplinary Perspectives on the Challenges, Opportunities, and Future of Educational Computing",
+    "year": 2025,
+    "cited_by_count": 41,
+    "venue": "Journal of Educational Computing Research",
+    "doi": "https://doi.org/10.1177/07356331251359964",
+    "is_oa": true,
+    "authors": [
+      "Jordan Allison",
+      "Gwo‐Jen Hwang",
+      "Richard E. Mayer",
+      "Νικόλαος Πέλλας",
+      "Oscar Karnalim"
+    ]
+  },
+  {
     "id": "W4410379016",
     "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
     "year": 2025,
@@ -249,22 +265,6 @@
       "Shan Zhang",
       "P. Prasad",
       "Noah L. Schroeder"
-    ]
-  },
-  {
-    "id": "W4412120312",
-    "title": "From Generative AI to Extended Reality: Multidisciplinary Perspectives on the Challenges, Opportunities, and Future of Educational Computing",
-    "year": 2025,
-    "cited_by_count": 39,
-    "venue": "Journal of Educational Computing Research",
-    "doi": "https://doi.org/10.1177/07356331251359964",
-    "is_oa": true,
-    "authors": [
-      "Jordan Allison",
-      "Gwo‐Jen Hwang",
-      "Richard E. Mayer",
-      "Νικόλαος Πέλλας",
-      "Oscar Karnalim"
     ]
   },
   {
@@ -329,7 +329,7 @@
     "id": "W4402544340",
     "title": "Pedagogical agent design for K-12 education: A systematic review",
     "year": 2024,
-    "cited_by_count": 32,
+    "cited_by_count": 33,
     "venue": "Computers & Education",
     "doi": "https://doi.org/10.1016/j.compedu.2024.105165",
     "is_oa": true,
@@ -365,6 +365,20 @@
     "authors": [
       "Noah L. Schroeder",
       "Scotty D. Craig"
+    ]
+  },
+  {
+    "id": "W4403377683",
+    "title": "Designing and Learning With Pedagogical Agents: An Umbrella Review",
+    "year": 2024,
+    "cited_by_count": 26,
+    "venue": "Journal of Educational Computing Research",
+    "doi": "https://doi.org/10.1177/07356331241288476",
+    "is_oa": true,
+    "authors": [
+      "Noah L. Schroeder",
+      "R. O. Davis",
+      "Eunbyul Yang"
     ]
   },
   {
@@ -407,20 +421,6 @@
     "authors": [
       "Noah L. Schroeder",
       "Olusola Adesope"
-    ]
-  },
-  {
-    "id": "W4403377683",
-    "title": "Designing and Learning With Pedagogical Agents: An Umbrella Review",
-    "year": 2024,
-    "cited_by_count": 25,
-    "venue": "Journal of Educational Computing Research",
-    "doi": "https://doi.org/10.1177/07356331241288476",
-    "is_oa": true,
-    "authors": [
-      "Noah L. Schroeder",
-      "R. O. Davis",
-      "Eunbyul Yang"
     ]
   },
   {
@@ -939,6 +939,20 @@
     ]
   },
   {
+    "id": "W4404415725",
+    "title": "Learning about AI: A Systematic Review of Reviews on AI Literacy",
+    "year": 2024,
+    "cited_by_count": 3,
+    "venue": null,
+    "doi": "https://doi.org/10.31219/osf.io/aue93",
+    "is_oa": true,
+    "authors": [
+      "Shan Zhang",
+      "Priyadharshini Ganapathy Prasad",
+      "Noah L. Schroeder"
+    ]
+  },
+  {
     "id": "W4404206627",
     "title": "Semi-automating the Scoping Review Process: Is it Worthwhile? A Methodological Evaluation",
     "year": 2024,
@@ -980,20 +994,6 @@
       "Noah L. Schroeder",
       "Anjali Edwards",
       "Tanvi Banerjee"
-    ]
-  },
-  {
-    "id": "W4404415725",
-    "title": "Learning about AI: A Systematic Review of Reviews on AI Literacy",
-    "year": 2024,
-    "cited_by_count": 2,
-    "venue": null,
-    "doi": "https://doi.org/10.31219/osf.io/aue93",
-    "is_oa": true,
-    "authors": [
-      "Shan Zhang",
-      "Priyadharshini Ganapathy Prasad",
-      "Noah L. Schroeder"
     ]
   },
   {

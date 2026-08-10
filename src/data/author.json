@@ -5,9 +5,9 @@
   "summary_stats": {
     "h_index": 26,
     "i10_index": 46,
-    "cited_by_count": 2507,
+    "cited_by_count": 2517,
     "works_count": 103,
-    "2yr_mean_citedness": 7.758620689655173
+    "2yr_mean_citedness": 7.896551724137931
   },
   "topics": [
     {
@@ -31,5 +31,5 @@
       "count": 16
     }
   ],
-  "last_updated": "2026-08-03"
+  "last_updated": "2026-08-10"
 }
