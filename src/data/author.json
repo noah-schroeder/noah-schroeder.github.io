@@ -3,11 +3,11 @@
   "name": "Noah L. Schroeder",
   "institution": "University of Florida",
   "summary_stats": {
-    "h_index": 26,
+    "h_index": 27,
     "i10_index": 46,
-    "cited_by_count": 2517,
+    "cited_by_count": 2534,
     "works_count": 103,
-    "2yr_mean_citedness": 7.896551724137931
+    "2yr_mean_citedness": 8
   },
   "topics": [
     {
@@ -31,5 +31,5 @@
       "count": 16
     }
   ],
-  "last_updated": "2026-08-10"
+  "last_updated": "2026-08-17"
 }

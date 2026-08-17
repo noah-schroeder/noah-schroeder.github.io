@@ -3,7 +3,7 @@
     "id": "W2100242321",
     "title": "How Effective are Pedagogical Agents for Learning? A Meta-Analytic Review",
     "year": 2013,
-    "cited_by_count": 292,
+    "cited_by_count": 293,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.2190/ec.49.1.a",
     "is_oa": false,
@@ -17,7 +17,7 @@
     "id": "W2603090530",
     "title": "Studying and Constructing Concept Maps: a Meta-Analysis",
     "year": 2017,
-    "cited_by_count": 256,
+    "cited_by_count": 258,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-017-9403-9",
     "is_oa": false,
@@ -32,7 +32,7 @@
     "id": "W2794691683",
     "title": "Spatial Contiguity and Spatial Split-Attention Effects in Multimedia Learning Environments: a Meta-Analysis",
     "year": 2018,
-    "cited_by_count": 170,
+    "cited_by_count": 171,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-018-9435-9",
     "is_oa": false,
@@ -82,10 +82,23 @@
     ]
   },
   {
+    "id": "W3211485050",
+    "title": "A Systematic review of instructor presence in instructional videos: Effects on learning and affect",
+    "year": 2021,
+    "cited_by_count": 78,
+    "venue": "Computers and Education Open",
+    "doi": "https://doi.org/10.1016/j.caeo.2021.100059",
+    "is_oa": true,
+    "authors": [
+      "Marsha L. Henderson",
+      "Noah L. Schroeder"
+    ]
+  },
+  {
     "id": "W2589724482",
     "title": "Measuring pedagogical agent persona and the influence of agent persona on learning",
     "year": 2017,
-    "cited_by_count": 75,
+    "cited_by_count": 76,
     "venue": "Computers & Education",
     "doi": "https://doi.org/10.1016/j.compedu.2017.02.015",
     "is_oa": false,
@@ -96,23 +109,10 @@
     ]
   },
   {
-    "id": "W3211485050",
-    "title": "A Systematic review of instructor presence in instructional videos: Effects on learning and affect",
-    "year": 2021,
-    "cited_by_count": 75,
-    "venue": "Computers and Education Open",
-    "doi": "https://doi.org/10.1016/j.caeo.2021.100059",
-    "is_oa": true,
-    "authors": [
-      "Marsha L. Henderson",
-      "Noah L. Schroeder"
-    ]
-  },
-  {
     "id": "W4207047326",
     "title": "Refutation Text Facilitates Learning: a Meta-Analysis of Between-Subjects Experiments",
     "year": 2022,
-    "cited_by_count": 74,
+    "cited_by_count": 75,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-021-09656-z",
     "is_oa": true,
@@ -257,7 +257,7 @@
     "id": "W4410379016",
     "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
     "year": 2025,
-    "cited_by_count": 39,
+    "cited_by_count": 40,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.1177/07356331251342081",
     "is_oa": false,
@@ -284,7 +284,7 @@
     "id": "W4298005498",
     "title": "Toward Mental Effort Measurement Using Electrodermal Activity Features",
     "year": 2022,
-    "cited_by_count": 35,
+    "cited_by_count": 36,
     "venue": "Sensors",
     "doi": "https://doi.org/10.3390/s22197363",
     "is_oa": true,
@@ -368,6 +368,22 @@
     ]
   },
   {
+    "id": "W4403439632",
+    "title": "Large language models for whole-learner support: opportunities and challenges",
+    "year": 2024,
+    "cited_by_count": 27,
+    "venue": "Frontiers in Artificial Intelligence",
+    "doi": "https://doi.org/10.3389/frai.2024.1460364",
+    "is_oa": true,
+    "authors": [
+      "Amogh Mannekote",
+      "Adam Davies",
+      "Juan D. Pinto",
+      "Shan Zhang",
+      "Daniel Olds"
+    ]
+  },
+  {
     "id": "W4403377683",
     "title": "Designing and Learning With Pedagogical Agents: An Umbrella Review",
     "year": 2024,
@@ -379,22 +395,6 @@
       "Noah L. Schroeder",
       "R. O. Davis",
       "Eunbyul Yang"
-    ]
-  },
-  {
-    "id": "W4403439632",
-    "title": "Large language models for whole-learner support: opportunities and challenges",
-    "year": 2024,
-    "cited_by_count": 26,
-    "venue": "Frontiers in Artificial Intelligence",
-    "doi": "https://doi.org/10.3389/frai.2024.1460364",
-    "is_oa": true,
-    "authors": [
-      "Amogh Mannekote",
-      "Adam Davies",
-      "Juan D. Pinto",
-      "Shan Zhang",
-      "Daniel Olds"
     ]
   },
   {
@@ -540,7 +540,7 @@
     "id": "W2990914727",
     "title": "The Impact of Virtual Human Voice on Learner Trust",
     "year": 2019,
-    "cited_by_count": 17,
+    "cited_by_count": 19,
     "venue": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
     "doi": "https://doi.org/10.1177/1071181319631517",
     "is_oa": false,
@@ -668,16 +668,19 @@
     ]
   },
   {
-    "id": "W2599314336",
-    "title": "Strategies for Designing Engaging Online Kinesiology Courses Based on the Community of Inquiry Model",
-    "year": 2017,
-    "cited_by_count": 7,
-    "venue": "Quest",
-    "doi": "https://doi.org/10.1080/00336297.2017.1295274",
-    "is_oa": false,
+    "id": "W2561392634",
+    "title": "Variation in external representations as part of the classroom lecture:An investigation of virtual cell animations in introductory photosynthesis instruction*",
+    "year": 2016,
+    "cited_by_count": 8,
+    "venue": "Biochemistry and Molecular Biology Education",
+    "doi": "https://doi.org/10.1002/bmb.21032",
+    "is_oa": true,
     "authors": [
-      "Bethany L. Hersman",
-      "Noah L. Schroeder"
+      "Eric E. Goff",
+      "Katie M. Reindl",
+      "Christina Johnson",
+      "Phillip E. McClean",
+      "Erika G. Offerdahl"
     ]
   },
   {
@@ -694,19 +697,16 @@
     ]
   },
   {
-    "id": "W2561392634",
-    "title": "Variation in external representations as part of the classroom lecture:An investigation of virtual cell animations in introductory photosynthesis instruction*",
-    "year": 2016,
+    "id": "W2599314336",
+    "title": "Strategies for Designing Engaging Online Kinesiology Courses Based on the Community of Inquiry Model",
+    "year": 2017,
     "cited_by_count": 7,
-    "venue": "Biochemistry and Molecular Biology Education",
-    "doi": "https://doi.org/10.1002/bmb.21032",
-    "is_oa": true,
+    "venue": "Quest",
+    "doi": "https://doi.org/10.1080/00336297.2017.1295274",
+    "is_oa": false,
     "authors": [
-      "Eric E. Goff",
-      "Katie M. Reindl",
-      "Christina Johnson",
-      "Phillip E. McClean",
-      "Erika G. Offerdahl"
+      "Bethany L. Hersman",
+      "Noah L. Schroeder"
     ]
   },
   {
@@ -1374,7 +1374,7 @@
     "authors": [
       "Teresa Ober",
       "Shan Zhang",
-      "Zapata-Rivera, Diego",
+      "Diego Zapata‐Rivera",
       "Noah L. Schroeder",
       "Anthony F. Botelho"
     ]
@@ -1390,7 +1390,7 @@
     "authors": [
       "Teresa Ober",
       "Shan Zhang",
-      "Zapata-Rivera, Diego",
+      "Diego Zapata‐Rivera",
       "Noah L. Schroeder",
       "Anthony F. Botelho"
     ]
