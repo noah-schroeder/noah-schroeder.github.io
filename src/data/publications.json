@@ -3,7 +3,7 @@
     "id": "W2100242321",
     "title": "How Effective are Pedagogical Agents for Learning? A Meta-Analytic Review",
     "year": 2013,
-    "cited_by_count": 295,
+    "cited_by_count": 296,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.2190/ec.49.1.a",
     "is_oa": false,
@@ -32,7 +32,7 @@
     "id": "W2794691683",
     "title": "Spatial Contiguity and Spatial Split-Attention Effects in Multimedia Learning Environments: a Meta-Analysis",
     "year": 2018,
-    "cited_by_count": 173,
+    "cited_by_count": 174,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-018-9435-9",
     "is_oa": false,
@@ -45,7 +45,7 @@
     "id": "W2734963796",
     "title": "Reconsidering the voice effect when learning from a virtual human",
     "year": 2017,
-    "cited_by_count": 148,
+    "cited_by_count": 149,
     "venue": "Computers & Education",
     "doi": "https://doi.org/10.1016/j.compedu.2017.07.003",
     "is_oa": false,
@@ -58,7 +58,7 @@
     "id": "W2046145495",
     "title": "A Systematic Review of Pedagogical Agents’ Persona, Motivation, and Cognitive Load Implications for Learners",
     "year": 2014,
-    "cited_by_count": 104,
+    "cited_by_count": 105,
     "venue": "Journal of Research on Technology in Education",
     "doi": "https://doi.org/10.1080/15391523.2014.888265",
     "is_oa": false,
@@ -85,7 +85,7 @@
     "id": "W3211485050",
     "title": "A Systematic review of instructor presence in instructional videos: Effects on learning and affect",
     "year": 2021,
-    "cited_by_count": 76,
+    "cited_by_count": 79,
     "venue": "Computers and Education Open",
     "doi": "https://doi.org/10.1016/j.caeo.2021.100059",
     "is_oa": true,
@@ -98,7 +98,7 @@
     "id": "W4207047326",
     "title": "Refutation Text Facilitates Learning: a Meta-Analysis of Between-Subjects Experiments",
     "year": 2022,
-    "cited_by_count": 76,
+    "cited_by_count": 77,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-021-09656-z",
     "is_oa": true,
@@ -111,7 +111,7 @@
     "id": "W2589724482",
     "title": "Measuring pedagogical agent persona and the influence of agent persona on learning",
     "year": 2017,
-    "cited_by_count": 76,
+    "cited_by_count": 77,
     "venue": "Computers & Education",
     "doi": "https://doi.org/10.1016/j.compedu.2017.02.015",
     "is_oa": false,
@@ -165,26 +165,10 @@
     ]
   },
   {
-    "id": "W4388440497",
-    "title": "The instructor presence effect and its moderators in instructional video: A series of meta-analyses",
-    "year": 2023,
-    "cited_by_count": 51,
-    "venue": "Educational Research Review",
-    "doi": "https://doi.org/10.1016/j.edurev.2023.100564",
-    "is_oa": true,
-    "authors": [
-      "Maik Beege",
-      "Noah L. Schroeder",
-      "Steffi Heidig",
-      "Günter Daniel Rey",
-      "Sascha Schneider"
-    ]
-  },
-  {
     "id": "W4410379016",
     "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
     "year": 2025,
-    "cited_by_count": 51,
+    "cited_by_count": 54,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.1177/07356331251342081",
     "is_oa": false,
@@ -198,7 +182,7 @@
     "id": "W4412120312",
     "title": "From Generative AI to Extended Reality: Multidisciplinary Perspectives on the Challenges, Opportunities, and Future of Educational Computing",
     "year": 2025,
-    "cited_by_count": 50,
+    "cited_by_count": 52,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.1177/07356331251359964",
     "is_oa": true,
@@ -208,6 +192,22 @@
       "Richard E. Mayer",
       "Νικόλαος Πέλλας",
       "Oscar Karnalim"
+    ]
+  },
+  {
+    "id": "W4388440497",
+    "title": "The instructor presence effect and its moderators in instructional video: A series of meta-analyses",
+    "year": 2023,
+    "cited_by_count": 51,
+    "venue": "Educational Research Review",
+    "doi": "https://doi.org/10.1016/j.edurev.2023.100564",
+    "is_oa": true,
+    "authors": [
+      "Maik Beege",
+      "Noah L. Schroeder",
+      "Steffi Heidig",
+      "Günter Daniel Rey",
+      "Sascha Schneider"
     ]
   },
   {
@@ -227,7 +227,7 @@
     "id": "W2945435832",
     "title": "Do measures of cognitive load explain the spatial split-attention principle in multimedia learning environments? A systematic review.",
     "year": 2019,
-    "cited_by_count": 44,
+    "cited_by_count": 45,
     "venue": "Journal of Educational Psychology",
     "doi": "https://doi.org/10.1037/edu0000372",
     "is_oa": false,
@@ -312,6 +312,22 @@
     ]
   },
   {
+    "id": "W2827355147",
+    "title": "The influence of learners' perceptions of virtual humans on learning transfer",
+    "year": 2018,
+    "cited_by_count": 36,
+    "venue": "Computers & Education",
+    "doi": "https://doi.org/10.1016/j.compedu.2018.07.005",
+    "is_oa": true,
+    "authors": [
+      "Noah L. Schroeder",
+      "Fan Yang",
+      "Tanvi Banerjee",
+      "William L. Romine",
+      "Scotty D. Craig"
+    ]
+  },
+  {
     "id": "W3092141661",
     "title": "Trust influences perceptions of virtual humans, but not necessarily learning",
     "year": 2020,
@@ -322,22 +338,6 @@
     "authors": [
       "Noah L. Schroeder",
       "Erin K. Chiou",
-      "Scotty D. Craig"
-    ]
-  },
-  {
-    "id": "W2827355147",
-    "title": "The influence of learners' perceptions of virtual humans on learning transfer",
-    "year": 2018,
-    "cited_by_count": 35,
-    "venue": "Computers & Education",
-    "doi": "https://doi.org/10.1016/j.compedu.2018.07.005",
-    "is_oa": true,
-    "authors": [
-      "Noah L. Schroeder",
-      "Fan Yang",
-      "Tanvi Banerjee",
-      "William L. Romine",
       "Scotty D. Craig"
     ]
   },
@@ -385,6 +385,21 @@
     ]
   },
   {
+    "id": "W4405893789",
+    "title": "Education in the era of Neurosymbolic AI",
+    "year": 2024,
+    "cited_by_count": 29,
+    "venue": "Journal of Web Semantics",
+    "doi": "https://doi.org/10.1016/j.websem.2024.100857",
+    "is_oa": true,
+    "authors": [
+      "Chris Davis Jaldi",
+      "Eleni Ilkou",
+      "Noah L. Schroeder",
+      "Cogan Shimizu"
+    ]
+  },
+  {
     "id": "W2211278513",
     "title": "Impacts of Pedagogical Agent Gender in an Accessible Learning Environment.",
     "year": 2015,
@@ -408,21 +423,6 @@
     "authors": [
       "H. Chad Lane",
       "Noah L. Schroeder"
-    ]
-  },
-  {
-    "id": "W4405893789",
-    "title": "Education in the era of Neurosymbolic AI",
-    "year": 2024,
-    "cited_by_count": 27,
-    "venue": "Journal of Web Semantics",
-    "doi": "https://doi.org/10.1016/j.websem.2024.100857",
-    "is_oa": true,
-    "authors": [
-      "Chris Davis Jaldi",
-      "Eleni Ilkou",
-      "Noah L. Schroeder",
-      "Cogan Shimizu"
     ]
   },
   {
@@ -1356,7 +1356,7 @@
     "cited_by_count": 0,
     "venue": null,
     "doi": "https://doi.org/10.1109/embc53108.2024.10782532",
-    "is_oa": true,
+    "is_oa": false,
     "authors": [
       "William L. Romine",
       "Tanvi Banerjee",
