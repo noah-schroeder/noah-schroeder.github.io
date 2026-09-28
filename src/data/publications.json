@@ -3,7 +3,7 @@
     "id": "W2100242321",
     "title": "How Effective are Pedagogical Agents for Learning? A Meta-Analytic Review",
     "year": 2013,
-    "cited_by_count": 298,
+    "cited_by_count": 299,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.2190/ec.49.1.a",
     "is_oa": false,
@@ -45,7 +45,7 @@
     "id": "W2734963796",
     "title": "Reconsidering the voice effect when learning from a virtual human",
     "year": 2017,
-    "cited_by_count": 149,
+    "cited_by_count": 152,
     "venue": "Computers & Education",
     "doi": "https://doi.org/10.1016/j.compedu.2017.07.003",
     "is_oa": false,
@@ -82,6 +82,20 @@
     ]
   },
   {
+    "id": "W2589724482",
+    "title": "Measuring pedagogical agent persona and the influence of agent persona on learning",
+    "year": 2017,
+    "cited_by_count": 79,
+    "venue": "Computers & Education",
+    "doi": "https://doi.org/10.1016/j.compedu.2017.02.015",
+    "is_oa": false,
+    "authors": [
+      "Noah L. Schroeder",
+      "William Lee Romine",
+      "Scotty D. Craig"
+    ]
+  },
+  {
     "id": "W3211485050",
     "title": "A Systematic review of instructor presence in instructional videos: Effects on learning and affect",
     "year": 2021,
@@ -92,20 +106,6 @@
     "authors": [
       "Marsha L. Henderson",
       "Noah L. Schroeder"
-    ]
-  },
-  {
-    "id": "W2589724482",
-    "title": "Measuring pedagogical agent persona and the influence of agent persona on learning",
-    "year": 2017,
-    "cited_by_count": 78,
-    "venue": "Computers & Education",
-    "doi": "https://doi.org/10.1016/j.compedu.2017.02.015",
-    "is_oa": false,
-    "authors": [
-      "Noah L. Schroeder",
-      "William L. Romine",
-      "Scotty D. Craig"
     ]
   },
   {
@@ -144,7 +144,7 @@
     "doi": "https://doi.org/10.3390/s20174833",
     "is_oa": true,
     "authors": [
-      "William L. Romine",
+      "William Lee Romine",
       "Noah L. Schroeder",
       "Josephine Graft",
       "Fan Yang",
@@ -165,24 +165,10 @@
     ]
   },
   {
-    "id": "W4410379016",
-    "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
-    "year": 2025,
-    "cited_by_count": 55,
-    "venue": "Journal of Educational Computing Research",
-    "doi": "https://doi.org/10.1177/07356331251342081",
-    "is_oa": false,
-    "authors": [
-      "Shan Zhang",
-      "P. Prasad",
-      "Noah L. Schroeder"
-    ]
-  },
-  {
     "id": "W4412120312",
     "title": "From Generative AI to Extended Reality: Multidisciplinary Perspectives on the Challenges, Opportunities, and Future of Educational Computing",
     "year": 2025,
-    "cited_by_count": 54,
+    "cited_by_count": 56,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.1177/07356331251359964",
     "is_oa": true,
@@ -195,10 +181,24 @@
     ]
   },
   {
+    "id": "W4410379016",
+    "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
+    "year": 2025,
+    "cited_by_count": 55,
+    "venue": "Journal of Educational Computing Research",
+    "doi": "https://doi.org/10.1177/07356331251342081",
+    "is_oa": false,
+    "authors": [
+      "Shan Zhang",
+      "Priyadharshini Ganapathy Prasad",
+      "Noah L. Schroeder"
+    ]
+  },
+  {
     "id": "W4388440497",
     "title": "The instructor presence effect and its moderators in instructional video: A series of meta-analyses",
     "year": 2023,
-    "cited_by_count": 51,
+    "cited_by_count": 52,
     "venue": "Educational Research Review",
     "doi": "https://doi.org/10.1016/j.edurev.2023.100564",
     "is_oa": true,
@@ -240,12 +240,12 @@
     "id": "W2915641965",
     "title": "The validity and utility of activity logs as a measure of student engagement",
     "year": 2019,
-    "cited_by_count": 42,
+    "cited_by_count": 43,
     "venue": null,
     "doi": "https://doi.org/10.1145/3303772.3303789",
     "is_oa": false,
     "authors": [
-      "Benjamin Motz",
+      "Benjamin A. Motz",
       "Joshua Quick",
       "Noah L. Schroeder",
       "Jordon Zook",
@@ -261,10 +261,10 @@
     "doi": "https://doi.org/10.1103/physrevstper.11.010114",
     "is_oa": true,
     "authors": [
-      "G. Gladding",
+      "Gary E. Gladding",
       "Brianne Gutmann",
       "Noah L. Schroeder",
-      "T. Stelzer"
+      "Timothy J. Stelzer"
     ]
   },
   {
@@ -292,7 +292,7 @@
       "Noah L. Schroeder",
       "Fan Yang",
       "Tanvi Banerjee",
-      "William L. Romine",
+      "William Lee Romine",
       "Scotty D. Craig"
     ]
   },
@@ -305,7 +305,7 @@
     "doi": "https://doi.org/10.3390/s22197363",
     "is_oa": true,
     "authors": [
-      "William L. Romine",
+      "William Lee Romine",
       "Noah L. Schroeder",
       "Tanvi Banerjee",
       "Josephine Graft"
@@ -315,7 +315,7 @@
     "id": "W4402544340",
     "title": "Pedagogical agent design for K-12 education: A systematic review",
     "year": 2024,
-    "cited_by_count": 36,
+    "cited_by_count": 37,
     "venue": "Computers & Education",
     "doi": "https://doi.org/10.1016/j.compedu.2024.105165",
     "is_oa": true,
@@ -345,14 +345,14 @@
     "id": "W4403439632",
     "title": "Large language models for whole-learner support: opportunities and challenges",
     "year": 2024,
-    "cited_by_count": 32,
+    "cited_by_count": 33,
     "venue": "Frontiers in Artificial Intelligence",
     "doi": "https://doi.org/10.3389/frai.2024.1460364",
     "is_oa": true,
     "authors": [
       "Amogh Mannekote",
       "Adam Davies",
-      "Juan D. Pinto",
+      "Juan D. Guevara Pinto",
       "Shan Zhang",
       "Daniel Olds"
     ]
@@ -361,7 +361,7 @@
     "id": "W4403377683",
     "title": "Designing and Learning With Pedagogical Agents: An Umbrella Review",
     "year": 2024,
-    "cited_by_count": 30,
+    "cited_by_count": 31,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.1177/07356331241288476",
     "is_oa": true,
@@ -426,6 +426,21 @@
     ]
   },
   {
+    "id": "W4382985383",
+    "title": "Twenty-five Years of Learning with Pedagogical Agents: History, Barriers, and Opportunities",
+    "year": 2023,
+    "cited_by_count": 26,
+    "venue": "TechTrends",
+    "doi": "https://doi.org/10.1007/s11528-023-00869-3",
+    "is_oa": false,
+    "authors": [
+      "Robert F. Siegle",
+      "Noah L. Schroeder",
+      "H. Chad Lane",
+      "Scotty D. Craig"
+    ]
+  },
+  {
     "id": "W2992898335",
     "title": "A Case for the use of Pedagogical Agents in Online Learning Environments",
     "year": 2013,
@@ -436,21 +451,6 @@
     "authors": [
       "Noah L. Schroeder",
       "Olusola Adesope"
-    ]
-  },
-  {
-    "id": "W4382985383",
-    "title": "Twenty-five Years of Learning with Pedagogical Agents: History, Barriers, and Opportunities",
-    "year": 2023,
-    "cited_by_count": 25,
-    "venue": "TechTrends",
-    "doi": "https://doi.org/10.1007/s11528-023-00869-3",
-    "is_oa": false,
-    "authors": [
-      "Robert F. Siegle",
-      "Noah L. Schroeder",
-      "H. Chad Lane",
-      "Scotty D. Craig"
     ]
   },
   {
@@ -467,6 +467,20 @@
       "Christina Johnson",
       "Phillip E. McClean",
       "Erika G. Offerdahl"
+    ]
+  },
+  {
+    "id": "W4386160905",
+    "title": "A meta-analysis on learning from 360° video",
+    "year": 2023,
+    "cited_by_count": 24,
+    "venue": "Computers & Education",
+    "doi": "https://doi.org/10.1016/j.compedu.2023.104901",
+    "is_oa": false,
+    "authors": [
+      "Noah L. Schroeder",
+      "Robert F. Siegle",
+      "Scotty D. Craig"
     ]
   },
   {
@@ -496,20 +510,6 @@
     ]
   },
   {
-    "id": "W4386160905",
-    "title": "A meta-analysis on learning from 360° video",
-    "year": 2023,
-    "cited_by_count": 23,
-    "venue": "Computers & Education",
-    "doi": "https://doi.org/10.1016/j.compedu.2023.104901",
-    "is_oa": false,
-    "authors": [
-      "Noah L. Schroeder",
-      "Robert F. Siegle",
-      "Scotty D. Craig"
-    ]
-  },
-  {
     "id": "W2065372290",
     "title": "Narrated animated solution videos in a mastery setting",
     "year": 2015,
@@ -519,9 +519,9 @@
     "is_oa": true,
     "authors": [
       "Noah L. Schroeder",
-      "G. Gladding",
+      "Gary E. Gladding",
       "Brianne Gutmann",
-      "T. Stelzer"
+      "Timothy J. Stelzer"
     ]
   },
   {
@@ -559,7 +559,7 @@
     "doi": "https://doi.org/10.1080/13611267.2019.1611286",
     "is_oa": false,
     "authors": [
-      "Amber J.S. Daniel",
+      "Amber Daniel",
       "Suzanne Franco",
       "Noah L. Schroeder",
       "Ada T. Cenkci"
@@ -605,7 +605,7 @@
     "is_oa": true,
     "authors": [
       "Noah L. Schroeder",
-      "William L. Romine",
+      "William Lee Romine",
       "S Kemp"
     ]
   },
@@ -734,7 +734,7 @@
     "is_oa": true,
     "authors": [
       "Josephine Graft",
-      "William L. Romine",
+      "William Lee Romine",
       "Brooklynn Watts",
       "Noah L. Schroeder",
       "Tawsik Jawad"
@@ -807,7 +807,7 @@
       "Ankita Agarwal",
       "Josephine Graft",
       "Noah L. Schroeder",
-      "William L. Romine"
+      "William Lee Romine"
     ]
   },
   {
@@ -907,6 +907,22 @@
     ]
   },
   {
+    "id": "W4416187045",
+    "title": "Measuring persistence and academic resilience of K−12 students: systematic review and operational definitions",
+    "year": 2025,
+    "cited_by_count": 3,
+    "venue": "Frontiers in Education",
+    "doi": "https://doi.org/10.3389/feduc.2025.1673500",
+    "is_oa": true,
+    "authors": [
+      "Jesse R. Sparks",
+      "Blair A. Lehman",
+      "Jessica R. Gladstone",
+      "Shan Zhang",
+      "Noah L. Schroeder"
+    ]
+  },
+  {
     "id": "W4416823136",
     "title": "Virtual Characters Help K–12 Students Learn and Improve Motivation: A Meta-Analysis",
     "year": 2025,
@@ -985,22 +1001,6 @@
     ]
   },
   {
-    "id": "W4416187045",
-    "title": "Measuring persistence and academic resilience of K−12 students: systematic review and operational definitions",
-    "year": 2025,
-    "cited_by_count": 2,
-    "venue": "Frontiers in Education",
-    "doi": "https://doi.org/10.3389/feduc.2025.1673500",
-    "is_oa": true,
-    "authors": [
-      "Jesse R. Sparks",
-      "Blair Lehman",
-      "Jessica R. Gladstone",
-      "Shan Zhang",
-      "Noah L. Schroeder"
-    ]
-  },
-  {
     "id": "W3121195872",
     "title": "Longitudinal Classification of Mental Effort Using Electrodermal Activity, Heart Rate, and Skin Temperature Data from a Wearable Sensor",
     "year": 2021,
@@ -1009,7 +1009,7 @@
     "doi": "https://doi.org/10.1007/978-3-030-68790-8_8",
     "is_oa": true,
     "authors": [
-      "William L. Romine",
+      "William Lee Romine",
       "Noah L. Schroeder",
       "Anjali Edwards",
       "Tanvi Banerjee"
@@ -1139,7 +1139,7 @@
     "doi": "https://doi.org/10.36227/techrxiv.13607291",
     "is_oa": true,
     "authors": [
-      "William L. Romine",
+      "William Lee Romine",
       "Noah L. Schroeder",
       "Anjali Edwards",
       "Tanvi Banerjee"
@@ -1210,8 +1210,8 @@
     "doi": "https://doi.org/10.18260/1-2--20132",
     "is_oa": false,
     "authors": [
-      "Jennifer LeBeau",
-      "Denny Davis",
+      "Jennifer E. LeBeau",
+      "DENNY C. DAVIS",
       "Noah L. Schroeder",
       "Brian F. French",
       "Shane Brown"
@@ -1226,9 +1226,9 @@
     "doi": null,
     "is_oa": false,
     "authors": [
-      "T. Stelzer",
+      "Timothy J. Stelzer",
       "Brianne Gutmann",
-      "G. Gladding",
+      "Gary E. Gladding",
       "Morten Lundsgaard",
       "Noah L. Schroeder"
     ]
@@ -1254,8 +1254,8 @@
     "doi": null,
     "is_oa": false,
     "authors": [
-      "T. Stelzer",
-      "G. Gladding",
+      "Timothy J. Stelzer",
+      "Gary E. Gladding",
       "Brianne Gutmann",
       "Morten Lundsgaard",
       "Noah L. Schroeder"
@@ -1287,7 +1287,7 @@
     "authors": [
       "Brianne Gutmann",
       "Noah L. Schroeder",
-      "T. Stelzer"
+      "Timothy J. Stelzer"
     ]
   },
   {
@@ -1299,7 +1299,7 @@
     "doi": "https://doi.org/10.36227/techrxiv.13607291.v1",
     "is_oa": true,
     "authors": [
-      "William L. Romine",
+      "William Lee Romine",
       "Noah L. Schroeder",
       "Anjali Edwards",
       "Tanvi Banerjee"
@@ -1315,7 +1315,7 @@
     "is_oa": false,
     "authors": [
       "Michele Acker‐Hocevar",
-      "Gail C. Furman",
+      "Gail Chase Furman",
       "Gordon S. Gates",
       "Kristin Shawn Huggins",
       "Noah L. Schroeder"
@@ -1358,7 +1358,7 @@
     "doi": "https://doi.org/10.1109/embc53108.2024.10782532",
     "is_oa": false,
     "authors": [
-      "William L. Romine",
+      "William Lee Romine",
       "Tanvi Banerjee",
       "Noah L. Schroeder"
     ]
@@ -1372,7 +1372,7 @@
     "doi": "https://doi.org/10.5281/zenodo.18852441",
     "is_oa": true,
     "authors": [
-      "Teresa Ober",
+      "Teresa M. Ober",
       "Shan Zhang",
       "Diego Zapata‐Rivera",
       "Noah L. Schroeder",
@@ -1388,7 +1388,7 @@
     "doi": "https://doi.org/10.5281/zenodo.18852440",
     "is_oa": true,
     "authors": [
-      "Teresa Ober",
+      "Teresa M. Ober",
       "Shan Zhang",
       "Diego Zapata‐Rivera",
       "Noah L. Schroeder",
@@ -1504,6 +1504,22 @@
       "Jessica R. Gladstone",
       "Jeff Ginger",
       "Julianna Martinez Ruiz"
+    ]
+  },
+  {
+    "id": "W7214003185",
+    "title": "Assessing student collaboration with multimodal data and large language models",
+    "year": 2026,
+    "cited_by_count": 0,
+    "venue": "Computer-supported collaborative learning/The Computer-Supported Collaborative Learning Conference",
+    "doi": "https://doi.org/10.22318/cscl2026.817551",
+    "is_oa": true,
+    "authors": [
+      "Shan Zhang",
+      "Hongming Li",
+      "S.H. Lee",
+      "Ji-Eun Lee",
+      "Noah L. Schroeder"
     ]
   }
 ]
