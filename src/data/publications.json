@@ -17,7 +17,7 @@
     "id": "W2603090530",
     "title": "Studying and Constructing Concept Maps: a Meta-Analysis",
     "year": 2017,
-    "cited_by_count": 260,
+    "cited_by_count": 261,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-017-9403-9",
     "is_oa": false,
@@ -32,7 +32,7 @@
     "id": "W2794691683",
     "title": "Spatial Contiguity and Spatial Split-Attention Effects in Multimedia Learning Environments: a Meta-Analysis",
     "year": 2018,
-    "cited_by_count": 176,
+    "cited_by_count": 177,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-018-9435-9",
     "is_oa": false,
@@ -58,7 +58,7 @@
     "id": "W2046145495",
     "title": "A Systematic Review of Pedagogical Agents’ Persona, Motivation, and Cognitive Load Implications for Learners",
     "year": 2014,
-    "cited_by_count": 105,
+    "cited_by_count": 106,
     "venue": "Journal of Research on Technology in Education",
     "doi": "https://doi.org/10.1080/15391523.2014.888265",
     "is_oa": false,
@@ -85,7 +85,7 @@
     "id": "W2589724482",
     "title": "Measuring pedagogical agent persona and the influence of agent persona on learning",
     "year": 2017,
-    "cited_by_count": 79,
+    "cited_by_count": 80,
     "venue": "Computers & Education",
     "doi": "https://doi.org/10.1016/j.compedu.2017.02.015",
     "is_oa": false,
@@ -165,6 +165,20 @@
     ]
   },
   {
+    "id": "W4410379016",
+    "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
+    "year": 2025,
+    "cited_by_count": 57,
+    "venue": "Journal of Educational Computing Research",
+    "doi": "https://doi.org/10.1177/07356331251342081",
+    "is_oa": false,
+    "authors": [
+      "Shan Zhang",
+      "Priyadharshini Ganapathy Prasad",
+      "Noah L. Schroeder"
+    ]
+  },
+  {
     "id": "W4412120312",
     "title": "From Generative AI to Extended Reality: Multidisciplinary Perspectives on the Challenges, Opportunities, and Future of Educational Computing",
     "year": 2025,
@@ -178,20 +192,6 @@
       "Richard E. Mayer",
       "Νικόλαος Πέλλας",
       "Oscar Karnalim"
-    ]
-  },
-  {
-    "id": "W4410379016",
-    "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
-    "year": 2025,
-    "cited_by_count": 55,
-    "venue": "Journal of Educational Computing Research",
-    "doi": "https://doi.org/10.1177/07356331251342081",
-    "is_oa": false,
-    "authors": [
-      "Shan Zhang",
-      "Priyadharshini Ganapathy Prasad",
-      "Noah L. Schroeder"
     ]
   },
   {
@@ -241,7 +241,7 @@
     "title": "The validity and utility of activity logs as a measure of student engagement",
     "year": 2019,
     "cited_by_count": 43,
-    "venue": null,
+    "venue": "International Conference on Learning Analytics & Knowledge (LAK)",
     "doi": "https://doi.org/10.1145/3303772.3303789",
     "is_oa": false,
     "authors": [
@@ -271,13 +271,28 @@
     "id": "W2585343264",
     "title": "Humanizing Instructional Videos in Physics: When Less Is More",
     "year": 2017,
-    "cited_by_count": 38,
+    "cited_by_count": 39,
     "venue": "Journal of Science Education and Technology",
     "doi": "https://doi.org/10.1007/s10956-016-9677-6",
     "is_oa": true,
     "authors": [
       "Noah L. Schroeder",
       "Adrienne L. Traxler"
+    ]
+  },
+  {
+    "id": "W4298005498",
+    "title": "Toward Mental Effort Measurement Using Electrodermal Activity Features",
+    "year": 2022,
+    "cited_by_count": 38,
+    "venue": "Sensors",
+    "doi": "https://doi.org/10.3390/s22197363",
+    "is_oa": true,
+    "authors": [
+      "William Lee Romine",
+      "Noah L. Schroeder",
+      "Tanvi Banerjee",
+      "Josephine Graft"
     ]
   },
   {
@@ -294,21 +309,6 @@
       "Tanvi Banerjee",
       "William Lee Romine",
       "Scotty D. Craig"
-    ]
-  },
-  {
-    "id": "W4298005498",
-    "title": "Toward Mental Effort Measurement Using Electrodermal Activity Features",
-    "year": 2022,
-    "cited_by_count": 37,
-    "venue": "Sensors",
-    "doi": "https://doi.org/10.3390/s22197363",
-    "is_oa": true,
-    "authors": [
-      "William Lee Romine",
-      "Noah L. Schroeder",
-      "Tanvi Banerjee",
-      "Josephine Graft"
     ]
   },
   {
@@ -345,7 +345,7 @@
     "id": "W4403439632",
     "title": "Large language models for whole-learner support: opportunities and challenges",
     "year": 2024,
-    "cited_by_count": 33,
+    "cited_by_count": 34,
     "venue": "Frontiers in Artificial Intelligence",
     "doi": "https://doi.org/10.3389/frai.2024.1460364",
     "is_oa": true,
@@ -501,7 +501,7 @@
     "title": "Design Principles for Virtual Humans in Educational Technology Environments",
     "year": 2018,
     "cited_by_count": 24,
-    "venue": null,
+    "venue": "Routledge eBooks",
     "doi": "https://doi.org/10.4324/9781315109503-11",
     "is_oa": false,
     "authors": [
@@ -599,7 +599,7 @@
     "id": "W4388822154",
     "title": "A scoping review of wrist-worn wearables in education",
     "year": 2023,
-    "cited_by_count": 12,
+    "cited_by_count": 13,
     "venue": "Computers and Education Open",
     "doi": "https://doi.org/10.1016/j.caeo.2023.100154",
     "is_oa": true,
@@ -782,6 +782,21 @@
     ]
   },
   {
+    "id": "W4406745129",
+    "title": "AI-assisted data extraction for systematic reviews in education",
+    "year": 2026,
+    "cited_by_count": 5,
+    "venue": "Educational Technology Research and Development",
+    "doi": "https://doi.org/10.1007/s11423-026-10710-2",
+    "is_oa": true,
+    "authors": [
+      "Noah L. Schroeder",
+      "Chris Davis Jaldi",
+      "Shan Zhang",
+      "Kweku Yamoah"
+    ]
+  },
+  {
     "id": "W4285588738",
     "title": "Lessons Learned from Online Learning at Scale: a Study of Exemplar Learning Organizations",
     "year": 2022,
@@ -826,21 +841,6 @@
     ]
   },
   {
-    "id": "W4406745129",
-    "title": "AI-assisted data extraction for systematic reviews in education",
-    "year": 2026,
-    "cited_by_count": 4,
-    "venue": "Educational Technology Research and Development",
-    "doi": "https://doi.org/10.1007/s11423-026-10710-2",
-    "is_oa": true,
-    "authors": [
-      "Noah L. Schroeder",
-      "Chris Davis Jaldi",
-      "Shan Zhang",
-      "Kweku Yamoah"
-    ]
-  },
-  {
     "id": "W2487622570",
     "title": "Pedagogical Agents for Learning",
     "year": 2016,
@@ -869,12 +869,12 @@
     ]
   },
   {
-    "id": "W3065176244",
-    "title": "Science of Learning and Readiness (SoLaR) Recommendation Report: Science of Learning Practices for Distributed Online Environments",
-    "year": 2020,
+    "id": "W4387774816",
+    "title": "Improving Online learning ecosystems with Science of Learning Best Practices",
+    "year": 2023,
     "cited_by_count": 4,
-    "venue": null,
-    "doi": "https://doi.org/10.13140/rg.2.2.21789.54244",
+    "venue": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
+    "doi": "https://doi.org/10.1177/21695067231192447",
     "is_oa": true,
     "authors": [
       "Scotty D. Craig",
@@ -882,12 +882,12 @@
     ]
   },
   {
-    "id": "W4387774816",
-    "title": "Improving Online learning ecosystems with Science of Learning Best Practices",
-    "year": 2023,
+    "id": "W3065176244",
+    "title": "Science of Learning and Readiness (SoLaR) Recommendation Report: Science of Learning Practices for Distributed Online Environments",
+    "year": 2020,
     "cited_by_count": 4,
-    "venue": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
-    "doi": "https://doi.org/10.1177/21695067231192447",
+    "venue": null,
+    "doi": "https://doi.org/10.13140/rg.2.2.21789.54244",
     "is_oa": true,
     "authors": [
       "Scotty D. Craig",
@@ -1067,27 +1067,13 @@
     "cited_by_count": 1,
     "venue": "Lecture notes in computer science",
     "doi": "https://doi.org/10.1007/978-3-032-29755-6_15",
-    "is_oa": false,
+    "is_oa": true,
     "authors": [
       "Chris Davis Jaldi",
       "Anmol Saini",
       "Shan Zhang",
       "Noah L. Schroeder",
       "Cogan Shimizu"
-    ]
-  },
-  {
-    "id": "W2221572996",
-    "title": "Pedagogical Agents and Learning: Are They Worth the Cost?",
-    "year": 2011,
-    "cited_by_count": 1,
-    "venue": "E-Learn: World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education",
-    "doi": null,
-    "is_oa": false,
-    "authors": [
-      "Noah L. Schroeder",
-      "Rachel Barouch Gilbert",
-      "Olusola Adesope"
     ]
   },
   {
@@ -1128,6 +1114,20 @@
     "is_oa": false,
     "authors": [
       "Noah L. Schroeder"
+    ]
+  },
+  {
+    "id": "W2221572996",
+    "title": "Pedagogical Agents and Learning: Are They Worth the Cost?",
+    "year": 2011,
+    "cited_by_count": 1,
+    "venue": "E-Learn: World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education",
+    "doi": null,
+    "is_oa": false,
+    "authors": [
+      "Noah L. Schroeder",
+      "Rachel Barouch Gilbert",
+      "Olusola Adesope"
     ]
   },
   {
@@ -1206,7 +1206,7 @@
     "title": "Building Assessment and Evaluation Capacity of Engineering Educators Through ASSESS",
     "year": 2020,
     "cited_by_count": 0,
-    "venue": null,
+    "venue": "ASEE Annual Conference & Exposition",
     "doi": "https://doi.org/10.18260/1-2--20132",
     "is_oa": false,
     "authors": [
@@ -1281,7 +1281,7 @@
     "title": "Effective Grain-Size of Mastery-Style Online Homework Levels",
     "year": 2019,
     "cited_by_count": 0,
-    "venue": null,
+    "venue": "Physics Education Research Conference (PERC)",
     "doi": "https://doi.org/10.1119/perc.2018.pr.gutmann",
     "is_oa": true,
     "authors": [
@@ -1368,7 +1368,7 @@
     "title": "Using LLMs to Identify Indicators of Persistence from Students' Dialogues with a Pedagogical Agent",
     "year": 2026,
     "cited_by_count": 0,
-    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "venue": "Journal of Educational Data Mining",
     "doi": "https://doi.org/10.5281/zenodo.18852441",
     "is_oa": true,
     "authors": [
@@ -1384,7 +1384,7 @@
     "title": "Using LLMs to Identify Indicators of Persistence from Students' Dialogues with a Pedagogical Agent",
     "year": 2026,
     "cited_by_count": 0,
-    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "venue": "Journal of Educational Data Mining",
     "doi": "https://doi.org/10.5281/zenodo.18852440",
     "is_oa": true,
     "authors": [
@@ -1495,7 +1495,7 @@
     "title": "A Pedagogical Agent Toolkit for K-12 Education Contexts",
     "year": 2026,
     "cited_by_count": 0,
-    "venue": null,
+    "venue": "ACM International Conference on Intelligent Virtual Agents (IVA)",
     "doi": "https://doi.org/10.1145/3806774.3832328",
     "is_oa": true,
     "authors": [
@@ -1520,6 +1520,21 @@
       "S.H. Lee",
       "Ji-Eun Lee",
       "Noah L. Schroeder"
+    ]
+  },
+  {
+    "id": "W7214783013",
+    "title": "A Benchmark for LLM's Understanding of Middle School and High School Science Topics",
+    "year": 2026,
+    "cited_by_count": 0,
+    "venue": "arXiv (Cornell University)",
+    "doi": "https://doi.org/10.48550/arxiv.2609.32020",
+    "is_oa": true,
+    "authors": [
+      "Noah L. Schroeder",
+      "Yessy Ambarwati",
+      "Yuji Zhang",
+      "ChengXiang Zhai"
     ]
   }
 ]

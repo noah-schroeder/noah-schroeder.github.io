@@ -5,9 +5,9 @@
   "summary_stats": {
     "h_index": 29,
     "i10_index": 47,
-    "cited_by_count": 2645,
-    "works_count": 105,
-    "2yr_mean_citedness": 9.35483870967742
+    "cited_by_count": 2657,
+    "works_count": 106,
+    "2yr_mean_citedness": 9.1875
   },
   "topics": [
     {
@@ -16,7 +16,7 @@
     },
     {
       "name": "Intelligent Tutoring Systems and Adaptive Learning",
-      "count": 23
+      "count": 24
     },
     {
       "name": "Visual and Cognitive Learning Processes",
@@ -31,5 +31,5 @@
       "count": 16
     }
   ],
-  "last_updated": "2026-09-28"
+  "last_updated": "2026-10-05"
 }
