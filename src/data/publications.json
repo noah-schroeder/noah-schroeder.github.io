@@ -3,7 +3,7 @@
     "id": "W2100242321",
     "title": "How Effective are Pedagogical Agents for Learning? A Meta-Analytic Review",
     "year": 2013,
-    "cited_by_count": 299,
+    "cited_by_count": 298,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.2190/ec.49.1.a",
     "is_oa": false,
@@ -17,7 +17,7 @@
     "id": "W2603090530",
     "title": "Studying and Constructing Concept Maps: a Meta-Analysis",
     "year": 2017,
-    "cited_by_count": 261,
+    "cited_by_count": 263,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-017-9403-9",
     "is_oa": false,
@@ -32,7 +32,7 @@
     "id": "W2794691683",
     "title": "Spatial Contiguity and Spatial Split-Attention Effects in Multimedia Learning Environments: a Meta-Analysis",
     "year": 2018,
-    "cited_by_count": 177,
+    "cited_by_count": 179,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-018-9435-9",
     "is_oa": false,
@@ -45,7 +45,7 @@
     "id": "W2734963796",
     "title": "Reconsidering the voice effect when learning from a virtual human",
     "year": 2017,
-    "cited_by_count": 152,
+    "cited_by_count": 151,
     "venue": "Computers & Education",
     "doi": "https://doi.org/10.1016/j.compedu.2017.07.003",
     "is_oa": false,
@@ -58,7 +58,7 @@
     "id": "W2046145495",
     "title": "A Systematic Review of Pedagogical Agents’ Persona, Motivation, and Cognitive Load Implications for Learners",
     "year": 2014,
-    "cited_by_count": 106,
+    "cited_by_count": 105,
     "venue": "Journal of Research on Technology in Education",
     "doi": "https://doi.org/10.1080/15391523.2014.888265",
     "is_oa": false,
@@ -85,7 +85,7 @@
     "id": "W2589724482",
     "title": "Measuring pedagogical agent persona and the influence of agent persona on learning",
     "year": 2017,
-    "cited_by_count": 80,
+    "cited_by_count": 81,
     "venue": "Computers & Education",
     "doi": "https://doi.org/10.1016/j.compedu.2017.02.015",
     "is_oa": false,
@@ -99,7 +99,7 @@
     "id": "W3211485050",
     "title": "A Systematic review of instructor presence in instructional videos: Effects on learning and affect",
     "year": 2021,
-    "cited_by_count": 79,
+    "cited_by_count": 77,
     "venue": "Computers and Education Open",
     "doi": "https://doi.org/10.1016/j.caeo.2021.100059",
     "is_oa": true,
@@ -168,7 +168,7 @@
     "id": "W4410379016",
     "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
     "year": 2025,
-    "cited_by_count": 57,
+    "cited_by_count": 58,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.1177/07356331251342081",
     "is_oa": false,
@@ -182,7 +182,7 @@
     "id": "W4412120312",
     "title": "From Generative AI to Extended Reality: Multidisciplinary Perspectives on the Challenges, Opportunities, and Future of Educational Computing",
     "year": 2025,
-    "cited_by_count": 56,
+    "cited_by_count": 58,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.1177/07356331251359964",
     "is_oa": true,
@@ -198,7 +198,7 @@
     "id": "W4388440497",
     "title": "The instructor presence effect and its moderators in instructional video: A series of meta-analyses",
     "year": 2023,
-    "cited_by_count": 52,
+    "cited_by_count": 53,
     "venue": "Educational Research Review",
     "doi": "https://doi.org/10.1016/j.edurev.2023.100564",
     "is_oa": true,
@@ -237,22 +237,6 @@
     ]
   },
   {
-    "id": "W2915641965",
-    "title": "The validity and utility of activity logs as a measure of student engagement",
-    "year": 2019,
-    "cited_by_count": 43,
-    "venue": "International Conference on Learning Analytics & Knowledge (LAK)",
-    "doi": "https://doi.org/10.1145/3303772.3303789",
-    "is_oa": false,
-    "authors": [
-      "Benjamin A. Motz",
-      "Joshua Quick",
-      "Noah L. Schroeder",
-      "Jordon Zook",
-      "Matthew Gunkel"
-    ]
-  },
-  {
     "id": "W2463492393",
     "title": "Clinical study of student learning using mastery style versus immediate feedback online activities",
     "year": 2015,
@@ -268,23 +252,26 @@
     ]
   },
   {
-    "id": "W2585343264",
-    "title": "Humanizing Instructional Videos in Physics: When Less Is More",
-    "year": 2017,
-    "cited_by_count": 39,
-    "venue": "Journal of Science Education and Technology",
-    "doi": "https://doi.org/10.1007/s10956-016-9677-6",
-    "is_oa": true,
+    "id": "W2915641965",
+    "title": "The validity and utility of activity logs as a measure of student engagement",
+    "year": 2019,
+    "cited_by_count": 41,
+    "venue": "International Conference on Learning Analytics & Knowledge (LAK)",
+    "doi": "https://doi.org/10.1145/3303772.3303789",
+    "is_oa": false,
     "authors": [
+      "Benjamin A. Motz",
+      "Joshua Quick",
       "Noah L. Schroeder",
-      "Adrienne L. Traxler"
+      "Jordon Zook",
+      "Matthew Gunkel"
     ]
   },
   {
     "id": "W4298005498",
     "title": "Toward Mental Effort Measurement Using Electrodermal Activity Features",
     "year": 2022,
-    "cited_by_count": 38,
+    "cited_by_count": 39,
     "venue": "Sensors",
     "doi": "https://doi.org/10.3390/s22197363",
     "is_oa": true,
@@ -299,7 +286,7 @@
     "id": "W2827355147",
     "title": "The influence of learners' perceptions of virtual humans on learning transfer",
     "year": 2018,
-    "cited_by_count": 38,
+    "cited_by_count": 39,
     "venue": "Computers & Education",
     "doi": "https://doi.org/10.1016/j.compedu.2018.07.005",
     "is_oa": true,
@@ -328,6 +315,19 @@
     ]
   },
   {
+    "id": "W2585343264",
+    "title": "Humanizing Instructional Videos in Physics: When Less Is More",
+    "year": 2017,
+    "cited_by_count": 37,
+    "venue": "Journal of Science Education and Technology",
+    "doi": "https://doi.org/10.1007/s10956-016-9677-6",
+    "is_oa": true,
+    "authors": [
+      "Noah L. Schroeder",
+      "Adrienne L. Traxler"
+    ]
+  },
+  {
     "id": "W3092141661",
     "title": "Trust influences perceptions of virtual humans, but not necessarily learning",
     "year": 2020,
@@ -345,7 +345,7 @@
     "id": "W4403439632",
     "title": "Large language models for whole-learner support: opportunities and challenges",
     "year": 2024,
-    "cited_by_count": 34,
+    "cited_by_count": 35,
     "venue": "Frontiers in Artificial Intelligence",
     "doi": "https://doi.org/10.3389/frai.2024.1460364",
     "is_oa": true,
@@ -361,7 +361,7 @@
     "id": "W4403377683",
     "title": "Designing and Learning With Pedagogical Agents: An Umbrella Review",
     "year": 2024,
-    "cited_by_count": 31,
+    "cited_by_count": 32,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.1177/07356331241288476",
     "is_oa": true,
@@ -441,35 +441,6 @@
     ]
   },
   {
-    "id": "W2992898335",
-    "title": "A Case for the use of Pedagogical Agents in Online Learning Environments",
-    "year": 2013,
-    "cited_by_count": 26,
-    "venue": "Indiana Magazine of History (Indiana University)",
-    "doi": null,
-    "is_oa": true,
-    "authors": [
-      "Noah L. Schroeder",
-      "Olusola Adesope"
-    ]
-  },
-  {
-    "id": "W2586535907",
-    "title": "Efficacy of a Meiosis Learning Module Developed for the Virtual Cell Animation Collection",
-    "year": 2017,
-    "cited_by_count": 25,
-    "venue": "CBE—Life Sciences Education",
-    "doi": "https://doi.org/10.1187/cbe.16-03-0141",
-    "is_oa": true,
-    "authors": [
-      "Eric E. Goff",
-      "Katie M. Reindl",
-      "Christina Johnson",
-      "Phillip E. McClean",
-      "Erika G. Offerdahl"
-    ]
-  },
-  {
     "id": "W4386160905",
     "title": "A meta-analysis on learning from 360° video",
     "year": 2023,
@@ -488,12 +459,28 @@
     "title": "How does a contextually-relevant peer pedagogical agent in a learner-attenuated system-paced learning environment affect cognitive and affective outcomes?",
     "year": 2013,
     "cited_by_count": 24,
-    "venue": "Indiana Magazine of History (Indiana University)",
+    "venue": "Journal of Teaching and Learning with Technology",
     "doi": null,
     "is_oa": true,
     "authors": [
       "Noah L. Schroeder",
       "Olusola Adesope"
+    ]
+  },
+  {
+    "id": "W2586535907",
+    "title": "Efficacy of a Meiosis Learning Module Developed for the Virtual Cell Animation Collection",
+    "year": 2017,
+    "cited_by_count": 24,
+    "venue": "CBE—Life Sciences Education",
+    "doi": "https://doi.org/10.1187/cbe.16-03-0141",
+    "is_oa": true,
+    "authors": [
+      "Eric E. Goff",
+      "Katie M. Reindl",
+      "Christina Johnson",
+      "Phillip E. McClean",
+      "Erika G. Offerdahl"
     ]
   },
   {
@@ -507,6 +494,19 @@
     "authors": [
       "Scotty D. Craig",
       "Noah L. Schroeder"
+    ]
+  },
+  {
+    "id": "W2992898335",
+    "title": "A Case for the use of Pedagogical Agents in Online Learning Environments",
+    "year": 2013,
+    "cited_by_count": 24,
+    "venue": "Journal of Teaching and Learning with Technology",
+    "doi": null,
+    "is_oa": true,
+    "authors": [
+      "Noah L. Schroeder",
+      "Olusola Adesope"
     ]
   },
   {
@@ -599,7 +599,7 @@
     "id": "W4388822154",
     "title": "A scoping review of wrist-worn wearables in education",
     "year": 2023,
-    "cited_by_count": 13,
+    "cited_by_count": 12,
     "venue": "Computers and Education Open",
     "doi": "https://doi.org/10.1016/j.caeo.2023.100154",
     "is_oa": true,
@@ -641,6 +641,21 @@
     ]
   },
   {
+    "id": "W4316368916",
+    "title": "Trusting and Learning From Virtual Humans that Correct Common Misconceptions",
+    "year": 2023,
+    "cited_by_count": 11,
+    "venue": "Journal of Educational Computing Research",
+    "doi": "https://doi.org/10.1177/07356331221139859",
+    "is_oa": true,
+    "authors": [
+      "Noah L. Schroeder",
+      "Erin K. Chiou",
+      "Robert F. Siegle",
+      "Scotty D. Craig"
+    ]
+  },
+  {
     "id": "W2320539257",
     "title": "A Preliminary Investigation of the Influences of Refutation Text and Instructional Design",
     "year": 2016,
@@ -650,21 +665,6 @@
     "is_oa": false,
     "authors": [
       "Noah L. Schroeder"
-    ]
-  },
-  {
-    "id": "W4316368916",
-    "title": "Trusting and Learning From Virtual Humans that Correct Common Misconceptions",
-    "year": 2023,
-    "cited_by_count": 10,
-    "venue": "Journal of Educational Computing Research",
-    "doi": "https://doi.org/10.1177/07356331221139859",
-    "is_oa": true,
-    "authors": [
-      "Noah L. Schroeder",
-      "Erin K. Chiou",
-      "Robert F. Siegle",
-      "Scotty D. Craig"
     ]
   },
   {
@@ -782,21 +782,6 @@
     ]
   },
   {
-    "id": "W4406745129",
-    "title": "AI-assisted data extraction for systematic reviews in education",
-    "year": 2026,
-    "cited_by_count": 5,
-    "venue": "Educational Technology Research and Development",
-    "doi": "https://doi.org/10.1007/s11423-026-10710-2",
-    "is_oa": true,
-    "authors": [
-      "Noah L. Schroeder",
-      "Chris Davis Jaldi",
-      "Shan Zhang",
-      "Kweku Yamoah"
-    ]
-  },
-  {
     "id": "W4285588738",
     "title": "Lessons Learned from Online Learning at Scale: a Study of Exemplar Learning Organizations",
     "year": 2022,
@@ -838,6 +823,21 @@
       "Robert F. Siegle",
       "Vipin Verma",
       "Scotty D. Craig"
+    ]
+  },
+  {
+    "id": "W4406745129",
+    "title": "AI-assisted data extraction for systematic reviews in education",
+    "year": 2026,
+    "cited_by_count": 4,
+    "venue": "Educational Technology Research and Development",
+    "doi": "https://doi.org/10.1007/s11423-026-10710-2",
+    "is_oa": true,
+    "authors": [
+      "Noah L. Schroeder",
+      "Chris Davis Jaldi",
+      "Shan Zhang",
+      "Kweku Yamoah"
     ]
   },
   {
@@ -1369,22 +1369,6 @@
     "year": 2026,
     "cited_by_count": 0,
     "venue": "Journal of Educational Data Mining",
-    "doi": "https://doi.org/10.5281/zenodo.18852441",
-    "is_oa": true,
-    "authors": [
-      "Teresa M. Ober",
-      "Shan Zhang",
-      "Diego Zapata‐Rivera",
-      "Noah L. Schroeder",
-      "Anthony F. Botelho"
-    ]
-  },
-  {
-    "id": "W7133353385",
-    "title": "Using LLMs to Identify Indicators of Persistence from Students' Dialogues with a Pedagogical Agent",
-    "year": 2026,
-    "cited_by_count": 0,
-    "venue": "Journal of Educational Data Mining",
     "doi": "https://doi.org/10.5281/zenodo.18852440",
     "is_oa": true,
     "authors": [
@@ -1404,7 +1388,7 @@
     "doi": "https://doi.org/10.48550/arxiv.2603.24767",
     "is_oa": true,
     "authors": [
-      "Kweku Yamoah",
+      "Kweku Andoh Yamoah",
       "Noah L. Schroeder",
       "Emmanuel Dorley",
       "Neha Rani",
@@ -1420,7 +1404,7 @@
     "doi": null,
     "is_oa": true,
     "authors": [
-      "Kweku Yamoah",
+      "Kweku Andoh Yamoah",
       "Noah L. Schroeder",
       "Emmanuel Dorley",
       "Neha Rani",
@@ -1535,6 +1519,22 @@
       "Yessy Ambarwati",
       "Yuji Zhang",
       "ChengXiang Zhai"
+    ]
+  },
+  {
+    "id": "W7220429959",
+    "title": "Prevalence of sexually transmitted infections among pregnant migrant and refugee women: Protocol for a systematic review and meta-analysis",
+    "year": 2026,
+    "cited_by_count": 0,
+    "venue": "PLoS ONE",
+    "doi": "https://doi.org/10.1371/journal.pone.0359424",
+    "is_oa": true,
+    "authors": [
+      "Darío Sebastián López-Delgado",
+      "CARLOS A. NARVAEZ",
+      "Gloria Liliana Chapues Andrade",
+      "Rosa Angela Ruiz Ibarra",
+      "Danilo Alejandro Solarte Ordoñez"
     ]
   }
 ]

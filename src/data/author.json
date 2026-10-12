@@ -5,31 +5,31 @@
   "summary_stats": {
     "h_index": 29,
     "i10_index": 47,
-    "cited_by_count": 2657,
+    "cited_by_count": 2661,
     "works_count": 106,
-    "2yr_mean_citedness": 9.1875
+    "2yr_mean_citedness": 9.3125
   },
   "topics": [
     {
-      "name": "Innovative Teaching and Learning Methods",
-      "count": 27
-    },
-    {
       "name": "Intelligent Tutoring Systems and Adaptive Learning",
-      "count": 24
+      "count": 50
     },
     {
       "name": "Visual and Cognitive Learning Processes",
+      "count": 47
+    },
+    {
+      "name": "Social Robot Interaction and HRI",
       "count": 21
     },
     {
       "name": "Online and Blended Learning",
-      "count": 16
+      "count": 18
     },
     {
-      "name": "Online Learning and Analytics",
-      "count": 16
+      "name": "Innovative Teaching and Learning Methods",
+      "count": 17
     }
   ],
-  "last_updated": "2026-10-05"
+  "last_updated": "2026-10-12"
 }
