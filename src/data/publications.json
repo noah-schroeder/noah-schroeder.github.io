@@ -3,7 +3,7 @@
     "id": "W2100242321",
     "title": "How Effective are Pedagogical Agents for Learning? A Meta-Analytic Review",
     "year": 2013,
-    "cited_by_count": 298,
+    "cited_by_count": 299,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.2190/ec.49.1.a",
     "is_oa": false,
@@ -17,7 +17,7 @@
     "id": "W2603090530",
     "title": "Studying and Constructing Concept Maps: a Meta-Analysis",
     "year": 2017,
-    "cited_by_count": 263,
+    "cited_by_count": 264,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-017-9403-9",
     "is_oa": false,
@@ -32,7 +32,7 @@
     "id": "W2794691683",
     "title": "Spatial Contiguity and Spatial Split-Attention Effects in Multimedia Learning Environments: a Meta-Analysis",
     "year": 2018,
-    "cited_by_count": 179,
+    "cited_by_count": 180,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-018-9435-9",
     "is_oa": false,
@@ -96,6 +96,19 @@
     ]
   },
   {
+    "id": "W4207047326",
+    "title": "Refutation Text Facilitates Learning: a Meta-Analysis of Between-Subjects Experiments",
+    "year": 2022,
+    "cited_by_count": 79,
+    "venue": "Educational Psychology Review",
+    "doi": "https://doi.org/10.1007/s10648-021-09656-z",
+    "is_oa": true,
+    "authors": [
+      "Noah L. Schroeder",
+      "Aurelia C. Kucera"
+    ]
+  },
+  {
     "id": "W3211485050",
     "title": "A Systematic review of instructor presence in instructional videos: Effects on learning and affect",
     "year": 2021,
@@ -106,19 +119,6 @@
     "authors": [
       "Marsha L. Henderson",
       "Noah L. Schroeder"
-    ]
-  },
-  {
-    "id": "W4207047326",
-    "title": "Refutation Text Facilitates Learning: a Meta-Analysis of Between-Subjects Experiments",
-    "year": 2022,
-    "cited_by_count": 77,
-    "venue": "Educational Psychology Review",
-    "doi": "https://doi.org/10.1007/s10648-021-09656-z",
-    "is_oa": true,
-    "authors": [
-      "Noah L. Schroeder",
-      "Aurelia C. Kucera"
     ]
   },
   {
@@ -139,7 +139,7 @@
     "id": "W3080112302",
     "title": "Using Machine Learning to Train a Wearable Device for Measuring Students’ Cognitive Load during Problem-Solving Activities Based on Electrodermal Activity, Body Temperature, and Heart Rate: Development of a Cognitive Load Tracker for Both Personal and Classroom Use",
     "year": 2020,
-    "cited_by_count": 62,
+    "cited_by_count": 61,
     "venue": "Sensors",
     "doi": "https://doi.org/10.3390/s20174833",
     "is_oa": true,
@@ -168,7 +168,7 @@
     "id": "W4410379016",
     "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
     "year": 2025,
-    "cited_by_count": 58,
+    "cited_by_count": 60,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.1177/07356331251342081",
     "is_oa": false,
@@ -182,7 +182,7 @@
     "id": "W4412120312",
     "title": "From Generative AI to Extended Reality: Multidisciplinary Perspectives on the Challenges, Opportunities, and Future of Educational Computing",
     "year": 2025,
-    "cited_by_count": 58,
+    "cited_by_count": 59,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.1177/07356331251359964",
     "is_oa": true,
@@ -198,7 +198,7 @@
     "id": "W4388440497",
     "title": "The instructor presence effect and its moderators in instructional video: A series of meta-analyses",
     "year": 2023,
-    "cited_by_count": 53,
+    "cited_by_count": 54,
     "venue": "Educational Research Review",
     "doi": "https://doi.org/10.1016/j.edurev.2023.100564",
     "is_oa": true,
@@ -224,10 +224,26 @@
     ]
   },
   {
+    "id": "W2915641965",
+    "title": "The validity and utility of activity logs as a measure of student engagement",
+    "year": 2019,
+    "cited_by_count": 47,
+    "venue": "International Conference on Learning Analytics & Knowledge (LAK)",
+    "doi": "https://doi.org/10.1145/3303772.3303789",
+    "is_oa": false,
+    "authors": [
+      "Benjamin A. Motz",
+      "Joshua Quick",
+      "Noah L. Schroeder",
+      "Jordon Zook",
+      "Matthew Gunkel"
+    ]
+  },
+  {
     "id": "W2945435832",
     "title": "Do measures of cognitive load explain the spatial split-attention principle in multimedia learning environments? A systematic review.",
     "year": 2019,
-    "cited_by_count": 45,
+    "cited_by_count": 46,
     "venue": "Journal of Educational Psychology",
     "doi": "https://doi.org/10.1037/edu0000372",
     "is_oa": false,
@@ -252,26 +268,10 @@
     ]
   },
   {
-    "id": "W2915641965",
-    "title": "The validity and utility of activity logs as a measure of student engagement",
-    "year": 2019,
-    "cited_by_count": 41,
-    "venue": "International Conference on Learning Analytics & Knowledge (LAK)",
-    "doi": "https://doi.org/10.1145/3303772.3303789",
-    "is_oa": false,
-    "authors": [
-      "Benjamin A. Motz",
-      "Joshua Quick",
-      "Noah L. Schroeder",
-      "Jordon Zook",
-      "Matthew Gunkel"
-    ]
-  },
-  {
     "id": "W4298005498",
     "title": "Toward Mental Effort Measurement Using Electrodermal Activity Features",
     "year": 2022,
-    "cited_by_count": 39,
+    "cited_by_count": 40,
     "venue": "Sensors",
     "doi": "https://doi.org/10.3390/s22197363",
     "is_oa": true,
@@ -280,6 +280,22 @@
       "Noah L. Schroeder",
       "Tanvi Banerjee",
       "Josephine Graft"
+    ]
+  },
+  {
+    "id": "W4402544340",
+    "title": "Pedagogical agent design for K-12 education: A systematic review",
+    "year": 2024,
+    "cited_by_count": 39,
+    "venue": "Computers & Education",
+    "doi": "https://doi.org/10.1016/j.compedu.2024.105165",
+    "is_oa": true,
+    "authors": [
+      "Shan Zhang",
+      "Chris Davis Jaldi",
+      "Noah L. Schroeder",
+      "Alexis A. López",
+      "Jessica R. Gladstone"
     ]
   },
   {
@@ -299,22 +315,6 @@
     ]
   },
   {
-    "id": "W4402544340",
-    "title": "Pedagogical agent design for K-12 education: A systematic review",
-    "year": 2024,
-    "cited_by_count": 37,
-    "venue": "Computers & Education",
-    "doi": "https://doi.org/10.1016/j.compedu.2024.105165",
-    "is_oa": true,
-    "authors": [
-      "Shan Zhang",
-      "Chris Davis Jaldi",
-      "Noah L. Schroeder",
-      "Alexis A. López",
-      "Jessica R. Gladstone"
-    ]
-  },
-  {
     "id": "W2585343264",
     "title": "Humanizing Instructional Videos in Physics: When Less Is More",
     "year": 2017,
@@ -325,6 +325,22 @@
     "authors": [
       "Noah L. Schroeder",
       "Adrienne L. Traxler"
+    ]
+  },
+  {
+    "id": "W4403439632",
+    "title": "Large language models for whole-learner support: opportunities and challenges",
+    "year": 2024,
+    "cited_by_count": 36,
+    "venue": "Frontiers in Artificial Intelligence",
+    "doi": "https://doi.org/10.3389/frai.2024.1460364",
+    "is_oa": true,
+    "authors": [
+      "Amogh Mannekote",
+      "Adam Davies",
+      "Juan D. Guevara Pinto",
+      "Shan Zhang",
+      "Daniel Olds"
     ]
   },
   {
@@ -342,26 +358,10 @@
     ]
   },
   {
-    "id": "W4403439632",
-    "title": "Large language models for whole-learner support: opportunities and challenges",
-    "year": 2024,
-    "cited_by_count": 35,
-    "venue": "Frontiers in Artificial Intelligence",
-    "doi": "https://doi.org/10.3389/frai.2024.1460364",
-    "is_oa": true,
-    "authors": [
-      "Amogh Mannekote",
-      "Adam Davies",
-      "Juan D. Guevara Pinto",
-      "Shan Zhang",
-      "Daniel Olds"
-    ]
-  },
-  {
     "id": "W4403377683",
     "title": "Designing and Learning With Pedagogical Agents: An Umbrella Review",
     "year": 2024,
-    "cited_by_count": 32,
+    "cited_by_count": 34,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.1177/07356331241288476",
     "is_oa": true,
@@ -416,7 +416,7 @@
     "id": "W4308099535",
     "title": "Pedagogical Agents",
     "year": 2022,
-    "cited_by_count": 28,
+    "cited_by_count": 29,
     "venue": "ACM eBooks",
     "doi": "https://doi.org/10.1145/3563659.3563669",
     "is_oa": false,
@@ -444,7 +444,7 @@
     "id": "W4386160905",
     "title": "A meta-analysis on learning from 360° video",
     "year": 2023,
-    "cited_by_count": 24,
+    "cited_by_count": 25,
     "venue": "Computers & Education",
     "doi": "https://doi.org/10.1016/j.compedu.2023.104901",
     "is_oa": false,
@@ -452,6 +452,22 @@
       "Noah L. Schroeder",
       "Robert F. Siegle",
       "Scotty D. Craig"
+    ]
+  },
+  {
+    "id": "W2586535907",
+    "title": "Efficacy of a Meiosis Learning Module Developed for the Virtual Cell Animation Collection",
+    "year": 2017,
+    "cited_by_count": 25,
+    "venue": "CBE—Life Sciences Education",
+    "doi": "https://doi.org/10.1187/cbe.16-03-0141",
+    "is_oa": true,
+    "authors": [
+      "Eric E. Goff",
+      "Katie M. Reindl",
+      "Christina Johnson",
+      "Phillip E. McClean",
+      "Erika G. Offerdahl"
     ]
   },
   {
@@ -465,22 +481,6 @@
     "authors": [
       "Noah L. Schroeder",
       "Olusola Adesope"
-    ]
-  },
-  {
-    "id": "W2586535907",
-    "title": "Efficacy of a Meiosis Learning Module Developed for the Virtual Cell Animation Collection",
-    "year": 2017,
-    "cited_by_count": 24,
-    "venue": "CBE—Life Sciences Education",
-    "doi": "https://doi.org/10.1187/cbe.16-03-0141",
-    "is_oa": true,
-    "authors": [
-      "Eric E. Goff",
-      "Katie M. Reindl",
-      "Christina Johnson",
-      "Phillip E. McClean",
-      "Erika G. Offerdahl"
     ]
   },
   {
@@ -566,6 +566,22 @@
     ]
   },
   {
+    "id": "W4412594062",
+    "title": "Do Pedagogical Agents Enhance Student Motivation? Unraveling the Evidence Through Meta-Analysis",
+    "year": 2025,
+    "cited_by_count": 14,
+    "venue": "Educational Psychology Review",
+    "doi": "https://doi.org/10.1007/s10648-025-10050-2",
+    "is_oa": true,
+    "authors": [
+      "Jessica R. Gladstone",
+      "Noah L. Schroeder",
+      "Steffi Heidig",
+      "Shan Zhang",
+      "Chris Palaguachi"
+    ]
+  },
+  {
     "id": "W2952923627",
     "title": "Learner Control Aids Learning from Instructional Videos with a Virtual Human",
     "year": 2019,
@@ -577,22 +593,6 @@
       "Noah L. Schroeder",
       "Joshua Chin",
       "Scotty D. Craig"
-    ]
-  },
-  {
-    "id": "W4412594062",
-    "title": "Do Pedagogical Agents Enhance Student Motivation? Unraveling the Evidence Through Meta-Analysis",
-    "year": 2025,
-    "cited_by_count": 13,
-    "venue": "Educational Psychology Review",
-    "doi": "https://doi.org/10.1007/s10648-025-10050-2",
-    "is_oa": true,
-    "authors": [
-      "Jessica R. Gladstone",
-      "Noah L. Schroeder",
-      "Steffi Heidig",
-      "Shan Zhang",
-      "Chris Palaguachi"
     ]
   },
   {
@@ -725,6 +725,20 @@
     ]
   },
   {
+    "id": "W4285588738",
+    "title": "Lessons Learned from Online Learning at Scale: a Study of Exemplar Learning Organizations",
+    "year": 2022,
+    "cited_by_count": 6,
+    "venue": "TechTrends",
+    "doi": "https://doi.org/10.1007/s11528-022-00761-6",
+    "is_oa": false,
+    "authors": [
+      "Siyuan Li",
+      "Scotty D. Craig",
+      "Noah L. Schroeder"
+    ]
+  },
+  {
     "id": "W4365515256",
     "title": "A Preliminary Study of the Efficacy of Using a Wrist-Worn Multiparameter Sensor for the Prediction of Cognitive Flow States in University-Level Students",
     "year": 2023,
@@ -755,6 +769,21 @@
     ]
   },
   {
+    "id": "W4406745129",
+    "title": "AI-assisted data extraction for systematic reviews in education",
+    "year": 2026,
+    "cited_by_count": 5,
+    "venue": "Educational Technology Research and Development",
+    "doi": "https://doi.org/10.1007/s11423-026-10710-2",
+    "is_oa": true,
+    "authors": [
+      "Noah L. Schroeder",
+      "Chris Davis Jaldi",
+      "Shan Zhang",
+      "Kweku Yamoah"
+    ]
+  },
+  {
     "id": "W4408384310",
     "title": "The role of learner trust in generative artificially intelligent learning environments",
     "year": 2025,
@@ -782,16 +811,14 @@
     ]
   },
   {
-    "id": "W4285588738",
-    "title": "Lessons Learned from Online Learning at Scale: a Study of Exemplar Learning Organizations",
-    "year": 2022,
+    "id": "W2487622570",
+    "title": "Pedagogical Agents for Learning",
+    "year": 2016,
     "cited_by_count": 5,
-    "venue": "TechTrends",
-    "doi": "https://doi.org/10.1007/s11528-022-00761-6",
+    "venue": "Advances in educational technologies and instructional design book series",
+    "doi": "https://doi.org/10.4018/978-1-4666-9837-6.ch010",
     "is_oa": false,
     "authors": [
-      "Siyuan Li",
-      "Scotty D. Craig",
       "Noah L. Schroeder"
     ]
   },
@@ -826,29 +853,15 @@
     ]
   },
   {
-    "id": "W4406745129",
-    "title": "AI-assisted data extraction for systematic reviews in education",
-    "year": 2026,
-    "cited_by_count": 4,
-    "venue": "Educational Technology Research and Development",
-    "doi": "https://doi.org/10.1007/s11423-026-10710-2",
+    "id": "W3065176244",
+    "title": "Science of Learning and Readiness (SoLaR) Recommendation Report: Science of Learning Practices for Distributed Online Environments",
+    "year": 2020,
+    "cited_by_count": 5,
+    "venue": null,
+    "doi": "https://doi.org/10.13140/rg.2.2.21789.54244",
     "is_oa": true,
     "authors": [
-      "Noah L. Schroeder",
-      "Chris Davis Jaldi",
-      "Shan Zhang",
-      "Kweku Yamoah"
-    ]
-  },
-  {
-    "id": "W2487622570",
-    "title": "Pedagogical Agents for Learning",
-    "year": 2016,
-    "cited_by_count": 4,
-    "venue": "Advances in educational technologies and instructional design book series",
-    "doi": "https://doi.org/10.4018/978-1-4666-9837-6.ch010",
-    "is_oa": false,
-    "authors": [
+      "Scotty D. Craig",
       "Noah L. Schroeder"
     ]
   },
@@ -882,16 +895,34 @@
     ]
   },
   {
-    "id": "W3065176244",
-    "title": "Science of Learning and Readiness (SoLaR) Recommendation Report: Science of Learning Practices for Distributed Online Environments",
+    "id": "W3121195872",
+    "title": "Longitudinal Classification of Mental Effort Using Electrodermal Activity, Heart Rate, and Skin Temperature Data from a Wearable Sensor",
+    "year": 2021,
+    "cited_by_count": 4,
+    "venue": "Lecture notes in computer science",
+    "doi": "https://doi.org/10.1007/978-3-030-68790-8_8",
+    "is_oa": true,
+    "authors": [
+      "William Lee Romine",
+      "Noah L. Schroeder",
+      "Anjali Edwards",
+      "Tanvi Banerjee"
+    ]
+  },
+  {
+    "id": "W3130582677",
+    "title": "Science of Learning and Readiness: State-of-the-Art Report",
     "year": 2020,
     "cited_by_count": 4,
     "venue": null,
-    "doi": "https://doi.org/10.13140/rg.2.2.21789.54244",
-    "is_oa": true,
+    "doi": null,
+    "is_oa": false,
     "authors": [
       "Scotty D. Craig",
-      "Noah L. Schroeder"
+      "Noah L. Schroeder",
+      "Rod D. Roscoe",
+      "Nancy J. Cooke",
+      "Deborah Prewitt"
     ]
   },
   {
@@ -955,22 +986,6 @@
     ]
   },
   {
-    "id": "W3130582677",
-    "title": "Science of Learning and Readiness: State-of-the-Art Report",
-    "year": 2020,
-    "cited_by_count": 3,
-    "venue": null,
-    "doi": null,
-    "is_oa": false,
-    "authors": [
-      "Scotty D. Craig",
-      "Noah L. Schroeder",
-      "Rod D. Roscoe",
-      "Nancy J. Cooke",
-      "Deborah Prewitt"
-    ]
-  },
-  {
     "id": "W4404415725",
     "title": "Learning about AI: A Systematic Review of Reviews on AI Literacy",
     "year": 2024,
@@ -998,21 +1013,6 @@
       "Marcin Pitera",
       "Chris Davis Jaldi",
       "Noah L. Schroeder"
-    ]
-  },
-  {
-    "id": "W3121195872",
-    "title": "Longitudinal Classification of Mental Effort Using Electrodermal Activity, Heart Rate, and Skin Temperature Data from a Wearable Sensor",
-    "year": 2021,
-    "cited_by_count": 2,
-    "venue": "Lecture notes in computer science",
-    "doi": "https://doi.org/10.1007/978-3-030-68790-8_8",
-    "is_oa": true,
-    "authors": [
-      "William Lee Romine",
-      "Noah L. Schroeder",
-      "Anjali Edwards",
-      "Tanvi Banerjee"
     ]
   },
   {
@@ -1228,7 +1228,7 @@
     "authors": [
       "Timothy J. Stelzer",
       "Brianne Gutmann",
-      "Gary E. Gladding",
+      "G. E. Gladding",
       "Morten Lundsgaard",
       "Noah L. Schroeder"
     ]
@@ -1255,7 +1255,7 @@
     "is_oa": false,
     "authors": [
       "Timothy J. Stelzer",
-      "Gary E. Gladding",
+      "G. E. Gladding",
       "Brianne Gutmann",
       "Morten Lundsgaard",
       "Noah L. Schroeder"
