@@ -4,6 +4,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  # The weekly data job pushes with GITHUB_TOKEN, which never fires `push`,
+  # so redeploy when that job finishes instead.
+  workflow_run:
+    workflows: ["Update OpenAlex Data"]
+    types: [completed]
 
 permissions:
   contents: read
@@ -16,6 +21,7 @@ concurrency:
 
 jobs:
   build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

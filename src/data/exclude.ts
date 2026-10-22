@@ -7,6 +7,7 @@
  */
 const excludedIds: string[] = [
   "W263258957",
+  "W2911809983", // Effective Grain-Size of Mastery-Style Online Homework Levels (Gutmann et al., 2019)
 ];
 
 export default excludedIds;
