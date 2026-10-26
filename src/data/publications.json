@@ -17,7 +17,7 @@
     "id": "W2603090530",
     "title": "Studying and Constructing Concept Maps: a Meta-Analysis",
     "year": 2017,
-    "cited_by_count": 264,
+    "cited_by_count": 265,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-017-9403-9",
     "is_oa": false,
@@ -152,6 +152,20 @@
     ]
   },
   {
+    "id": "W4410379016",
+    "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
+    "year": 2025,
+    "cited_by_count": 61,
+    "venue": "Journal of Educational Computing Research",
+    "doi": "https://doi.org/10.1177/07356331251342081",
+    "is_oa": false,
+    "authors": [
+      "Shan Zhang",
+      "Priyadharshini Ganapathy Prasad",
+      "Noah L. Schroeder"
+    ]
+  },
+  {
     "id": "W2436856269",
     "title": "Persisting Issues in Pedagogical Agent Research",
     "year": 2015,
@@ -162,20 +176,6 @@
     "authors": [
       "Noah L. Schroeder",
       "Chad M. Gotch"
-    ]
-  },
-  {
-    "id": "W4410379016",
-    "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
-    "year": 2025,
-    "cited_by_count": 60,
-    "venue": "Journal of Educational Computing Research",
-    "doi": "https://doi.org/10.1177/07356331251342081",
-    "is_oa": false,
-    "authors": [
-      "Shan Zhang",
-      "Priyadharshini Ganapathy Prasad",
-      "Noah L. Schroeder"
     ]
   },
   {
@@ -256,7 +256,7 @@
     "id": "W2463492393",
     "title": "Clinical study of student learning using mastery style versus immediate feedback online activities",
     "year": 2015,
-    "cited_by_count": 41,
+    "cited_by_count": 42,
     "venue": "Physical Review Special Topics - Physics Education Research",
     "doi": "https://doi.org/10.1103/physrevstper.11.010114",
     "is_oa": true,
@@ -866,6 +866,22 @@
     ]
   },
   {
+    "id": "W4416187045",
+    "title": "Measuring persistence and academic resilience of K−12 students: systematic review and operational definitions",
+    "year": 2025,
+    "cited_by_count": 4,
+    "venue": "Frontiers in Education",
+    "doi": "https://doi.org/10.3389/feduc.2025.1673500",
+    "is_oa": true,
+    "authors": [
+      "Jesse R. Sparks",
+      "Blair A. Lehman",
+      "Jessica R. Gladstone",
+      "Shan Zhang",
+      "Noah L. Schroeder"
+    ]
+  },
+  {
     "id": "W2617482218",
     "title": "Learning about Chemiosmosis and ATP Synthesis with Animations Outside of the Classroom",
     "year": 2017,
@@ -938,18 +954,18 @@
     ]
   },
   {
-    "id": "W4416187045",
-    "title": "Measuring persistence and academic resilience of K−12 students: systematic review and operational definitions",
-    "year": 2025,
+    "id": "W4404206627",
+    "title": "Semi-automating the Scoping Review Process: Is it Worthwhile? A Methodological Evaluation",
+    "year": 2024,
     "cited_by_count": 3,
-    "venue": "Frontiers in Education",
-    "doi": "https://doi.org/10.3389/feduc.2025.1673500",
-    "is_oa": true,
+    "venue": "Educational Psychology Review",
+    "doi": "https://doi.org/10.1007/s10648-024-09972-0",
+    "is_oa": false,
     "authors": [
-      "Jesse R. Sparks",
-      "Blair A. Lehman",
-      "Jessica R. Gladstone",
       "Shan Zhang",
+      "Chris Palaguachi",
+      "Marcin Pitera",
+      "Chris Davis Jaldi",
       "Noah L. Schroeder"
     ]
   },
@@ -996,22 +1012,6 @@
     "authors": [
       "Shan Zhang",
       "Priyadharshini Ganapathy Prasad",
-      "Noah L. Schroeder"
-    ]
-  },
-  {
-    "id": "W4404206627",
-    "title": "Semi-automating the Scoping Review Process: Is it Worthwhile? A Methodological Evaluation",
-    "year": 2024,
-    "cited_by_count": 2,
-    "venue": "Educational Psychology Review",
-    "doi": "https://doi.org/10.1007/s10648-024-09972-0",
-    "is_oa": false,
-    "authors": [
-      "Shan Zhang",
-      "Chris Palaguachi",
-      "Marcin Pitera",
-      "Chris Davis Jaldi",
       "Noah L. Schroeder"
     ]
   },
@@ -1535,6 +1535,38 @@
       "Gloria Liliana Chapues Andrade",
       "Rosa Angela Ruiz Ibarra",
       "Danilo Alejandro Solarte Ordoñez"
+    ]
+  },
+  {
+    "id": "W7222962256",
+    "title": "Fine-Tuning A 1.2B Large Language Model for Systematic Review Screening in Educational Technology",
+    "year": 2026,
+    "cited_by_count": 0,
+    "venue": "ceur-ws.org",
+    "doi": "https://doi.org/10.83095/ceurws_04296_paper1",
+    "is_oa": true,
+    "authors": [
+      "Kweku Andoh Yamoah",
+      "Noah L. Schroeder",
+      "Emmanuel Dorley",
+      "Neha Rani",
+      "Caleb Schutz"
+    ]
+  },
+  {
+    "id": "W7223446955",
+    "title": "Fine-Tuning A 1.2B Large Language Model for Systematic Review Screening in Educational Technology",
+    "year": 2026,
+    "cited_by_count": 0,
+    "venue": "ceur-ws.org",
+    "doi": "https://doi.org/10.83095/ceurws_04296_001",
+    "is_oa": true,
+    "authors": [
+      "Kweku Andoh Yamoah",
+      "Noah L. Schroeder",
+      "Emmanuel Dorley",
+      "Neha Rani",
+      "Caleb Schutz"
     ]
   }
 ]
