@@ -17,7 +17,7 @@
     "id": "W2603090530",
     "title": "Studying and Constructing Concept Maps: a Meta-Analysis",
     "year": 2017,
-    "cited_by_count": 265,
+    "cited_by_count": 266,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-017-9403-9",
     "is_oa": false,
@@ -99,7 +99,7 @@
     "id": "W4207047326",
     "title": "Refutation Text Facilitates Learning: a Meta-Analysis of Between-Subjects Experiments",
     "year": 2022,
-    "cited_by_count": 79,
+    "cited_by_count": 80,
     "venue": "Educational Psychology Review",
     "doi": "https://doi.org/10.1007/s10648-021-09656-z",
     "is_oa": true,
@@ -112,7 +112,7 @@
     "id": "W3211485050",
     "title": "A Systematic review of instructor presence in instructional videos: Effects on learning and affect",
     "year": 2021,
-    "cited_by_count": 77,
+    "cited_by_count": 78,
     "venue": "Computers and Education Open",
     "doi": "https://doi.org/10.1016/j.caeo.2021.100059",
     "is_oa": true,
@@ -136,6 +136,20 @@
     ]
   },
   {
+    "id": "W4410379016",
+    "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
+    "year": 2025,
+    "cited_by_count": 63,
+    "venue": "Journal of Educational Computing Research",
+    "doi": "https://doi.org/10.1177/07356331251342081",
+    "is_oa": false,
+    "authors": [
+      "Shan Zhang",
+      "Priyadharshini Ganapathy Prasad",
+      "Noah L. Schroeder"
+    ]
+  },
+  {
     "id": "W3080112302",
     "title": "Using Machine Learning to Train a Wearable Device for Measuring Students’ Cognitive Load during Problem-Solving Activities Based on Electrodermal Activity, Body Temperature, and Heart Rate: Development of a Cognitive Load Tracker for Both Personal and Classroom Use",
     "year": 2020,
@@ -149,20 +163,6 @@
       "Josephine Graft",
       "Fan Yang",
       "Reza Sadeghi"
-    ]
-  },
-  {
-    "id": "W4410379016",
-    "title": "Learning About AI: A Systematic Review of Reviews on AI Literacy",
-    "year": 2025,
-    "cited_by_count": 61,
-    "venue": "Journal of Educational Computing Research",
-    "doi": "https://doi.org/10.1177/07356331251342081",
-    "is_oa": false,
-    "authors": [
-      "Shan Zhang",
-      "Priyadharshini Ganapathy Prasad",
-      "Noah L. Schroeder"
     ]
   },
   {
@@ -198,7 +198,7 @@
     "id": "W4388440497",
     "title": "The instructor presence effect and its moderators in instructional video: A series of meta-analyses",
     "year": 2023,
-    "cited_by_count": 54,
+    "cited_by_count": 55,
     "venue": "Educational Research Review",
     "doi": "https://doi.org/10.1016/j.edurev.2023.100564",
     "is_oa": true,
@@ -228,7 +228,7 @@
     "title": "The validity and utility of activity logs as a measure of student engagement",
     "year": 2019,
     "cited_by_count": 47,
-    "venue": "International Conference on Learning Analytics & Knowledge (LAK)",
+    "venue": "International Conference on Learning Analytics and Knowledge (LAK)",
     "doi": "https://doi.org/10.1145/3303772.3303789",
     "is_oa": false,
     "authors": [
@@ -315,6 +315,22 @@
     ]
   },
   {
+    "id": "W4403439632",
+    "title": "Large language models for whole-learner support: opportunities and challenges",
+    "year": 2024,
+    "cited_by_count": 37,
+    "venue": "Frontiers in Artificial Intelligence",
+    "doi": "https://doi.org/10.3389/frai.2024.1460364",
+    "is_oa": true,
+    "authors": [
+      "Amogh Mannekote",
+      "Adam Davies",
+      "Juan D. Guevara Pinto",
+      "Shan Zhang",
+      "Daniel Olds"
+    ]
+  },
+  {
     "id": "W2585343264",
     "title": "Humanizing Instructional Videos in Physics: When Less Is More",
     "year": 2017,
@@ -325,22 +341,6 @@
     "authors": [
       "Noah L. Schroeder",
       "Adrienne L. Traxler"
-    ]
-  },
-  {
-    "id": "W4403439632",
-    "title": "Large language models for whole-learner support: opportunities and challenges",
-    "year": 2024,
-    "cited_by_count": 36,
-    "venue": "Frontiers in Artificial Intelligence",
-    "doi": "https://doi.org/10.3389/frai.2024.1460364",
-    "is_oa": true,
-    "authors": [
-      "Amogh Mannekote",
-      "Adam Davies",
-      "Juan D. Guevara Pinto",
-      "Shan Zhang",
-      "Daniel Olds"
     ]
   },
   {
@@ -361,7 +361,7 @@
     "id": "W4403377683",
     "title": "Designing and Learning With Pedagogical Agents: An Umbrella Review",
     "year": 2024,
-    "cited_by_count": 34,
+    "cited_by_count": 35,
     "venue": "Journal of Educational Computing Research",
     "doi": "https://doi.org/10.1177/07356331241288476",
     "is_oa": true,
@@ -369,6 +369,21 @@
       "Noah L. Schroeder",
       "R. O. Davis",
       "Eunbyul Yang"
+    ]
+  },
+  {
+    "id": "W4405893789",
+    "title": "Education in the era of Neurosymbolic AI",
+    "year": 2024,
+    "cited_by_count": 31,
+    "venue": "Journal of Web Semantics",
+    "doi": "https://doi.org/10.1016/j.websem.2024.100857",
+    "is_oa": true,
+    "authors": [
+      "Chris Davis Jaldi",
+      "Eleni Ilkou",
+      "Noah L. Schroeder",
+      "Cogan Shimizu"
     ]
   },
   {
@@ -382,21 +397,6 @@
     "authors": [
       "Noah L. Schroeder",
       "Scotty D. Craig"
-    ]
-  },
-  {
-    "id": "W4405893789",
-    "title": "Education in the era of Neurosymbolic AI",
-    "year": 2024,
-    "cited_by_count": 29,
-    "venue": "Journal of Web Semantics",
-    "doi": "https://doi.org/10.1016/j.websem.2024.100857",
-    "is_oa": true,
-    "authors": [
-      "Chris Davis Jaldi",
-      "Eleni Ilkou",
-      "Noah L. Schroeder",
-      "Cogan Shimizu"
     ]
   },
   {
@@ -429,7 +429,7 @@
     "id": "W4382985383",
     "title": "Twenty-five Years of Learning with Pedagogical Agents: History, Barriers, and Opportunities",
     "year": 2023,
-    "cited_by_count": 26,
+    "cited_by_count": 27,
     "venue": "TechTrends",
     "doi": "https://doi.org/10.1007/s11528-023-00869-3",
     "is_oa": false,
@@ -859,7 +859,7 @@
     "cited_by_count": 5,
     "venue": null,
     "doi": "https://doi.org/10.13140/rg.2.2.21789.54244",
-    "is_oa": true,
+    "is_oa": false,
     "authors": [
       "Scotty D. Craig",
       "Noah L. Schroeder"
@@ -895,6 +895,22 @@
       "Christina Johnson",
       "Phillip E. McClean",
       "Erika G. Offerdahl"
+    ]
+  },
+  {
+    "id": "W3214257895",
+    "title": "Scaling team training: Using virtual worlds to support learning in massive open online courses",
+    "year": 2021,
+    "cited_by_count": 4,
+    "venue": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
+    "doi": "https://doi.org/10.1177/1071181321651204",
+    "is_oa": false,
+    "authors": [
+      "Robert F. Siegle",
+      "Nancy J. Cooke",
+      "Noah L. Schroeder",
+      "Siyuan Li",
+      "Scotty D. Craig"
     ]
   },
   {
@@ -983,22 +999,6 @@
       "Chris Davis Jaldi",
       "Jessica R. Gladstone",
       "Alexis A. López"
-    ]
-  },
-  {
-    "id": "W3214257895",
-    "title": "Scaling team training: Using virtual worlds to support learning in massive open online courses",
-    "year": 2021,
-    "cited_by_count": 3,
-    "venue": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
-    "doi": "https://doi.org/10.1177/1071181321651204",
-    "is_oa": false,
-    "authors": [
-      "Robert F. Siegle",
-      "Nancy J. Cooke",
-      "Noah L. Schroeder",
-      "Siyuan Li",
-      "Scotty D. Craig"
     ]
   },
   {
@@ -1266,7 +1266,7 @@
     "title": "Usability Assessment for Caregiver Behavior Analysis Using Gaming Technology",
     "year": 2018,
     "cited_by_count": 0,
-    "venue": "Journal of Bioresource Management",
+    "venue": "CORE Scholar (Wright State University)",
     "doi": null,
     "is_oa": true,
     "authors": [
@@ -1354,7 +1354,7 @@
     "title": "Measuring Skin Temperature as an Indicator for Cognitive Flow Using a Wrist-worn Wearable",
     "year": 2024,
     "cited_by_count": 0,
-    "venue": null,
+    "venue": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
     "doi": "https://doi.org/10.1109/embc53108.2024.10782532",
     "is_oa": false,
     "authors": [
@@ -1396,44 +1396,12 @@
     ]
   },
   {
-    "id": "W7142557847",
-    "title": "Fine-Tuning A Large Language Model for Systematic Review Screening",
-    "year": 2026,
-    "cited_by_count": 0,
-    "venue": "arXiv (Cornell University)",
-    "doi": null,
-    "is_oa": true,
-    "authors": [
-      "Kweku Andoh Yamoah",
-      "Noah L. Schroeder",
-      "Emmanuel Dorley",
-      "Neha Rani",
-      "Caleb Schutz"
-    ]
-  },
-  {
     "id": "W7147306120",
     "title": "Interactive Evidence Maps for Visualizing and Understanding Systematic Reviews",
     "year": 2026,
     "cited_by_count": 0,
     "venue": "arXiv (Cornell University)",
     "doi": "https://doi.org/10.48550/arxiv.2603.28802",
-    "is_oa": true,
-    "authors": [
-      "Aditi Mallavarapu",
-      "Rohan Khandare",
-      "Mokshagna Kadiyala",
-      "Neelesh Yaddanapudi",
-      "Noah L. Schroeder"
-    ]
-  },
-  {
-    "id": "W7148176216",
-    "title": "Interactive Evidence Maps for Visualizing and Understanding Systematic Reviews",
-    "year": 2026,
-    "cited_by_count": 0,
-    "venue": "arXiv (Cornell University)",
-    "doi": null,
     "is_oa": true,
     "authors": [
       "Aditi Mallavarapu",
@@ -1495,7 +1463,7 @@
     "title": "Assessing student collaboration with multimodal data and large language models",
     "year": 2026,
     "cited_by_count": 0,
-    "venue": "Computer-supported collaborative learning/The Computer-Supported Collaborative Learning Conference",
+    "venue": "Computer-supported collaborative learning/The Computer-Supported Collaborative Learning Conference",
     "doi": "https://doi.org/10.22318/cscl2026.817551",
     "is_oa": true,
     "authors": [
@@ -1567,6 +1535,20 @@
       "Emmanuel Dorley",
       "Neha Rani",
       "Caleb Schutz"
+    ]
+  },
+  {
+    "id": "W7223692809",
+    "title": "Instructor presence in educational videos: A systematic literature review of eye‐tracking research on learning outcomes and gaze behaviour",
+    "year": 2026,
+    "cited_by_count": 0,
+    "venue": "Review of Education",
+    "doi": "https://doi.org/10.1002/rev3.70237",
+    "is_oa": true,
+    "authors": [
+      "Yen Ying Ng",
+      "Noah L. Schroeder",
+      "Sławomir Wacewicz"
     ]
   }
 ]
